@@ -308,7 +308,7 @@ msgstr "SSL-Zertifikate"
 
 #: domainmod/_includes/email/send-new-password.inc.php:31
 msgid "Your %s Password has been Reset"
-msgstr "Ihr %s-Passwort wurde zurückgesetzt"
+msgstr "Ihr %s Passwort wurde zurückgesetzt"
 
 #: domainmod/_includes/email/send-new-password.inc.php:50
 #: domainmod/_includes/email/send-new-password.inc.php:95
@@ -342,7 +342,7 @@ msgstr "Mit freundlichen Grüßen"
 #: domainmod/_includes/email/send-new-password.inc.php:77
 #: domainmod/_includes/email/send-new-password.inc.php:106
 msgid "You've received this notification because someone requested a password reset for your %s account."
-msgstr "Sie haben diese Benachrichtigung erhalten, weil jemand eine Passwortzurücksetzung für Ihr %s-Konto beantragt hat."
+msgstr "Sie haben diese Benachrichtigung erhalten, weil jemand eine Passwortzurücksetzung für Ihr %s Konto beantragt hat."
 
 #: domainmod/_includes/email/send-new-password.inc.php:79
 #: domainmod/_includes/email/send-new-password.inc.php:108
@@ -371,7 +371,7 @@ msgstr "Klicken Sie hier, um sie auszublenden"
 
 #: domainmod/_includes/layout/footer.inc.php:244
 msgid "%s%s%s is open source software released under the %sGNU/GPL License%s."
-msgstr "%s%s%s%s ist Open-Source-Software, die unter der %sGNU/GPL-Lizenz%s veröffentlicht wird."
+msgstr "%s%s%s ist Open-Source-Software, die unter der %sGNU/GPL-Lizenz%s veröffentlicht wird."
 
 #: domainmod/_includes/layout/footer.inc.php:245
 msgid "Created by"
@@ -694,7 +694,7 @@ msgstr "Klicken Sie hier, um dies zu beheben"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:25
 msgid "If you've already updated all new TLDs, you should %supdate the domain fees system-wide%s (this may take some time)"
-msgstr "Wenn Sie bereits alle neuen TLDs aktualisiert haben, sollten Sie die Domaingebühren systemweit %s aktualisieren (dies kann einige Zeit dauern)"
+msgstr "Wenn Sie bereits alle neuen TLDs aktualisiert haben, sollten %sSie die Domaingebühren systemweit%s aktualisieren (dies kann einige Zeit dauern)"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:33
 msgid "Some of your SSL Certificate Types are missing fees."
@@ -702,7 +702,7 @@ msgstr "Bei einigen Ihrer SSL-Zertifikatstypen fehlen Gebühren."
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:33
 msgid "If you've already updated all new SSL Types, you should %supdate the SSL fees system-wide%s (this may take some time)"
-msgstr "Wenn Sie bereits alle neuen SSL-Typen aktualisiert haben, sollten Sie die SSL-Gebühren systemweit %supdatieren (dies kann einige Zeit dauern)"
+msgstr "Wenn Sie bereits alle neuen SSL-Typen aktualisiert haben, sollten %sSie die SSL-Gebühren systemweit%s updatieren (dies kann einige Zeit dauern)"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:41
 msgid "Debugging mode is currently enabled."
@@ -718,7 +718,7 @@ msgstr "Sie können den Debugging-Modus in %sSettings%s deaktivieren."
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:50
 msgid "Please contact your %s administrator to disable debugging"
-msgstr "Bitte kontaktieren Sie Ihren %s-Administrator, um das Debugging zu deaktivieren."
+msgstr "Bitte kontaktieren Sie Ihren %s Administrator, um das Debugging zu deaktivieren."
 
 #: domainmod/_includes/settings/admin-add-custom-domain-field.inc.php:23
 msgid "Add Custom Domain Field"
@@ -1293,7 +1293,7 @@ msgstr "Die Software auf Ihrem Server ist älter als Ihre Datenbankversion. Dies
 
 #: domainmod/_includes/update.inc.php:91 domainmod/_includes/update.inc.php:92
 msgid "Please logout and log back in, and if the problem persists please contact your %s administrator."
-msgstr "Bitte loggen Sie sich aus und wieder ein, und wenn das Problem weiterhin besteht, wenden Sie sich bitte an Ihren %s-Administrator."
+msgstr "Bitte loggen Sie sich aus und wieder ein, und wenn das Problem weiterhin besteht, wenden Sie sich bitte an Ihren %s Administrator."
 
 #: domainmod/_includes/update.inc.php:98
 msgid "Your Database is already up-to-date"
@@ -1309,7 +1309,7 @@ msgstr "Bitte wählen Sie eine Sicherungsdatei zur Wiederherstellung"
 
 #: domainmod/admin/backup/index.php:105
 msgid "This page enables you to perform complete backups and restores of your %s database."
-msgstr "Diese Seite ermöglicht es Ihnen, vollständige Backups und Wiederherstellungen Ihrer %s-Datenbank durchzuführen."
+msgstr "Diese Seite ermöglicht es Ihnen, vollständige Backups und Wiederherstellungen Ihrer %s Datenbank durchzuführen."
 
 #: domainmod/admin/backup/index.php:106
 msgid "This allows you to export your entire system in a single file so that it can easily be backed up and restored."
@@ -1368,7 +1368,7 @@ msgstr "Warnung"
 
 #: domainmod/admin/backup/index.php:121
 msgid "This will completely delete all of the data in your current %s database."
-msgstr "Dadurch werden alle Daten in Ihrer aktuellen %s-Datenbank vollständig gelöscht."
+msgstr "Dadurch werden alle Daten in Ihrer aktuellen %s Datenbank vollständig gelöscht."
 
 #: domainmod/admin/backup/index.php:123
 msgid "After restoring a database you'll be automatically logged out, at which point you'll be able to login using the accounts in the data you restored."
@@ -2064,7 +2064,7 @@ msgstr "Wenn auf Ihrem Webserver kein WHM/cPanel läuft oder Sie Ihre Webserverd
 
 #: domainmod/admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Durch den Import Ihres/r Webserver(s) in das Data Warehouse werden %snot%s weder Ihre anderen %s-Daten noch die Daten auf Ihrem Webserver verändert."
+msgstr "Durch den Import Ihres/r Webserver(s) in das Data Warehouse werden %snot%s weder Ihre anderen %s Daten noch die Daten auf Ihrem Webserver verändert."
 
 #: domainmod/admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2522,11 +2522,11 @@ msgstr "Dadurch werden alle Warteschlangenlisten und Domänen, unabhängig von i
 
 #: domainmod/admin/scheduler/index.php:53
 msgid "The Task Scheduler allows you to run various system jobs at specified times, which helps keep your %s installation up-to-date and running smoothly, as well as notifies you of important information, such as emailing you to let you know about upcoming Domain & SSL Certificate expirations."
-msgstr "Mit dem Taskplaner können Sie verschiedene Systemaufträge zu bestimmten Zeiten ausführen, was dazu beiträgt, Ihre %s-Installation auf dem neuesten Stand zu halten und reibungslos zu betreiben. Außerdem werden Sie über wichtige Informationen benachrichtigt, z. B. per E-Mail, um Sie über bevorstehende Domain- & SSL-Zertifikatsabläufe zu informieren."
+msgstr "Mit dem Taskplaner können Sie verschiedene Systemaufträge zu bestimmten Zeiten ausführen, was dazu beiträgt, Ihre %s Installation auf dem neuesten Stand zu halten und reibungslos zu betreiben. Außerdem werden Sie über wichtige Informationen benachrichtigt, z. B. per E-Mail, um Sie über bevorstehende Domain- & SSL-Zertifikatsabläufe zu informieren."
 
 #: domainmod/admin/scheduler/index.php:54
 msgid "In order to use the Task Scheduler you must setup a cron/scheduled job on your web server to execute the file %scron.php%s, which is located in the root folder of your %s installation."
-msgstr "Um den Taskplaner zu verwenden, müssen Sie einen cron/scheduled Job auf Ihrem Webserver einrichten, um die Datei %scron.php%s auszuführen, die sich im Stammordner Ihrer %s-Installation befindet."
+msgstr "Um den Taskplaner zu verwenden, müssen Sie einen cron/scheduled Job auf Ihrem Webserver einrichten, um die Datei %scron.php%s auszuführen, die sich im Stammordner Ihrer %s Installation befindet."
 
 #: domainmod/admin/scheduler/index.php:57
 msgid "This file should be executed %severy 10 minutes%s, and once it's setup the Task Scheduler will be live."
@@ -2686,7 +2686,7 @@ msgstr "Die Systemeinstellungen wurden aktualisiert"
 
 #: domainmod/admin/settings/index.php:117
 msgid "Enter the full URL of your %s installation"
-msgstr "Geben Sie die vollständige URL Ihrer %s-Installation ein"
+msgstr "Geben Sie die vollständige URL Ihrer %s Installation ein"
 
 #: domainmod/admin/settings/index.php:118
 msgid "Enter the system email address"
@@ -2698,15 +2698,15 @@ msgstr "Geben Sie die Anzahl der Tage ein, die in Verfalls-E-Mails angezeigt wer
 
 #: domainmod/admin/settings/index.php:165
 msgid "Full %s URL"
-msgstr "Vollständige %s-URL"
+msgstr "Vollständige %s URL"
 
 #: domainmod/admin/settings/index.php:165
 msgid "Enter the full URL of your %s installation, excluding the trailing slash (Example: http://example.com/domainmod)"
-msgstr "Geben Sie die vollständige URL Ihrer %s-Installation ohne den abschließenden Schrägstrich ein (Beispiel: http://example.com/domainmod)"
+msgstr "Geben Sie die vollständige URL Ihrer %s Installation ohne den abschließenden Schrägstrich ein (Beispiel: http://example.com/domainmod)"
 
 #: domainmod/admin/settings/index.php:166
 msgid "This should be a valid email address that is monitored by the %s System Administrator. It will be used in various system locations, such as the REPLY-TO address for emails sent by %s."
-msgstr "Dies sollte eine gültige E-Mail-Adresse sein, die vom %s-Systemadministrator überwacht wird. Sie wird an verschiedenen Systemstandorten verwendet, wie z.B. die REPLY-TO-Adresse für E-Mails, die von %s gesendet werden."
+msgstr "Dies sollte eine gültige E-Mail-Adresse sein, die vom %s Systemadministrator überwacht wird. Sie wird an verschiedenen Systemstandorten verwendet, wie z.B. die REPLY-TO-Adresse für E-Mails, die von %s gesendet werden."
 
 #: domainmod/admin/settings/index.php:167
 msgid "Expiration Days to Display"
@@ -2784,11 +2784,11 @@ msgstr "Dadurch können Sie PHP-Fehler in einer lokalen Datei namens domainmod.l
 
 #: domainmod/admin/settings/index.php:193
 msgid "Only enable this feature temporarily for troubleshooting, and if you're asked to by %s support."
-msgstr "Aktivieren Sie diese Funktion nur vorübergehend zur Fehlerbehebung und wenn Sie vom %s-Support dazu aufgefordert werden."
+msgstr "Aktivieren Sie diese Funktion nur vorübergehend zur Fehlerbehebung und wenn Sie vom %s Support dazu aufgefordert werden."
 
 #: domainmod/admin/settings/index.php:194
 msgid "Leaving it enabled all the time will cause logged errors to be visible to everyone who knows the URL to your %s installation, which could allow them to compromise your system."
-msgstr "Wenn Sie diese Option ständig aktiviert lassen, werden protokollierte Fehler für jeden, der die URL zu Ihrer %s-Installation kennt, sichtbar, wodurch Ihr System kompromittiert werden könnte."
+msgstr "Wenn Sie diese Option ständig aktiviert lassen, werden protokollierte Fehler für jeden, der die URL zu Ihrer %s Installation kennt, sichtbar, wodurch Ihr System kompromittiert werden könnte."
 
 #: domainmod/admin/settings/index.php:202
 msgid "SMTP Server Settings"
@@ -2800,7 +2800,7 @@ msgstr "SMTP-Server verwenden"
 
 #: domainmod/admin/settings/index.php:206
 msgid "If the instance of PHP running on your %s server isn't configured to send mail, you can use an external SMTP server to send system emails."
-msgstr "Wenn die PHP-Instanz, die auf Ihrem %s-Server läuft, nicht für den Versand von E-Mails konfiguriert ist, können Sie einen externen SMTP-Server für den Versand von System-E-Mails verwenden."
+msgstr "Wenn die PHP-Instanz, die auf Ihrem %s Server läuft, nicht für den Versand von E-Mails konfiguriert ist, können Sie einen externen SMTP-Server für den Versand von System-E-Mails verwenden."
 
 #: domainmod/admin/settings/index.php:207 domainmod/admin/users/edit.php:405
 #: domainmod/admin/users/edit.php:411 domainmod/admin/users/edit.php:416
@@ -2935,7 +2935,7 @@ msgstr "Benutzer %s %s (%s / %s) hinzugefügt."
 
 #: domainmod/admin/users/add.php:168
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "Sie können die oben genannten Zugangsdaten entweder manuell per E-Mail an den Benutzer senden, oder Sie können %click here%s anklicken, damit %s sie Ihnen per E-Mail zuschickt."
+msgstr "Sie können die oben genannten Zugangsdaten entweder manuell per E-Mail an den Benutzer senden, oder Sie können %sclick here%s anklicken, damit %s sie Ihnen per E-Mail zuschickt."
 
 #: domainmod/admin/users/add.php:170
 msgid "Use the below form to customize the new user's account."
@@ -4450,13 +4450,13 @@ msgstr "Die folgenden Bereiche wurden hinzugefügt"
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
 msgstr[0] "Der folgende Bereich wurde für %s Jahr erneuert"
-msgstr[1] ""
+msgstr[1] "Der folgende Bereich wurde für %s Jahr erneuert"
 
 #: domainmod/bulk/index.php:2020
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
 msgstr[0] "Der folgende Bereich wurde für %s Jahr vollständig erneuert"
-msgstr[1] ""
+msgstr[1] "Der folgende Bereich wurde für %s Jahr vollständig erneuert"
 
 #: domainmod/bulk/index.php:2022
 msgid "The following domains were marked as expired"
@@ -4902,17 +4902,17 @@ msgstr "Keine Benutzer sind abonniert"
 #: domainmod/classes/DomainMOD/Email.php:281
 #: domainmod/classes/DomainMOD/Email.php:290
 msgid "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
-msgstr "Unten finden Sie eine Liste aller Domains & SSL-Zertifikate in %s, die in den nächsten %s-Tagen ablaufen."
+msgstr "Unten finden Sie eine Liste aller Domains & SSL-Zertifikate in %s, die in den nächsten %s Tagen ablaufen."
 
 #: domainmod/classes/DomainMOD/Email.php:283
 #: domainmod/classes/DomainMOD/Email.php:291
 msgid "If you would like to change the frequency of this email notification please contact your %s administrator."
-msgstr "Wenn Sie die Häufigkeit dieser E-Mail-Benachrichtigung ändern möchten, wenden Sie sich bitte an Ihren %s-Administrator."
+msgstr "Wenn Sie die Häufigkeit dieser E-Mail-Benachrichtigung ändern möchten, wenden Sie sich bitte an Ihren %s Administrator."
 
 #: domainmod/classes/DomainMOD/Email.php:383
 #: domainmod/classes/DomainMOD/Email.php:399
 msgid "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
-msgstr "Sie haben diese E-Mail erhalten, weil Sie derzeit für den Erhalt von Ablaufbenachrichtigungen von der %s-Installation abonniert sind, die sich befindet unter"
+msgstr "Sie haben diese E-Mail erhalten, weil Sie derzeit für den Erhalt von Ablaufbenachrichtigungen von der %s Installation abonniert sind, die sich befindet unter"
 
 #: domainmod/classes/DomainMOD/Email.php:383
 #: domainmod/classes/DomainMOD/Email.php:400
@@ -4954,7 +4954,7 @@ msgstr "Datenbank-Upgrade verfügbar"
 
 #: domainmod/classes/DomainMOD/Notice.php:32
 msgid "Your %s software was recently updated, so we now need to upgrade your database."
-msgstr "Ihre %s-Software wurde kürzlich aktualisiert, so dass wir jetzt Ihre Datenbank aktualisieren müssen."
+msgstr "Ihre %s Software wurde kürzlich aktualisiert, so dass wir jetzt Ihre Datenbank aktualisieren müssen."
 
 #: domainmod/classes/DomainMOD/Notice.php:33
 #: domainmod/classes/DomainMOD/Notice.php:38
@@ -4968,7 +4968,7 @@ msgstr "Bitte lesen"
 
 #: domainmod/classes/DomainMOD/Notice.php:35
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
-msgstr "Wir %sstrongly%s empfehlen, dass Sie ein Backup Ihres %s-Installationsverzeichnisses und Ihrer Datenbank erstellen, bevor Sie mit dem Upgrade fortfahren."
+msgstr "Wir %sstrongly%s empfehlen, dass Sie ein Backup Ihres %s Installationsverzeichnisses und Ihrer Datenbank erstellen, bevor Sie mit dem Upgrade fortfahren."
 
 #: domainmod/classes/DomainMOD/Notice.php:36
 msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
@@ -5357,7 +5357,7 @@ msgstr "Gefundene Domains"
 
 #: domainmod/domains/index.php:953
 msgid "Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see the %sAdding Domains%s section of the User Guide for more options."
-msgstr "Fügen Sie eine Domäne %manually%s hinzu, fügen Sie Domänen über die %sDomain Queue%s hinzu oder lesen Sie den Abschnitt %sAdding Domains%s im Benutzerhandbuch für weitere Optionen."
+msgstr "Fügen Sie eine Domäne %smanually%s hinzu, fügen Sie Domänen über die %sDomain Queue%s hinzu oder lesen Sie den Abschnitt %sAdding Domains%s im Benutzerhandbuch für weitere Optionen."
 
 #: domainmod/domains/index.php:999 domainmod/ssl/index.php:645
 msgid "Advanced Filtering"
@@ -5480,11 +5480,11 @@ msgstr "Die unten aufgeführten Domänen befinden sich im Segment %s, und sie si
 
 #: domainmod/domains/results.php:302
 msgid "The below domains are in the segment %s, and they are stored in your %s database, but they were filtered out based on your search criteria."
-msgstr "Die unten aufgeführten Domains befinden sich im Segment %s, und sie sind in Ihrer %s-Datenbank gespeichert, aber sie wurden auf der Grundlage Ihrer Suchkriterien herausgefiltert."
+msgstr "Die unten aufgeführten Domains befinden sich im Segment %s, und sie sind in Ihrer %s Datenbank gespeichert, aber sie wurden auf der Grundlage Ihrer Suchkriterien herausgefiltert."
 
 #: domainmod/domains/results.php:304
 msgid "The below domains are in the segment %s, and they are not in your %s database."
-msgstr "Die unten aufgeführten Domains befinden sich im Segment %s, und sie sind nicht in Ihrer %s-Datenbank."
+msgstr "Die unten aufgeführten Domains befinden sich im Segment %s, und sie sind nicht in Ihrer %s Datenbank."
 
 #: domainmod/domains/results.php:309 domainmod/domains/results.php:311
 #: domainmod/domains/results.php:313
@@ -5750,7 +5750,7 @@ msgstr "Domain-Liste"
 
 #: domainmod/queue/add.php:509
 msgid "The %s API has a domain list feature, so you don't even have to supply a list of the domains you want to import, %s will retrieve them for you automatically."
-msgstr "Die %s-API verfügt über eine Domainlistenfunktion, so dass Sie nicht einmal eine Liste der zu importierenden Domains angeben müssen, %s ruft sie automatisch für Sie ab."
+msgstr "Die %s API verfügt über eine Domainlistenfunktion, so dass Sie nicht einmal eine Liste der zu importierenden Domains angeben müssen, %s ruft sie automatisch für Sie ab."
 
 #: domainmod/queue/add.php:511
 msgid "Optional"
@@ -5912,7 +5912,7 @@ msgstr "hinzugefügt."
 
 #: domainmod/queue/intro.php:48
 msgid "The Domain Queue allows you to use your domain registrar's API to automatically import the details of your domains, such as expiry date and DNS servers, which are then added to your main %s database along with your domains."
-msgstr "Die Domain-Warteschlange ermöglicht es Ihnen, die API Ihrer Domain-Registrierungsstelle zu verwenden, um die Details Ihrer Domains, wie z. B. Ablaufdatum und DNS-Server, automatisch zu importieren, die dann zusammen mit Ihren Domains zu Ihrer Haupt-%s-Datenbank hinzugefügt werden."
+msgstr "Die Domain-Warteschlange ermöglicht es Ihnen, die API Ihrer Domain-Registrierungsstelle zu verwenden, um die Details Ihrer Domains, wie z. B. Ablaufdatum und DNS-Server, automatisch zu importieren, die dann zusammen mit Ihren Domains zu Ihrer Haupt %s Datenbank hinzugefügt werden."
 
 #: domainmod/queue/intro.php:49
 msgid "All you have to do is choose the registrar account, supply a list of domains, and the rest of the work is done for you. Depending on the registrar, you may not even have to supply the list of domains."
@@ -6228,7 +6228,7 @@ msgstr "Suspendierte Konten (%s)"
 
 #: domainmod/reporting/index.php:51
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Bevor Sie Berichte ausführen, sollten Sie die Konvertierungsraten %supdatieren."
+msgstr "Bevor Sie Berichte ausführen, sollten %sSie die Konvertierungsraten updatieren%s."
 
 #: domainmod/reporting/index.php:53
 msgid "Domain Reports"
@@ -6465,7 +6465,7 @@ msgstr "Segmentdomänen (eine pro Zeile)"
 
 #: domainmod/segments/edit.php:195
 msgid "Segment %s update"
-msgstr "Segment %s-Aktualisierung"
+msgstr "Segment %s Aktualisierung"
 
 #: domainmod/segments/edit.php:273
 msgid "Segment %s deleted"
