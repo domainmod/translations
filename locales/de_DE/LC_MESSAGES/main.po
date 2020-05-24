@@ -5106,7 +5106,7 @@ msgstr "Verkaufte Domains"
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
 msgstr[0] "Am nächsten Tag ablaufend"
-msgstr[1] ""
+msgstr[1] "Am nächsten Tag ablaufend"
 
 #: domainmod/dashboard/index.php:204 domainmod/queue/index.php:122
 #: domainmod/queue/index.php:221 domainmod/queue/index.php:567
