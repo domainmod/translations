@@ -28,7 +28,7 @@ msgstr ""
 #: domainmod/admin/users/index.php:66 domainmod/admin/users/index.php:199
 #: domainmod/classes/DomainMOD/Smtp.php:61
 msgid "Admin"
-msgstr "Admin test"
+msgstr "Admin"
 
 #: domainmod/_includes/breadcrumbs/admin-add-custom-domain-field.inc.php:23
 #: domainmod/_includes/breadcrumbs/admin-edit-custom-domain-field.inc.php:23
