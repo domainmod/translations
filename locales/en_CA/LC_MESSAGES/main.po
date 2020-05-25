@@ -307,7 +307,7 @@ msgstr "URL"
 #: _includes/email/send-new-password.inc.php:55
 #: _includes/email/send-new-password.inc.php:98
 msgid "Your Username"
-msgstr "Your Username "
+msgstr "Your Username"
 
 #: _includes/email/send-new-password.inc.php:56
 #: _includes/email/send-new-password.inc.php:99
