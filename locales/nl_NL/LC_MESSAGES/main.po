@@ -3,10 +3,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
+"X-Generator: Poedit 2.3.1\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -483,7 +487,7 @@ msgstr "Nieuws"
 
 #: _includes/layout/menu-main.inc.php:104
 msgid "Contribute"
-msgstr "Bijdragen:"
+msgstr "Bijdragen"
 
 #: _includes/layout/pagination-large-mode.inc.php:26
 msgid "(Listing %s of %s)"
@@ -645,7 +649,7 @@ msgstr "U kunt de debuggingmodus uitschakelen in %sSettings%s."
 
 #: _includes/layout/table-maintenance.inc.php:50
 msgid "Please contact your %s administrator to disable debugging"
-msgstr "Neem contact op met uw %s beheerder om het debuggen uit te schakelen."
+msgstr "Neem contact op met uw %s beheerder om het debuggen uit te schakelen"
 
 #: _includes/settings/admin-add-custom-domain-field.inc.php:23
 msgid "Add Custom Domain Field"
@@ -1193,7 +1197,7 @@ msgstr "Debuggen"
 
 #: _includes/settings/system-notice.inc.php:23
 msgid "Notice"
-msgstr "Let op:"
+msgstr "Let op"
 
 #: _includes/update.inc.php:85 _includes/update.inc.php:86
 msgid "Your database has been upgraded"
@@ -1241,7 +1245,7 @@ msgstr "Dit proces maakt een back-up van de gegevens die zijn opgeslagen in uw d
 
 #: admin/backup/index.php:111 admin/dw/intro.php:53 queue/intro.php:69
 msgid "Note"
-msgstr "Noot:"
+msgstr "Noot"
 
 #: admin/backup/index.php:111
 msgid "Before you can use Backup & Restore you must update the permissions on the"
@@ -1902,7 +1906,7 @@ msgstr "Er wordt veel werk gedaan op de achtergrond tijdens het bouwen, en vaker
 
 #: admin/dw/intro.php:60
 msgid "After you've setup the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
-msgstr "Nadat u de cron-job hebt ingesteld, kunt u de planning van het Data Warehouse beheren via %s Task Scheduler."
+msgstr "Nadat u de cron-job hebt ingesteld, kunt u de planning van het Data Warehouse beheren via %s Task Scheduler"
 
 #: admin/dw/intro.php:62
 msgid "Supported Data"
@@ -2740,7 +2744,7 @@ msgstr "E-mailadres"
 
 #: admin/users/edit.php:80
 msgid "You don't have permissions to edit the primary administrator account"
-msgstr "U heeft geen rechten om de primaire beheerdersaccount te bewerken."
+msgstr "U heeft geen rechten om de primaire beheerdersaccount te bewerken"
 
 #: admin/users/edit.php:232
 msgid "User %s %s (%s) updated"
@@ -3339,19 +3343,19 @@ msgstr "Voer de naam van de eigenaar in"
 
 #: assets/edit/account-owner.php:172
 msgid "This Owner has registrar accounts associated with it and cannot be deleted"
-msgstr "Deze Eigenaar heeft registraraccounts die aan hem gekoppeld zijn en kan niet worden verwijderd."
+msgstr "Deze Eigenaar heeft registraraccounts die aan hem gekoppeld zijn en kan niet worden verwijderd"
 
 #: assets/edit/account-owner.php:176
 msgid "This Owner has domains associated with it and cannot be deleted"
-msgstr "Deze Eigenaar heeft domeinen die eraan verbonden zijn en kan niet worden verwijderd."
+msgstr "Deze Eigenaar heeft domeinen die eraan verbonden zijn en kan niet worden verwijderd"
 
 #: assets/edit/account-owner.php:180
 msgid "This Owner has SSL accounts associated with it and cannot be deleted"
-msgstr "Aan deze Eigenaar zijn SSL-accounts gekoppeld en deze kunnen niet worden verwijderd."
+msgstr "Aan deze Eigenaar zijn SSL-accounts gekoppeld en deze kunnen niet worden verwijderd"
 
 #: assets/edit/account-owner.php:184
 msgid "This Owner has SSL certificates associated with it and cannot be deleted"
-msgstr "Deze Eigenaar heeft SSL-certificaten bij zich en kan niet worden verwijderd."
+msgstr "Deze Eigenaar heeft SSL-certificaten bij zich en kan niet worden verwijderd"
 
 #: assets/edit/account-owner.php:195
 msgid "Owner %s deleted"
@@ -3363,7 +3367,7 @@ msgstr "Categorie %s bijgewerkt"
 
 #: assets/edit/category.php:123
 msgid "This Category has domains associated with it and cannot be deleted"
-msgstr "Aan deze categorie zijn domeinen verbonden die niet kunnen worden geschrapt."
+msgstr "Aan deze categorie zijn domeinen verbonden die niet kunnen worden geschrapt"
 
 #: assets/edit/category.php:133
 msgid "Category %s deleted"
@@ -3387,7 +3391,7 @@ msgstr "Voer de tweede DNS-server in"
 
 #: assets/edit/dns.php:216
 msgid "This DNS Profile has domains associated with it and cannot be deleted"
-msgstr "Aan dit DNS-profiel zijn domeinen verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan dit DNS-profiel zijn domeinen verbonden en deze kunnen niet worden verwijderd"
 
 #: assets/edit/dns.php:226
 msgid "DNS Profile %s deleted"
@@ -3399,7 +3403,7 @@ msgstr "Web Host %s bijgewerkt"
 
 #: assets/edit/host.php:121
 msgid "This Web Host has domains associated with it and cannot be deleted"
-msgstr "Aan deze webhost zijn domeinen verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan deze webhost zijn domeinen verbonden en deze kunnen niet worden verwijderd"
 
 #: assets/edit/host.php:131
 msgid "Web Host %s deleted"
@@ -3425,7 +3429,7 @@ msgstr "Voer het IP-adres in"
 
 #: assets/edit/ip-address.php:126
 msgid "This IP Address has domains associated with it and cannot be deleted"
-msgstr "Aan dit IP-adres zijn domeinen verbonden die niet kunnen worden verwijderd."
+msgstr "Aan dit IP-adres zijn domeinen verbonden die niet kunnen worden verwijderd"
 
 #: assets/edit/ip-address.php:136
 msgid "IP Address %s (%s) deleted"
@@ -3446,7 +3450,7 @@ msgstr "Kies de griffier"
 
 #: assets/edit/registrar-account.php:207
 msgid "This Registrar Account has domains associated with it and cannot be deleted"
-msgstr "Aan deze Registrar Account zijn domeinen verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan deze Registrar Account zijn domeinen verbonden en deze kunnen niet worden verwijderd"
 
 #: assets/edit/registrar-account.php:244
 msgid "Registrar Account %s (%s, %s) deleted"
@@ -3518,11 +3522,11 @@ msgstr "Voer de naam van de griffier in"
 
 #: assets/edit/registrar.php:144
 msgid "This Registrar has Registrar Accounts associated with it and cannot be deleted"
-msgstr "Deze Registrar heeft Registrar Accounts gekoppeld en kan niet worden verwijderd."
+msgstr "Deze Registrar heeft Registrar Accounts gekoppeld en kan niet worden verwijderd"
 
 #: assets/edit/registrar.php:145
 msgid "This Registrar has domains associated with it and cannot be deleted"
-msgstr "Deze Registrar heeft domeinen die eraan verbonden zijn en kan niet worden verwijderd."
+msgstr "Deze Registrar heeft domeinen die eraan verbonden zijn en kan niet worden verwijderd"
 
 #: assets/edit/registrar.php:175
 msgid "Registrar %s deleted"
@@ -3538,7 +3542,7 @@ msgstr "SSL-rekening %s (%s, %s) bijgewerkt"
 
 #: assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
-msgstr "Aan deze SSL-account zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan deze SSL-account zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd"
 
 #: assets/edit/ssl-provider-account.php:225
 msgid "SSL Account %s (%s, %s) deleted"
@@ -3555,11 +3559,11 @@ msgstr "SSL-aanbieder %s bijgewerkt"
 
 #: assets/edit/ssl-provider.php:144
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
-msgstr "Aan deze SSL-aanbieder zijn Accounts gekoppeld en deze kunnen niet worden verwijderd."
+msgstr "Aan deze SSL-aanbieder zijn Accounts gekoppeld en deze kunnen niet worden verwijderd"
 
 #: assets/edit/ssl-provider.php:145
 msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
-msgstr "Deze SSL-provider heeft SSL-certificaten die eraan verbonden zijn en kan niet worden verwijderd."
+msgstr "Deze SSL-provider heeft SSL-certificaten die eraan verbonden zijn en kan niet worden verwijderd"
 
 #: assets/edit/ssl-provider.php:175
 msgid "SSL Provider %s deleted"
@@ -3575,7 +3579,7 @@ msgstr "Voer de naam van het type in"
 
 #: assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr "Aan dit type zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan dit type zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd"
 
 #: assets/edit/ssl-type.php:128
 msgid "SSL Type %s deleted"
@@ -4550,19 +4554,19 @@ msgstr "Kritische waarschuwing"
 
 #: classes/DomainMOD/Notice.php:33 classes/DomainMOD/Notice.php:38
 msgid "Please Read"
-msgstr "Lees a.u.b."
+msgstr "Lees alstublieft"
 
 #: classes/DomainMOD/Notice.php:35
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
-msgstr "We raden %sstrongly%s aan dat u een back-up maakt van uw %s installatiemap en database voordat u doorgaat met de upgrade."
+msgstr "We raden %sstrongly%s aan dat u een back-up maakt van uw %s installatiemap en database voordat u doorgaat met de upgrade"
 
 #: classes/DomainMOD/Notice.php:36
 msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
-msgstr "Als er iets misgaat tijdens de upgrade en u hebt geen back-up gemaakt, kan het zijn dat er geen manier is om uw gegevens te herstellen."
+msgstr "Als er iets misgaat tijdens de upgrade en u hebt geen back-up gemaakt, kan het zijn dat er geen manier is om uw gegevens te herstellen"
 
 #: classes/DomainMOD/Notice.php:37
 msgid "You should also make a note of your current version (%s), as this may be required by the recovery process"
-msgstr "U moet ook een aantekening maken van uw huidige versie (%s), aangezien dit nodig kan zijn voor het herstelproces."
+msgstr "U moet ook een aantekening maken van uw huidige versie (%s), aangezien dit nodig kan zijn voor het herstelproces"
 
 #: classes/DomainMOD/Notice.php:40
 msgid "Please be patient, this may take a moment. The older your current version is, the longer the upgrade will take."
@@ -4574,15 +4578,15 @@ msgstr "Upgrade Database"
 
 #: classes/DomainMOD/Scheduler.php:112
 msgid "Disable"
-msgstr "Schakel  uit."
+msgstr "Schakel  uit"
 
 #: classes/DomainMOD/Scheduler.php:112 classes/DomainMOD/Scheduler.php:115
 msgid "Run Now"
-msgstr "Nu lopen."
+msgstr "Nu lopen"
 
 #: classes/DomainMOD/Scheduler.php:115
 msgid "Enable"
-msgstr "Schakel  in."
+msgstr "Schakel  in"
 
 #: classes/DomainMOD/Smtp.php:67
 msgid "SMTP"
@@ -4635,7 +4639,7 @@ msgstr "Klik hier voor de upgrade-instructies"
 
 #: classes/DomainMOD/System.php:251
 msgid "You must be logged in to access this area"
-msgstr "U moet ingelogd zijn om toegang te krijgen tot dit gebied."
+msgstr "U moet ingelogd zijn om toegang te krijgen tot dit gebied"
 
 #: classes/DomainMOD/System.php:260
 msgid "%s is already installed"
@@ -4772,7 +4776,7 @@ msgstr "Domein %s bijgewerkt"
 
 #: domains/edit.php:357
 msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
-msgstr "Aan dit domein zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd."
+msgstr "Aan dit domein zijn SSL-certificaten verbonden en deze kunnen niet worden verwijderd"
 
 #: domains/edit.php:383
 msgid "Domain %s deleted"
@@ -5191,11 +5195,11 @@ msgstr "Data Warehouse bouwen"
 
 #: install/go.php:1228
 msgid "%s has been successfully installed and you should now delete the %s folder"
-msgstr "%s is met succes geïnstalleerd en u moet nu de %s map verwijderen."
+msgstr "%s is met succes geïnstalleerd en u moet nu de %s map verwijderen"
 
 #: install/go.php:1228
 msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
-msgstr "De standaard gebruikersnaam en het wachtwoord zijn %s, en u wordt gevraagd om het wachtwoord te wijzigen na het inloggen."
+msgstr "De standaard gebruikersnaam en het wachtwoord zijn %s, en u wordt gevraagd om het wachtwoord te wijzigen na het inloggen"
 
 #: install/language/index.php:64
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
@@ -5275,7 +5279,7 @@ msgstr "Voordat u domeinen aan %s kunt toevoegen met behulp van de Domeinwachtri
 
 #: queue/add.php:393
 msgid "Ensure that the registrar has an API and that your account has been granted access to it"
-msgstr "Zorg ervoor dat de registrar een API heeft en dat uw account toegang heeft gekregen tot deze API."
+msgstr "Zorg ervoor dat de registrar een API heeft en dat uw account toegang heeft gekregen tot deze API"
 
 #: queue/add.php:394
 msgid "Enable API Support on the %sregistrar asset%s"
@@ -5460,7 +5464,7 @@ msgstr "Domeinen exporteren"
 
 #: queue/index.php:547 queue/index.php:648
 msgid "Added"
-msgstr "Toegevoegd:"
+msgstr "Toegevoegd"
 
 #: queue/intro.php:48
 msgid "The Domain Queue allows you to use your domain registrar's API to automatically import the details of your domains, such as expiry date and DNS servers, which are then added to your main %s database along with your domains."
@@ -5624,22 +5628,22 @@ msgstr "Op jaarbasis"
 #: reporting/domains/cost-by-month.php:190
 #: reporting/domains/cost-by-month.php:305 reporting/ssl/cost-by-month.php:190
 msgid "January"
-msgstr "januari"
+msgstr "Januar"
 
 #: reporting/domains/cost-by-month.php:191
 #: reporting/domains/cost-by-month.php:306 reporting/ssl/cost-by-month.php:191
 msgid "February"
-msgstr "februari"
+msgstr "Februari"
 
 #: reporting/domains/cost-by-month.php:192
 #: reporting/domains/cost-by-month.php:307 reporting/ssl/cost-by-month.php:192
 msgid "March"
-msgstr "maart"
+msgstr "Maart"
 
 #: reporting/domains/cost-by-month.php:193
 #: reporting/domains/cost-by-month.php:308 reporting/ssl/cost-by-month.php:193
 msgid "April"
-msgstr "april"
+msgstr "April"
 
 #: reporting/domains/cost-by-month.php:194
 #: reporting/domains/cost-by-month.php:309 reporting/ssl/cost-by-month.php:194
@@ -5649,37 +5653,37 @@ msgstr "Mei"
 #: reporting/domains/cost-by-month.php:195
 #: reporting/domains/cost-by-month.php:310 reporting/ssl/cost-by-month.php:195
 msgid "June"
-msgstr "juni"
+msgstr "Juni"
 
 #: reporting/domains/cost-by-month.php:196
 #: reporting/domains/cost-by-month.php:311 reporting/ssl/cost-by-month.php:196
 msgid "July"
-msgstr "juli"
+msgstr "Juli"
 
 #: reporting/domains/cost-by-month.php:197
 #: reporting/domains/cost-by-month.php:312 reporting/ssl/cost-by-month.php:197
 msgid "August"
-msgstr "augustus"
+msgstr "Augustus"
 
 #: reporting/domains/cost-by-month.php:198
 #: reporting/domains/cost-by-month.php:313 reporting/ssl/cost-by-month.php:198
 msgid "September"
-msgstr "september"
+msgstr "September"
 
 #: reporting/domains/cost-by-month.php:199
 #: reporting/domains/cost-by-month.php:314 reporting/ssl/cost-by-month.php:199
 msgid "October"
-msgstr "oktober"
+msgstr "Oktober"
 
 #: reporting/domains/cost-by-month.php:200
 #: reporting/domains/cost-by-month.php:315 reporting/ssl/cost-by-month.php:200
 msgid "November"
-msgstr "november"
+msgstr "November"
 
 #: reporting/domains/cost-by-month.php:201
 #: reporting/domains/cost-by-month.php:316 reporting/ssl/cost-by-month.php:201
 msgid "December"
-msgstr "december"
+msgstr "December"
 
 #: reporting/domains/cost-by-owner.php:111
 msgid "domain_cost_by_owner_report_all"
@@ -6275,4 +6279,3 @@ msgstr "Uitloggen"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Ga verder met de installatie"
-

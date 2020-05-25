@@ -3,10 +3,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
+"X-Generator: Poedit 2.3.1\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -1902,7 +1906,7 @@ msgstr "Podczas budowania jest dużo pracy w tle, a często przeglądarka intern
 
 #: admin/dw/intro.php:60
 msgid "After you've setup the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
-msgstr "Po skonfigurowaniu zadania crona będziesz mógł zarządzać harmonogramem Hurtowni Danych poprzez %s Task Scheduler."
+msgstr "Po skonfigurowaniu zadania crona będziesz mógł zarządzać harmonogramem Hurtowni Danych poprzez %s Task Scheduler"
 
 #: admin/dw/intro.php:62
 msgid "Supported Data"
@@ -2881,7 +2885,7 @@ msgstr "Nowe hasło dla %s to %s"
 
 #: admin/users/reset-password.php:106
 msgid "The password has been reset and emailed to the account holder"
-msgstr "Hasło zostało zresetowane i przesłane pocztą elektroniczną do posiadacza konta."
+msgstr "Hasło zostało zresetowane i przesłane pocztą elektroniczną do posiadacza konta"
 
 #: assets/account-owners.php:51
 msgid "account_owner_list"
@@ -3339,19 +3343,19 @@ msgstr "Wpisz nazwisko właściciela"
 
 #: assets/edit/account-owner.php:172
 msgid "This Owner has registrar accounts associated with it and cannot be deleted"
-msgstr "Właściciel ten posiada powiązane z nim konta rejestratora i nie może ich usunąć."
+msgstr "Właściciel ten posiada powiązane z nim konta rejestratora i nie może ich usunąć"
 
 #: assets/edit/account-owner.php:176
 msgid "This Owner has domains associated with it and cannot be deleted"
-msgstr "Właściciel ten posiada powiązane z nim domeny, których nie można usunąć."
+msgstr "Właściciel ten posiada powiązane z nim domeny, których nie można usuną"
 
 #: assets/edit/account-owner.php:180
 msgid "This Owner has SSL accounts associated with it and cannot be deleted"
-msgstr "Właściciel ten posiada powiązane z nim konta SSL i nie może ich usunąć."
+msgstr "Właściciel ten posiada powiązane z nim konta SSL i nie może ich usunąć"
 
 #: assets/edit/account-owner.php:184
 msgid "This Owner has SSL certificates associated with it and cannot be deleted"
-msgstr "Właściciel ten posiada powiązane z nim certyfikaty SSL i nie może ich usunąć."
+msgstr "Właściciel ten posiada powiązane z nim certyfikaty SSL i nie może ich usunąć"
 
 #: assets/edit/account-owner.php:195
 msgid "Owner %s deleted"
@@ -3518,7 +3522,7 @@ msgstr "Wpisz nazwisko rejestratora"
 
 #: assets/edit/registrar.php:144
 msgid "This Registrar has Registrar Accounts associated with it and cannot be deleted"
-msgstr "Ten Rejestrator posiada powiązane z nim Konta Rejestratora i nie można go usunąć."
+msgstr "Ten Rejestrator posiada powiązane z nim Konta Rejestratora i nie można go usunąć"
 
 #: assets/edit/registrar.php:145
 msgid "This Registrar has domains associated with it and cannot be deleted"
@@ -3538,7 +3542,7 @@ msgstr "Konto SSL %s (%s, %s) zaktualizowane"
 
 #: assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
-msgstr "To konto SSL posiada powiązane z nim certyfikaty SSL i nie może zostać usunięte."
+msgstr "To konto SSL posiada powiązane z nim certyfikaty SSL i nie może zostać usunięte"
 
 #: assets/edit/ssl-provider-account.php:225
 msgid "SSL Account %s (%s, %s) deleted"
@@ -3555,11 +3559,11 @@ msgstr "Dostawca oświetlenia półprzewodnikowego Aktualizacja %s"
 
 #: assets/edit/ssl-provider.php:144
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
-msgstr "Ten dostawca usług SSL posiada powiązane z nim konta, których nie można usunąć."
+msgstr "Ten dostawca usług SSL posiada powiązane z nim konta, których nie można usunąć"
 
 #: assets/edit/ssl-provider.php:145
 msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
-msgstr "Ten dostawca usług SSL posiada powiązane z nim certyfikaty SSL i nie można ich usunąć."
+msgstr "Ten dostawca usług SSL posiada powiązane z nim certyfikaty SSL i nie można ich usunąć"
 
 #: assets/edit/ssl-provider.php:175
 msgid "SSL Provider %s deleted"
@@ -3575,7 +3579,7 @@ msgstr "Wprowadź nazwę typu"
 
 #: assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr "Ten typ posiada powiązane z nim certyfikaty SSL i nie można go usunąć."
+msgstr "Ten typ posiada powiązane z nim certyfikaty SSL i nie można go usunąć"
 
 #: assets/edit/ssl-type.php:128
 msgid "SSL Type %s deleted"
@@ -4085,7 +4089,6 @@ msgid_plural "The following domains were renewed for %s years"
 msgstr[0] "Następująca dziedzina została odnowiona na %s rok"
 msgstr[1] "Następująca dziedzina została odnowiona na %s rok"
 msgstr[2] "Następująca dziedzina została odnowiona na %s rok"
-msgstr[3] "Następująca dziedzina została odnowiona na %s rok"
 
 #: bulk/index.php:2020
 #, fuzzy
@@ -4094,7 +4097,6 @@ msgid_plural "The following domains were fully renewed for %s years"
 msgstr[0] "Poniższa dziedzina została w pełni odnowiona na %s rok"
 msgstr[1] "Poniższa dziedzina została w pełni odnowiona na %s rok"
 msgstr[2] "Poniższa dziedzina została w pełni odnowiona na %s rok"
-msgstr[3] "Poniższa dziedzina została w pełni odnowiona na %s rok"
 
 #: bulk/index.php:2022
 msgid "The following domains were marked as expired"
@@ -4563,11 +4565,11 @@ msgstr "Proszę przeczytać"
 
 #: classes/DomainMOD/Notice.php:35
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
-msgstr "We %sstrongly%s zaleca wykonanie kopii zapasowej katalogu instalacyjnego i bazy danych %s przed przystąpieniem do aktualizacji."
+msgstr "We %sstrongly%s zaleca wykonanie kopii zapasowej katalogu instalacyjnego i bazy danych %s przed przystąpieniem do aktualizacji"
 
 #: classes/DomainMOD/Notice.php:36
 msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
-msgstr "Jeśli podczas aktualizacji coś pójdzie nie tak, a nie utworzyłeś kopii zapasowej, może nie być możliwości odzyskania danych."
+msgstr "Jeśli podczas aktualizacji coś pójdzie nie tak, a nie utworzyłeś kopii zapasowej, może nie być możliwości odzyskania danych"
 
 #: classes/DomainMOD/Notice.php:37
 msgid "You should also make a note of your current version (%s), as this may be required by the recovery process"
@@ -4644,7 +4646,7 @@ msgstr "Kliknij tutaj, aby uzyskać instrukcje dotyczące aktualizacji"
 
 #: classes/DomainMOD/System.php:251
 msgid "You must be logged in to access this area"
-msgstr "Musisz być zalogowany, aby uzyskać dostęp do tego obszaru."
+msgstr "Musisz być zalogowany, aby uzyskać dostęp do tego obszaru"
 
 #: classes/DomainMOD/System.php:260
 msgid "%s is already installed"
@@ -4693,7 +4695,6 @@ msgid_plural "Expiring in the next %s days"
 msgstr[0] "Wygaśnięcie w następnym dniu"
 msgstr[1] "Wygaśnięcie w następnym dniu %s"
 msgstr[2] "Wygaśnięcie w następnym dniu %s"
-msgstr[3] "Wygaśnięcie w następnym dniu %s"
 
 #: dashboard/index.php:204 queue/index.php:122 queue/index.php:221
 #: queue/index.php:567 queue/index.php:687
@@ -4783,7 +4784,7 @@ msgstr "Domena %s aktualizacja"
 
 #: domains/edit.php:357
 msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
-msgstr "Domena ta posiada powiązane z nią certyfikaty SSL i nie może być usunięta."
+msgstr "Domena ta posiada powiązane z nią certyfikaty SSL i nie może być usunięta"
 
 #: domains/edit.php:383
 msgid "Domain %s deleted"
@@ -5162,7 +5163,7 @@ msgstr "[brak właściciela]"
 
 #: install/go.php:51
 msgid "[no dns]"
-msgstr "Nie ma mowy."
+msgstr "Nie ma mowy"
 
 #: install/go.php:52
 msgid "[no ip address]"
@@ -5206,7 +5207,7 @@ msgstr "%s został pomyślnie zainstalowany i należy teraz usunąć folder %s"
 
 #: install/go.php:1228
 msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
-msgstr "Domyślna nazwa użytkownika i hasło to %s, a po zalogowaniu zostaniesz poproszony o zmianę hasła."
+msgstr "Domyślna nazwa użytkownika i hasło to %s, a po zalogowaniu zostaniesz poproszony o zmianę hasła"
 
 #: install/language/index.php:64
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
@@ -5287,7 +5288,7 @@ msgstr "Zanim będziesz mógł dodać domeny do %s używając kolejki domen, mus
 
 #: queue/add.php:393
 msgid "Ensure that the registrar has an API and that your account has been granted access to it"
-msgstr "Upewnij się, że rejestrator posiada API i że Twoje konto ma do niego dostęp."
+msgstr "Upewnij się, że rejestrator posiada API i że Twoje konto ma do niego dostęp"
 
 #: queue/add.php:394
 msgid "Enable API Support on the %sregistrar asset%s"
@@ -6123,11 +6124,11 @@ msgstr "Zmiana hasła"
 
 #: settings/password/index.php:118
 msgid "Your passwords were left blank"
-msgstr "Twoje hasła pozostały puste."
+msgstr "Twoje hasła pozostały puste"
 
 #: settings/password/index.php:122
 msgid "Your passwords didn't match"
-msgstr "Twoje hasła nie pasowały do siebie."
+msgstr "Twoje hasła nie pasowały do siebie"
 
 #: settings/password/index.php:140
 msgid "New Password"
@@ -6288,4 +6289,3 @@ msgstr "Wyloguj się"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Kontynuuj instalację"
-

@@ -3,10 +3,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
+"X-Generator: Poedit 2.3.1\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -5606,7 +5610,7 @@ msgstr "rapporto_di_costo_di_indirizzo_di_indirizzo_di_indirizzo_di_campo"
 
 #: reporting/domains/cost-by-month.php:107
 msgid "domain_cost_by_month_report_all"
-msgstr "Rapporto_di_costo_di_dominio_per_mese_tutti_il_report_tutti_i_di_dominio"
+msgstr "rapporto_di_costo_di_dominio_per_mese_tutti_il_report_tutti_i_di_dominio"
 
 #: reporting/domains/cost-by-month.php:112
 msgid "domain_cost_by_month_report"
@@ -5714,7 +5718,7 @@ msgstr "registro_tutti_i_rapporti_report_tutti_i"
 
 #: reporting/domains/registrar-fees.php:88
 msgid "registrar_fee_report_active"
-msgstr "Registrar_fee_report_report_active"
+msgstr "registrar_fee_report_report_active"
 
 #: reporting/domains/registrar-fees.php:99
 msgid "All Registrar Fees"
@@ -5863,15 +5867,15 @@ msgstr "ssl_cost_by_domain_report_all"
 
 #: reporting/ssl/cost-by-domain.php:116
 msgid "ssl_cost_by_domain_report"
-msgstr "Rapporto costi per dominio"
+msgstr "rapporto_costi_per_dominio"
 
 #: reporting/ssl/cost-by-ip-address.php:111
 msgid "ssl_cost_by_ip_address_report_all"
-msgstr "Rapporto_di_costo_da_indirizzo_ip_report_tutti_il_costo_di_sl"
+msgstr "rapporto_di_costo_da_indirizzo_ip_report_tutti_il_costo_di_sl"
 
 #: reporting/ssl/cost-by-ip-address.php:116
 msgid "ssl_cost_by_ip_address_report"
-msgstr "Rapporto costi/efficacia dell'indirizzo IP"
+msgstr "rapporto costi/efficacia dell'indirizzo IP"
 
 #: reporting/ssl/cost-by-month.php:58
 msgid "The ending date proceeds the starting date"
@@ -5879,11 +5883,11 @@ msgstr "La data di fine procede alla data di inizio"
 
 #: reporting/ssl/cost-by-month.php:107
 msgid "ssl_cost_by_month_report_all"
-msgstr "Rapporto costi/risultati per mese"
+msgstr "rapporto costi/risultati per mese"
 
 #: reporting/ssl/cost-by-month.php:112
 msgid "ssl_cost_by_month_report"
-msgstr "Rapporto sui costi per mese"
+msgstr "rapporto_sui_costi_per_mese"
 
 #: reporting/ssl/cost-by-owner.php:111
 msgid "ssl_cost_by_owner_report_all"
@@ -6004,7 +6008,7 @@ msgstr "Segmento"
 
 #: segments/index.php:86
 msgid "segment_list"
-msgstr "Elenco_segmento"
+msgstr "elenco_segmento"
 
 #: segments/index.php:102 segments/index.php:138
 msgid "Number of Domains in Segment"
@@ -6282,4 +6286,3 @@ msgstr "Esci"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Procedere con l'installazione"
-
