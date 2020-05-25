@@ -3,17 +3,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: POEditor.com\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: translations@domainmod.org\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Basepath: ../../../../domainmod\n"
-"X-Poedit-SearchPath-0: .\n"
 
 #: domainmod/_includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: domainmod/_includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -6763,3 +6756,4 @@ msgstr "Añadir el certificado SSL"
 #: domainmod/ssl/notes.php:57
 msgid "SSL Certificate Notes (%s)"
 msgstr "Notas del certificado SSL (%s)"
+
