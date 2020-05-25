@@ -28,7 +28,7 @@ msgstr ""
 #: domainmod/admin/users/index.php:66 domainmod/admin/users/index.php:199
 #: domainmod/classes/DomainMOD/Smtp.php:61
 msgid "Admin"
-msgstr "Admintest"
+msgstr "Admin"
 
 #: domainmod/_includes/breadcrumbs/admin-add-custom-domain-field.inc.php:23
 #: domainmod/_includes/breadcrumbs/admin-edit-custom-domain-field.inc.php:23
@@ -694,7 +694,7 @@ msgstr "Haga clic aquí para arreglar esto"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:25
 msgid "If you've already updated all new TLDs, you should %supdate the domain fees system-wide%s (this may take some time)"
-msgstr "Si ya has actualizado todos los nuevos TLDs, deberías %actualizar las cuotas de los dominios a nivel de todo el sistema%s (esto puede llevar algún tiempo)"
+msgstr "Si ya has actualizado todos los nuevos TLDs, deberías %sactualizar las cuotas de los dominios a nivel de todo el sistema%s (esto puede llevar algún tiempo)"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:33
 msgid "Some of your SSL Certificate Types are missing fees."
@@ -702,7 +702,7 @@ msgstr "A algunos de sus tipos de certificados SSL les faltan tasas."
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:33
 msgid "If you've already updated all new SSL Types, you should %supdate the SSL fees system-wide%s (this may take some time)"
-msgstr "Si ya ha actualizado todos los nuevos tipos de SSL, debería %actualizar las tasas de SSL en todo el sistema%s (esto puede llevar algún tiempo)"
+msgstr "Si ya ha actualizado todos los nuevos tipos de SSL, debería %sactualizar las tasas de SSL en todo el sistema%s (esto puede llevar algún tiempo)"
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:41
 msgid "Debugging mode is currently enabled."
@@ -718,7 +718,7 @@ msgstr "Puede desactivar el modo de depuración en %sSettings%s."
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:50
 msgid "Please contact your %s administrator to disable debugging"
-msgstr "Por favor, contacta con tu administrador para desactivar la depuración."
+msgstr "Por favor, contacta con tu %s administrador para desactivar la depuración."
 
 #: domainmod/_includes/settings/admin-add-custom-domain-field.inc.php:23
 msgid "Add Custom Domain Field"
@@ -1786,7 +1786,7 @@ msgstr "Y al exportar los datos de su dominio, la información contenida en sus 
 
 #: domainmod/admin/domain-fields/index.php:127
 msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
-msgstr "Parece que aún no has creado ningún campo de dominio personalizado. Haz clic aquí para añadir uno."
+msgstr "Parece que aún no has creado ningún campo de dominio personalizado. %sHaz clic aquí%s para añadir uno."
 
 #: domainmod/admin/domain-fields/index.php:138
 #: domainmod/admin/dw/add-server.php:105 domainmod/admin/dw/edit-server.php:205
@@ -2064,7 +2064,7 @@ msgstr "Si tu servidor web no funciona con WHM/cPanel, o no quieres importar los
 
 #: domainmod/admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "La importación de su(s) servidor(es) web en el Data Warehouse no modificará ninguno de sus otros datos, ni ninguno de los datos de su servidor web."
+msgstr "La importación de su(s) servidor(es) web en el Data Warehouse %sno%s modificará ninguno de sus otros %s datos, ni ninguno de los datos de su servidor web."
 
 #: domainmod/admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2072,7 +2072,7 @@ msgstr "La automatización construye"
 
 #: domainmod/admin/dw/intro.php:56
 msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr "Si vas a usar el Almacén de Datos, se recomienda que configures el sistema cron/programa de trabajo para automatizar tus construcciones."
+msgstr "Si vas a usar el Almacén de Datos, se recomienda que configures el %ssistema cron/programa de trabajo para%s automatizar tus construcciones."
 
 #: domainmod/admin/dw/intro.php:58
 msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
@@ -2533,6 +2533,7 @@ msgid "This file should be executed %severy 10 minutes%s, and once it's setup th
 msgstr "Este archivo debe ser ejecutado cada 10 minutos, y una vez que esté configurado el Programador de Tareas estará en vivo."
 
 #: domainmod/admin/scheduler/index.php:59
+#, fuzzy
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
 msgstr "El uso del Programador de Tareas es opcional, pero se recomienda el uso de un porcentaje elevado."
 
@@ -2698,7 +2699,7 @@ msgstr "Introduzca el número de días que se mostrarán en los correos electró
 
 #: domainmod/admin/settings/index.php:165
 msgid "Full %s URL"
-msgstr "URL completo"
+msgstr "URL completo %s"
 
 #: domainmod/admin/settings/index.php:165
 msgid "Enter the full URL of your %s installation, excluding the trailing slash (Example: http://example.com/domainmod)"
@@ -2919,7 +2920,7 @@ msgstr "Parece que aún no has creado ningún campo SSL personalizado."
 
 #: domainmod/admin/ssl-fields/index.php:125
 msgid "%sClick here%s to add one."
-msgstr "Haga clic aquí para añadir uno."
+msgstr "%sHaga clic aquí%s para añadir uno."
 
 #: domainmod/admin/users/add.php:90
 msgid "A user with that username already exists"
@@ -2935,7 +2936,7 @@ msgstr "Usuario %s %s (%s / %s) añadido."
 
 #: domainmod/admin/users/add.php:168
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "Puedes enviar manualmente las credenciales anteriores al usuario, o puedes hacer %clic aquí%s para que %s las envíe por ti."
+msgstr "Puedes enviar manualmente las credenciales anteriores al usuario, o puedes hacer %sclic aquí%s para que %s las envíe por ti."
 
 #: domainmod/admin/users/add.php:170
 msgid "Use the below form to customize the new user's account."
@@ -3823,8 +3824,9 @@ msgid "Registrar Notes"
 msgstr "Notas del Registro"
 
 #: domainmod/assets/edit/registrar-account.php:464
+#, fuzzy
 msgid "%sClick here%s to add a new IP Address"
-msgstr "Haga clic aquí para añadir una nueva dirección IP."
+msgstr "%sHaga clic aquí%s para añadir una nueva dirección IP."
 
 #: domainmod/assets/edit/registrar-account.php:488 domainmod/bulk/index.php:210
 #: domainmod/bulk/index.php:749 domainmod/bulk/index.php:2154
@@ -4447,12 +4449,14 @@ msgid "The following domains were added"
 msgstr "Se añadieron los siguientes dominios"
 
 #: domainmod/bulk/index.php:2018
+#, fuzzy
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
 msgstr[0] "El siguiente dominio fue renovado por %s de año"
 msgstr[1] "El siguiente dominio fue renovado por %s de año"
 
 #: domainmod/bulk/index.php:2020
+#, fuzzy
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
 msgstr[0] "El siguiente dominio se renovó completamente por %s de año"
@@ -4967,6 +4971,7 @@ msgid "Please Read"
 msgstr "Por favor, lee."
 
 #: domainmod/classes/DomainMOD/Notice.php:35
+#, fuzzy
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
 msgstr "Le recomendamos que haga una copia de seguridad del directorio de instalación y la base de datos antes de proceder a la actualización."
 
@@ -5062,8 +5067,9 @@ msgid "You must be logged in to access this area"
 msgstr "Debe estar registrado para acceder a esta área"
 
 #: domainmod/classes/DomainMOD/System.php:260
+#, fuzzy
 msgid "%s is already installed"
-msgstr "ya está instalado"
+msgstr "%s ya está instalado"
 
 #: domainmod/classes/DomainMOD/System.php:260
 msgid "You should delete the %s folder"
@@ -5635,8 +5641,9 @@ msgid "Data Warehouse Build"
 msgstr "Construcción de un almacén de datos"
 
 #: domainmod/install/go.php:1131
+#, fuzzy
 msgid "%s has been successfully installed and you should now delete the %s folder"
-msgstr "ha sido instalado con éxito y ahora deberías borrar la carpeta %s"
+msgstr "%s ha sido instalado con éxito y ahora deberías borrar la carpeta %s"
 
 #: domainmod/install/go.php:1131
 msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
@@ -5888,7 +5895,7 @@ msgstr "La Cola de Dominios se basa en la API de su registrador de dominios para
 
 #: domainmod/queue/index.php:517
 msgid "For more information please see the %sDomain Queue information page%s"
-msgstr "Para más información por favor vea la página de información de %sDomain Queue"
+msgstr "Para más información por favor vea la %spágina de información de Domain Queue%s"
 
 #: domainmod/queue/index.php:521
 msgid "Clear Completed"
@@ -6227,8 +6234,9 @@ msgid "Suspended Accounts (%s)"
 msgstr "Cuentas suspendidas (%s)"
 
 #: domainmod/reporting/index.php:51
+#, fuzzy
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Antes de ejecutar cualquier informe debe %actualizar las tasas de conversión%s."
+msgstr "Antes de ejecutar cualquier informe debe %sactualizar las tasas de conversión%s."
 
 #: domainmod/reporting/index.php:53
 msgid "Domain Reports"
@@ -6501,8 +6509,9 @@ msgid "Update Time"
 msgstr "Hora de la actualización"
 
 #: domainmod/segments/index.php:207
+#, fuzzy
 msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
-msgstr "Los segmentos son listas de dominios que se pueden usar para ayudar a filtrar y gestionar los resultados de tu %dominio%s."
+msgstr "Los segmentos son listas de dominios que se pueden usar para ayudar a filtrar y gestionar los resultados de tu %sdominio%s."
 
 #: domainmod/segments/index.php:209
 msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
