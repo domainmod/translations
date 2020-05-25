@@ -3,10 +3,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
+"X-Generator: Poedit 2.3.1\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: domainmod/_includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: domainmod/_includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -620,7 +624,7 @@ msgstr "Todos"
 #: domainmod/reporting/ssl/cost-by-type.php:139 domainmod/ssl/index.php:273
 #: domainmod/ssl/index.php:1498
 msgid "Total Cost"
-msgstr "El costo total..."
+msgstr "El costo total"
 
 #: domainmod/_includes/layout/reporting-block-sub.inc.php:36
 #: domainmod/domains/index.php:432 domainmod/domains/index.php:2138
@@ -718,7 +722,7 @@ msgstr "Puede desactivar el modo de depuración en %sSettings%s."
 
 #: domainmod/_includes/layout/table-maintenance.inc.php:50
 msgid "Please contact your %s administrator to disable debugging"
-msgstr "Por favor, contacta con tu %s administrador para desactivar la depuración."
+msgstr "Por favor, contacta con tu %s administrador para desactivar la depuración"
 
 #: domainmod/_includes/settings/admin-add-custom-domain-field.inc.php:23
 msgid "Add Custom Domain Field"
@@ -967,7 +971,7 @@ msgstr "Faltan las tasas del registrador de dominios"
 #: domainmod/_includes/settings/assets-ssl-provider-fees-missing.inc.php:24
 #: domainmod/assets/ssl-provider-fees-missing.php:66
 msgid "Missing Fees"
-msgstr "Honorarios por faltar..."
+msgstr "Honorarios por faltar"
 
 #: domainmod/_includes/settings/assets-registrar-fees.inc.php:23
 #: domainmod/_includes/settings/reporting-domain-fees.inc.php:23
@@ -1818,7 +1822,7 @@ msgstr "Introduce el nombre del host"
 
 #: domainmod/admin/dw/add-server.php:86 domainmod/admin/dw/edit-server.php:70
 msgid "Enter the protocol"
-msgstr "Introduzca el protocolo..."
+msgstr "Introduzca el protocolo"
 
 #: domainmod/admin/dw/add-server.php:87 domainmod/admin/dw/edit-server.php:73
 msgid "Enter the port"
@@ -1983,7 +1987,7 @@ msgstr "Edificio"
 
 #: domainmod/admin/dw/dw.php:313 domainmod/admin/dw/dw.php:413
 msgid "Never Built"
-msgstr "Nunca construyó..."
+msgstr "Nunca construyó"
 
 #: domainmod/admin/dw/dw.php:357 domainmod/admin/dw/dw.php:538
 #: domainmod/admin/dw/edit-server.php:223
@@ -2009,7 +2013,7 @@ msgstr "Estado del edificio"
 
 #: domainmod/admin/dw/dw.php:368
 msgid "Full Build"
-msgstr "Full Build..."
+msgstr "Full Build"
 
 #: domainmod/admin/dw/dw.php:409 domainmod/admin/dw/dw.php:421
 #: domainmod/dashboard/index.php:195 domainmod/domains/index.php:683
@@ -2080,7 +2084,7 @@ msgstr "Hay mucho trabajo que se hace en segundo plano durante una construcción
 
 #: domainmod/admin/dw/intro.php:60
 msgid "After you've setup the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
-msgstr "Después de configurar el trabajo cron será capaz de gestionar la programación del Almacén de Datos a través del Programador de Tareas de %s."
+msgstr "Después de configurar el trabajo cron será capaz de gestionar la programación del Almacén de Datos a través del Programador de Tareas de %s"
 
 #: domainmod/admin/dw/intro.php:62
 msgid "Supported Data"
@@ -2438,7 +2442,7 @@ msgstr "Hubo un problema para reconstruir el Almacén de Datos."
 
 #: domainmod/admin/dw/rebuild.php:71
 msgid "Try again"
-msgstr "Inténtalo de nuevo."
+msgstr "Inténtalo de nuevo"
 
 #: domainmod/admin/dw/servers.php:53
 msgid "dw_servers"
@@ -2667,7 +2671,7 @@ msgstr "Tareas desactivadas en el modo de demostración"
 
 #: domainmod/admin/scheduler/run.php:202
 msgid "Task Run"
-msgstr "La ejecución de la tarea..."
+msgstr "La ejecución de la tarea"
 
 #: domainmod/admin/scheduler/update.php:62
 msgid "Task Updated"
@@ -3681,7 +3685,7 @@ msgstr "Este propietario tiene cuentas SSL asociadas a él y no puede ser elimin
 
 #: domainmod/assets/edit/account-owner.php:184
 msgid "This Owner has SSL certificates associated with it and cannot be deleted"
-msgstr "Este propietario tiene certificados SSL asociados y no puede ser eliminado."
+msgstr "Este propietario tiene certificados SSL asociados y no puede ser eliminado"
 
 #: domainmod/assets/edit/account-owner.php:195
 msgid "Owner %s deleted"
@@ -3709,7 +3713,7 @@ msgstr "Introduzca un nombre para el perfil de DNS"
 
 #: domainmod/assets/edit/dns.php:157
 msgid "Enter the first DNS server"
-msgstr "Introduzca el primer servidor DNS..."
+msgstr "Introduzca el primer servidor DNS"
 
 #: domainmod/assets/edit/dns.php:158
 msgid "Enter the second DNS server"
@@ -3773,7 +3777,7 @@ msgstr "Elija el propietario"
 
 #: domainmod/assets/edit/registrar-account.php:153
 msgid "Choose the Registrar"
-msgstr "Elija el Registro..."
+msgstr "Elija el Registro"
 
 #: domainmod/assets/edit/registrar-account.php:207
 msgid "This Registrar Account has domains associated with it and cannot be deleted"
@@ -3824,9 +3828,8 @@ msgid "Registrar Notes"
 msgstr "Notas del Registro"
 
 #: domainmod/assets/edit/registrar-account.php:464
-#, fuzzy
 msgid "%sClick here%s to add a new IP Address"
-msgstr "%sHaga clic aquí%s para añadir una nueva dirección IP."
+msgstr "%sHaga clic aquí%s para añadir una nueva dirección IP"
 
 #: domainmod/assets/edit/registrar-account.php:488 domainmod/bulk/index.php:210
 #: domainmod/bulk/index.php:749 domainmod/bulk/index.php:2154
@@ -3873,7 +3876,7 @@ msgstr "Cuenta SSL %s (%s, %s) actualizado"
 
 #: domainmod/assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
-msgstr "Esta cuenta SSL tiene certificados SSL asociados y no puede ser eliminada."
+msgstr "Esta cuenta SSL tiene certificados SSL asociados y no puede ser eliminada"
 
 #: domainmod/assets/edit/ssl-provider-account.php:225
 msgid "SSL Account %s (%s, %s) deleted"
@@ -3895,7 +3898,7 @@ msgstr "Este proveedor de SSL tiene cuentas asociadas y no puede ser eliminado"
 
 #: domainmod/assets/edit/ssl-provider.php:145
 msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
-msgstr "Este proveedor de SSL tiene certificados SSL asociados y no puede ser eliminado."
+msgstr "Este proveedor de SSL tiene certificados SSL asociados y no puede ser eliminado"
 
 #: domainmod/assets/edit/ssl-provider.php:175
 msgid "SSL Provider %s deleted"
@@ -3911,7 +3914,7 @@ msgstr "Escriba el nombre del tipo"
 
 #: domainmod/assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr "Este tipo tiene certificados SSL asociados y no puede ser eliminado."
+msgstr "Este tipo tiene certificados SSL asociados y no puede ser eliminado"
 
 #: domainmod/assets/edit/ssl-type.php:128
 msgid "SSL Type %s deleted"
@@ -4806,7 +4809,7 @@ msgstr "Plan de hospedaje"
 
 #: domainmod/classes/DomainMOD/DwDisplay.php:47
 msgid "cPanel Theme"
-msgstr "Tema del panel"
+msgstr "Tema del pane"
 
 #: domainmod/classes/DomainMOD/DwDisplay.php:52
 msgid "Home"
@@ -4925,7 +4928,7 @@ msgstr "Para cancelar la suscripción a estas notificaciones, por favor visite"
 
 #: domainmod/classes/DomainMOD/Layout.php:139
 msgid "Delete This"
-msgstr "Borra esto."
+msgstr "Borra esto"
 
 #: domainmod/classes/DomainMOD/Layout.php:140 domainmod/queue/index.php:548
 #: domainmod/queue/index.php:649
@@ -4938,7 +4941,7 @@ msgstr "Cancelar"
 
 #: domainmod/classes/DomainMOD/Layout.php:140
 msgid "Yes, Delete"
-msgstr "Sí, suprimir..."
+msgstr "Sí, suprimir"
 
 #: domainmod/classes/DomainMOD/Layout.php:166
 msgid "Are you sure you want to delete %s"
@@ -4968,12 +4971,11 @@ msgstr "Advertencia crítica"
 #: domainmod/classes/DomainMOD/Notice.php:33
 #: domainmod/classes/DomainMOD/Notice.php:38
 msgid "Please Read"
-msgstr "Por favor, lee."
+msgstr "Por favor, lee"
 
 #: domainmod/classes/DomainMOD/Notice.php:35
-#, fuzzy
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
-msgstr "Le recomendamos que haga una copia de seguridad del directorio de instalación y la base de datos antes de proceder a la actualización."
+msgstr "Le recomendamos que haga una copia de seguridad del directorio de instalación y la base de datos antes de proceder a la actualización"
 
 #: domainmod/classes/DomainMOD/Notice.php:36
 msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
@@ -5534,7 +5536,7 @@ msgstr "Olvidó su contraseña"
 #: domainmod/install/requirements/index.php:64
 #: domainmod/install/timezone/index.php:589
 msgid "Next Step"
-msgstr "El siguiente paso..."
+msgstr "El siguiente paso"
 
 #: domainmod/install/email-admin/index.php:58
 msgid "Please enter and confirm the administrator email address"
@@ -5561,7 +5563,7 @@ msgstr "Confirme el correo electrónico"
 #: domainmod/install/email-admin/index.php:90
 #: domainmod/install/requirements/index.php:63
 msgid "Go Back"
-msgstr "Regresa."
+msgstr "Regresa"
 
 #: domainmod/install/email-admin/index.php:92
 #: domainmod/install/language/index.php:78
@@ -5679,7 +5681,7 @@ msgstr "La página a la que intentas acceder es inválida."
 
 #: domainmod/invalid.php:48
 msgid "Go home"
-msgstr "Vete a casa."
+msgstr "Vete a casa"
 
 #: domainmod/maintenance/update-domain-fees.php:47
 msgid "Domain Fees updated"
@@ -6028,7 +6030,7 @@ msgstr "Costo"
 #: domainmod/reporting/domains/cost-by-tld.php:155
 #: domainmod/reporting/domains/cost-by-tld.php:212
 msgid "Per Domain"
-msgstr "Por dominio..."
+msgstr "Por dominio"
 
 #: domainmod/reporting/domains/cost-by-category.php:242
 #: domainmod/reporting/domains/cost-by-dns.php:245
@@ -6340,7 +6342,7 @@ msgstr "ssl_costes_por_reporte_de_categoría"
 #: domainmod/reporting/ssl/cost-by-provider.php:272
 #: domainmod/reporting/ssl/cost-by-type.php:157
 msgid "Per Cert"
-msgstr "Per Cert..."
+msgstr "Per Cert"
 
 #: domainmod/reporting/ssl/cost-by-domain.php:111
 msgid "ssl_cost_by_domain_report_all"
@@ -6758,4 +6760,3 @@ msgstr "Añadir el certificado SSL"
 #: domainmod/ssl/notes.php:57
 msgid "SSL Certificate Notes (%s)"
 msgstr "Notas del certificado SSL (%s)"
-
