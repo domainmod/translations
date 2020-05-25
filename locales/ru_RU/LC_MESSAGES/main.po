@@ -3,14 +3,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: POEditor.com\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: ru\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -649,7 +645,7 @@ msgstr "Вы можете отключить режим отладки в %sSett
 
 #: _includes/layout/table-maintenance.inc.php:50
 msgid "Please contact your %s administrator to disable debugging"
-msgstr "Пожалуйста, свяжитесь с администратором %s для отключения отладки"
+msgstr "Пожалуйста, свяжитесь с администратором %s для отключения отладки."
 
 #: _includes/settings/admin-add-custom-domain-field.inc.php:23
 msgid "Add Custom Domain Field"
@@ -1352,7 +1348,7 @@ msgstr "Вставленный"
 
 #: admin/debug-log/index.php:113
 msgid "The Debug Log is empty"
-msgstr "Журнал отладки пуст"
+msgstr "Журнал отладки пуст."
 
 #: admin/debug-log/index.php:117
 msgid "Debugging can be enabled in %sSettings%s."
@@ -1426,7 +1422,7 @@ msgstr "Обновить По умолчанию системы"
 
 #: admin/domain-fields/add.php:66 admin/ssl-fields/add.php:66
 msgid "The Database Field Name you entered already exists"
-msgstr "Имя поля базы данных, которое вы ввели, уже существует"
+msgstr "Имя поля базы данных, которое вы ввели, уже существует."
 
 #: admin/domain-fields/add.php:126
 msgid "Custom Domain Field %s (%s) added"
@@ -1438,7 +1434,7 @@ msgstr "Введите отображаемое имя"
 
 #: admin/domain-fields/add.php:152 admin/ssl-fields/add.php:152
 msgid "The Database Field Name format is incorrect"
-msgstr "Формат \"Имя поля базы данных\" неправильный"
+msgstr "Формат \"Имя поля базы данных\" неправильный."
 
 #: admin/domain-fields/add.php:168 admin/domain-fields/edit.php:240
 #: admin/domain-fields/index.php:61 admin/ssl-fields/add.php:168
@@ -1509,7 +1505,7 @@ msgstr "Добавить пользовательское поле"
 
 #: admin/domain-fields/edit.php:68
 msgid "The Custom Domain Field you're trying to edit is invalid"
-msgstr "Пользовательское доменное поле, которое вы пытаетесь отредактировать, является недействительным"
+msgstr "Пользовательское доменное поле, которое вы пытаетесь отредактировать, является недействительным."
 
 #: admin/domain-fields/edit.php:112
 msgid "Custom Domain Field %s (%s) updated"
@@ -2650,7 +2646,7 @@ msgstr "Добавлено пользовательское SSL поле %s (%s)
 
 #: admin/ssl-fields/edit.php:68
 msgid "The Custom SSL Field you're trying to edit is invalid"
-msgstr "Пользовательское SSL поле, которое вы пытаетесь отредактировать, является недействительным"
+msgstr "Пользовательское SSL поле, которое вы пытаетесь отредактировать, является недействительным."
 
 #: admin/ssl-fields/edit.php:112
 msgid "Custom SSL Field %s (%s) updated"
@@ -2746,7 +2742,7 @@ msgstr "Адрес электронной почты"
 
 #: admin/users/edit.php:80
 msgid "You don't have permissions to edit the primary administrator account"
-msgstr "У вас нет прав на редактирование учетной записи основного администратора"
+msgstr "У вас нет прав на редактирование учетной записи основного администратора."
 
 #: admin/users/edit.php:232
 msgid "User %s %s (%s) updated"
@@ -2888,7 +2884,7 @@ msgstr "Новый пароль для %s - %s"
 
 #: admin/users/reset-password.php:106
 msgid "The password has been reset and emailed to the account holder"
-msgstr "Пароль был сброшен и отправлен владельцу учетной записи по электронной почте"
+msgstr "Пароль был сброшен и отправлен владельцу учетной записи по электронной почте."
 
 #: assets/account-owners.php:51
 msgid "account_owner_list"
@@ -3278,7 +3274,7 @@ msgstr "Введите тип SSL"
 #: reporting/ssl/cost-by-type.php:211 reporting/ssl/provider-fees.php:199
 #: ssl/index.php:1537
 msgid "Type"
-msgstr "Введите"
+msgstr "Введите ."
 
 #: assets/categories.php:51
 msgid "category_list"
@@ -3348,19 +3344,19 @@ msgstr "Введите имя владельца"
 
 #: assets/edit/account-owner.php:172
 msgid "This Owner has registrar accounts associated with it and cannot be deleted"
-msgstr "Этот Владелец имеет связанные с ним учетные записи регистраторов и не может быть удален"
+msgstr "Этот Владелец имеет связанные с ним учетные записи регистраторов и не может быть удален."
 
 #: assets/edit/account-owner.php:176
 msgid "This Owner has domains associated with it and cannot be deleted"
-msgstr "Этот Владелец имеет связанные с ним домены и не может быть удален"
+msgstr "Этот Владелец имеет связанные с ним домены и не может быть удален."
 
 #: assets/edit/account-owner.php:180
 msgid "This Owner has SSL accounts associated with it and cannot be deleted"
-msgstr "Этот Владелец имеет связанные с ним учетные записи SSL и не может быть удален"
+msgstr "Этот Владелец имеет связанные с ним учетные записи SSL и не может быть удален."
 
 #: assets/edit/account-owner.php:184
 msgid "This Owner has SSL certificates associated with it and cannot be deleted"
-msgstr "Этот Владелец имеет связанные с ним SSL-сертификаты и не может быть удален"
+msgstr "Этот Владелец имеет связанные с ним SSL-сертификаты и не может быть удален."
 
 #: assets/edit/account-owner.php:195
 msgid "Owner %s deleted"
@@ -3372,7 +3368,7 @@ msgstr "Категория %s обновлена"
 
 #: assets/edit/category.php:123
 msgid "This Category has domains associated with it and cannot be deleted"
-msgstr "Эта категория имеет связанные с ней домены и не может быть удалена"
+msgstr "Эта категория имеет связанные с ней домены и не может быть удалена."
 
 #: assets/edit/category.php:133
 msgid "Category %s deleted"
@@ -3396,7 +3392,7 @@ msgstr "Введите второй DNS-сервер"
 
 #: assets/edit/dns.php:216
 msgid "This DNS Profile has domains associated with it and cannot be deleted"
-msgstr "Этот профиль DNS имеет связанные с ним домены и не может быть удален"
+msgstr "Этот профиль DNS имеет связанные с ним домены и не может быть удален."
 
 #: assets/edit/dns.php:226
 msgid "DNS Profile %s deleted"
@@ -3408,7 +3404,7 @@ msgstr "Веб-хосты %s обновлены"
 
 #: assets/edit/host.php:121
 msgid "This Web Host has domains associated with it and cannot be deleted"
-msgstr "Этот веб-хост имеет связанные с ним домены и не может быть удален"
+msgstr "Этот веб-хост имеет связанные с ним домены и не может быть удален."
 
 #: assets/edit/host.php:131
 msgid "Web Host %s deleted"
@@ -3434,7 +3430,7 @@ msgstr "Введите IP-адрес"
 
 #: assets/edit/ip-address.php:126
 msgid "This IP Address has domains associated with it and cannot be deleted"
-msgstr "Этот IP-адрес имеет связанные с ним домены и не может быть удален"
+msgstr "Этот IP-адрес имеет связанные с ним домены и не может быть удален."
 
 #: assets/edit/ip-address.php:136
 msgid "IP Address %s (%s) deleted"
@@ -3455,7 +3451,7 @@ msgstr "Выберите Регистратора"
 
 #: assets/edit/registrar-account.php:207
 msgid "This Registrar Account has domains associated with it and cannot be deleted"
-msgstr "Эта учетная запись Регистратора имеет связанные с ней домены и не может быть удалена"
+msgstr "Эта учетная запись Регистратора имеет связанные с ней домены и не может быть удалена."
 
 #: assets/edit/registrar-account.php:244
 msgid "Registrar Account %s (%s, %s) deleted"
@@ -3527,11 +3523,11 @@ msgstr "Введите имя Регистратора"
 
 #: assets/edit/registrar.php:144
 msgid "This Registrar has Registrar Accounts associated with it and cannot be deleted"
-msgstr "Этот Регистратор имеет связанные с ним учетные записи Регистратора и не может быть удален"
+msgstr "Этот Регистратор имеет связанные с ним учетные записи Регистратора и не может быть удален."
 
 #: assets/edit/registrar.php:145
 msgid "This Registrar has domains associated with it and cannot be deleted"
-msgstr "Этот Регистратор имеет связанные с ним домены и не может быть удален"
+msgstr "Этот Регистратор имеет связанные с ним домены и не может быть удален."
 
 #: assets/edit/registrar.php:175
 msgid "Registrar %s deleted"
@@ -3547,7 +3543,7 @@ msgstr "Обновлена учетная запись SSL %s (%s, %s)"
 
 #: assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
-msgstr "Эта учетная запись SSL имеет связанные с ней SSL-сертификаты и не может быть удалена"
+msgstr "Эта учетная запись SSL имеет связанные с ней SSL-сертификаты и не может быть удалена."
 
 #: assets/edit/ssl-provider-account.php:225
 msgid "SSL Account %s (%s, %s) deleted"
@@ -3564,11 +3560,11 @@ msgstr "SSL-провайдер %s обновлён"
 
 #: assets/edit/ssl-provider.php:144
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
-msgstr "Этот SSL-провайдер имеет связанные с ним учетные записи и не может быть удален"
+msgstr "Этот SSL-провайдер имеет связанные с ним учетные записи и не может быть удален."
 
 #: assets/edit/ssl-provider.php:145
 msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
-msgstr "Этот поставщик SSL-сертификатов имеет связанные с ним SSL-сертификаты и не может быть удален"
+msgstr "Этот поставщик SSL-сертификатов имеет связанные с ним SSL-сертификаты и не может быть удален."
 
 #: assets/edit/ssl-provider.php:175
 msgid "SSL Provider %s deleted"
@@ -3584,7 +3580,7 @@ msgstr "Введите имя типа"
 
 #: assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr "Этот тип имеет связанные с ним SSL-сертификаты и не может быть удален"
+msgstr "Этот тип имеет связанные с ним SSL-сертификаты и не может быть удален."
 
 #: assets/edit/ssl-type.php:128
 msgid "SSL Type %s deleted"
@@ -3948,7 +3944,7 @@ msgstr "Домены, помеченные как Ожидающие регис�
 
 #: bulk/index.php:1412
 msgid "Domains marked as Pending Renewal"
-msgstr "Домены, помеченные как Ожидающие Обновления"
+msgstr "Домены, помеченные как Ожидающие Обновления."
 
 #: bulk/index.php:1474
 msgid "Domains marked as Pending (Other)"
@@ -4091,6 +4087,7 @@ msgid_plural "The following domains were renewed for %s years"
 msgstr[0] "Следующий домен был продлен на %s в год"
 msgstr[1] "Следующий домен был продлен на %s в год"
 msgstr[2] "Следующий домен был продлен на %s в год"
+msgstr[3] "Следующий домен был продлен на %s в год"
 
 #: bulk/index.php:2020
 #, fuzzy
@@ -4099,6 +4096,7 @@ msgid_plural "The following domains were fully renewed for %s years"
 msgstr[0] "Следующий домен был полностью обновлен на %s в год"
 msgstr[1] "Следующий домен был полностью обновлен на %s в год"
 msgstr[2] "Следующий домен был полностью обновлен на %s в год"
+msgstr[3] "Следующий домен был полностью обновлен на %s в год"
 
 #: bulk/index.php:2022
 msgid "The following domains were marked as expired"
@@ -4381,7 +4379,7 @@ msgstr "Очереди очищены"
 
 #: classes/DomainMOD/DwBuild.php:91
 msgid "The Data Warehouse has been rebuilt"
-msgstr "Хранилище данных было реконструировано"
+msgstr "Хранилище данных было реконструировано."
 
 #: classes/DomainMOD/DwClean.php:156
 msgid "Refresh"
@@ -4566,11 +4564,11 @@ msgstr "Пожалуйста, прочтите"
 
 #: classes/DomainMOD/Notice.php:35
 msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
-msgstr "Мы %sstrongly%s рекомендуем сделать резервную копию каталога установки %s и базы данных перед тем, как приступить к обновлению"
+msgstr "Мы %sstrongly%s рекомендуем сделать резервную копию каталога установки %s и базы данных перед тем, как приступить к обновлению."
 
 #: classes/DomainMOD/Notice.php:36
 msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
-msgstr "Если что-то пойдет не так во время обновления, а вы не создали резервную копию, возможно, не удастся восстановить данные"
+msgstr "Если что-то пойдет не так во время обновления, а вы не создали резервную копию, возможно, не удастся восстановить данные."
 
 #: classes/DomainMOD/Notice.php:37
 msgid "You should also make a note of your current version (%s), as this may be required by the recovery process"
@@ -4647,7 +4645,7 @@ msgstr "Нажмите здесь для получения инструкций
 
 #: classes/DomainMOD/System.php:251
 msgid "You must be logged in to access this area"
-msgstr "Вы должны войти в систему, чтобы получить доступ к этой области"
+msgstr "Вы должны войти в систему, чтобы получить доступ к этой области."
 
 #: classes/DomainMOD/System.php:260
 msgid "%s is already installed"
@@ -4696,6 +4694,7 @@ msgid_plural "Expiring in the next %s days"
 msgstr[0] "Срок действия истекает на следующий день"
 msgstr[1] "Срок действия истекает на следующий %s день"
 msgstr[2] "Срок действия истекает на следующий %s день"
+msgstr[3] "Срок действия истекает на следующий %s день"
 
 #: dashboard/index.php:204 queue/index.php:122 queue/index.php:221
 #: queue/index.php:567 queue/index.php:687
@@ -4785,7 +4784,7 @@ msgstr "Доменные %s обновлены"
 
 #: domains/edit.php:357
 msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
-msgstr "Этот домен имеет связанные с ним SSL-сертификаты и не может быть удален"
+msgstr "Этот домен имеет связанные с ним SSL-сертификаты и не может быть удален."
 
 #: domains/edit.php:383
 msgid "Domain %s deleted"
@@ -4844,7 +4843,7 @@ msgstr "Совпадающие, но неактивные домены"
 
 #: domains/index.php:533 domains/index.php:2114
 msgid "Matching But Filtered Domains"
-msgstr "Совпадающие, но отфильтрованные домены"
+msgstr "Совпадающие, но отфильтрованные домены."
 
 #: domains/index.php:543 domains/index.php:2118 domains/results.php:51
 #: domains/results.php:181
@@ -5204,11 +5203,11 @@ msgstr "Построение хранилища данных"
 
 #: install/go.php:1228
 msgid "%s has been successfully installed and you should now delete the %s folder"
-msgstr "%s была успешно установлена, теперь необходимо удалить папку %s"
+msgstr "%s была успешно установлена, теперь необходимо удалить папку %s."
 
 #: install/go.php:1228
 msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
-msgstr "Имя пользователя и пароль по умолчанию составляют %s, и после входа в систему вам будет предложено изменить пароль"
+msgstr "Имя пользователя и пароль по умолчанию составляют %s, и после входа в систему вам будет предложено изменить пароль."
 
 #: install/language/index.php:64
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
@@ -5288,7 +5287,7 @@ msgstr "Прежде чем вы сможете добавлять домены 
 
 #: queue/add.php:393
 msgid "Ensure that the registrar has an API and that your account has been granted access to it"
-msgstr "Убедитесь, что у регистратора есть API и что вашему аккаунту был предоставлен доступ к нему"
+msgstr "Убедитесь, что у регистратора есть API и что вашему аккаунту был предоставлен доступ к нему."
 
 #: queue/add.php:394
 msgid "Enable API Support on the %sregistrar asset%s"
@@ -5413,7 +5412,7 @@ msgstr "Перед очисткой очереди необходимо прос
 
 #: queue/index.php:436
 msgid "YES, REALLY CLEAR COMPLETED ITEMS FROM THE QUEUE"
-msgstr "ДА, ДЕЙСТВИТЕЛЬНО ЧИСТЫЕ ГОТОВЫЕ ЭЛЕМЕНТЫ ИЗ ОЧЕРЕДИ"
+msgstr "ДА, ДЕЙСТВИТЕЛЬНО ЧИСТЫЕ ГОТОВЫЕ ЭЛЕМЕНТЫ ИЗ ОЧЕРЕДИ."
 
 #: queue/index.php:444
 msgid "Completed items cleared from the queue"
@@ -5425,7 +5424,7 @@ msgstr "Вы уверены, что хотите удалить этот спи�
 
 #: queue/index.php:454
 msgid "YES, REALLY DELETE THIS DOMAIN LIST FROM THE QUEUE"
-msgstr "ДА, ДЕЙСТВИТЕЛЬНО УДАЛИТЕ ЭТОТ СПИСОК ДОМЕНОВ ИЗ ОЧЕРЕДИ"
+msgstr "ДА, ДЕЙСТВИТЕЛЬНО УДАЛИТЕ ЭТОТ СПИСОК ДОМЕНОВ ИЗ ОЧЕРЕДИ."
 
 #: queue/index.php:466
 msgid "Domain List deleted from Queue"
@@ -5437,7 +5436,7 @@ msgstr "Вы уверены, что хотите удалить этот Дом�
 
 #: queue/index.php:476
 msgid "YES, REALLY DELETE THIS DOMAIN FROM THE QUEUE"
-msgstr "ДА, ДЕЙСТВИТЕЛЬНО УДАЛИТЕ ЭТОТ ДОМЕН ИЗ ОЧЕРЕДИ"
+msgstr "ДА, ДЕЙСТВИТЕЛЬНО УДАЛИТЕ ЭТОТ ДОМЕН ИЗ ОЧЕРЕДИ."
 
 #: queue/index.php:490
 msgid "Domain deleted from Queue"
@@ -6124,7 +6123,7 @@ msgstr "Пароль изменен"
 
 #: settings/password/index.php:118
 msgid "Your passwords were left blank"
-msgstr "Твои пароли остались пустыми"
+msgstr "Твои пароли остались пустыми."
 
 #: settings/password/index.php:122
 msgid "Your passwords didn't match"
@@ -6289,3 +6288,4 @@ msgstr "Выход из системы"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Приступайте к установке"
+
