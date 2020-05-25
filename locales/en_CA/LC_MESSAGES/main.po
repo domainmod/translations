@@ -1,18 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DomainMOD\n"
-"POT-Creation-Date: 2020-05-24 23:25-0700\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: DomainMOD\n"
+"Language: en-ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Basepath: ../../../../domainmod\n"
-"X-Poedit-SearchPath-0: .\n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -296,20 +290,13 @@ msgid "SSL Certs"
 msgstr "SSL Certs eh"
 
 #: _includes/email/send-new-password.inc.php:31
-#, php-format
 msgid "Your %s Password has been Reset"
 msgstr "Your %s Password has been Reset eh"
 
 #: _includes/email/send-new-password.inc.php:50
 #: _includes/email/send-new-password.inc.php:95
-msgid ""
-"Your password has been reset and you can find it below. The next time you "
-"login you should change your password to something that will be easy for you "
-"to remember, but still hard for someone else to guess."
-msgstr ""
-"Your password has been reset and you can find it below. The next time you "
-"login you should change your password to something that will be easy for you "
-"to remember, but still hard for someone else to guess."
+msgid "Your password has been reset and you can find it below. The next time you login you should change your password to something that will be easy for you to remember, but still hard for someone else to guess."
+msgstr "Your password has been reset and you can find it below. The next time you login you should change your password to something that will be easy for you to remember, but still hard for someone else to guess."
 
 #: _includes/email/send-new-password.inc.php:52 admin/debug-log/index.php:67
 #: admin/debug-log/index.php:136 assets/hosting.php:63 assets/registrars.php:64
@@ -335,24 +322,13 @@ msgstr "Best Regards eh"
 
 #: _includes/email/send-new-password.inc.php:77
 #: _includes/email/send-new-password.inc.php:106
-#, php-format
-msgid ""
-"You've received this notification because someone requested a password reset "
-"for your %s account."
-msgstr ""
-"You've received this notification because someone requested a password reset "
-"for your %s account."
+msgid "You've received this notification because someone requested a password reset for your %s account."
+msgstr "You've received this notification because someone requested a password reset for your %s account."
 
 #: _includes/email/send-new-password.inc.php:79
 #: _includes/email/send-new-password.inc.php:108
-msgid ""
-"If you did not request this yourself, it sounds like somebody might be "
-"trying to gain access to your account. This might be a good time to reset "
-"your password again just to be safe."
-msgstr ""
-"If you did not request this yourself, it sounds like somebody might be "
-"trying to gain access to your account. This might be a good time to reset "
-"your password again just to be safe."
+msgid "If you did not request this yourself, it sounds like somebody might be trying to gain access to your account. This might be a good time to reset your password again just to be safe."
+msgstr "If you did not request this yourself, it sounds like somebody might be trying to gain access to your account. This might be a good time to reset your password again just to be safe."
 
 #: _includes/email/send-new-password.inc.php:110
 msgid "Password Reset"
@@ -375,71 +351,12 @@ msgid "Click here to hide them"
 msgstr "Click here to hide them eh"
 
 #: _includes/layout/footer.inc.php:244
-#, php-format
 msgid "%s%s%s is open source software released under the %sGNU/GPL License%s."
 msgstr "%s%s%s is open source software released under the %sGNU/GPL License%s."
 
 #: _includes/layout/footer.inc.php:245
 msgid "Created by"
 msgstr "Created by eh"
-
-#: _includes/layout/header.inc.php:151 admin/users/edit.php:352
-#: settings/profile/index.php:245
-msgid "Language"
-msgstr "Language eh"
-
-#: _includes/layout/header.inc.php:152 admin/users/edit.php:370
-#: assets/add/registrar-fee.php:203 assets/add/ssl-provider-fee.php:201
-#: assets/edit/registrar-fee.php:200 assets/edit/ssl-provider-fee.php:198
-#: assets/registrar-fees.php:76 assets/registrar-fees.php:171
-#: assets/ssl-provider-fees.php:75 assets/ssl-provider-fees.php:168
-#: reporting/domains/registrar-fees.php:118
-#: reporting/domains/registrar-fees.php:212 reporting/ssl/provider-fees.php:118
-#: reporting/ssl/provider-fees.php:203 settings/profile/index.php:260
-msgid "Currency"
-msgstr "Currency eh"
-
-#: _includes/layout/header.inc.php:153 admin/users/edit.php:388
-#: settings/profile/index.php:275
-msgid "Time Zone"
-msgstr "Time Zone eh"
-
-#: _includes/layout/header.inc.php:154
-msgid "Expiration Emails"
-msgstr "Expiration Emails eh"
-
-#: _includes/layout/header.inc.php:156 admin/settings/index.php:207
-#: admin/users/edit.php:407 admin/users/edit.php:413 admin/users/edit.php:418
-#: admin/users/edit.php:431 admin/users/edit.php:439 admin/users/edit.php:444
-#: assets/add/registrar-account.php:171 assets/add/ssl-provider-account.php:175
-#: assets/edit/registrar-account.php:355
-#: assets/edit/ssl-provider-account.php:289 bulk/index.php:2273
-#: bulk/index.php:2279 domains/add.php:493 domains/add.php:498
-#: domains/edit.php:529 domains/edit.php:534 queue/index.php:333
-#: queue/index.php:359 settings/profile/index.php:296
-msgid "Yes"
-msgstr "Yes eh"
-
-#: _includes/layout/header.inc.php:158 admin/settings/index.php:208
-#: admin/users/edit.php:408 admin/users/edit.php:419 admin/users/edit.php:426
-#: admin/users/edit.php:432 admin/users/edit.php:445
-#: assets/add/registrar-account.php:172 assets/add/ssl-provider-account.php:176
-#: assets/edit/registrar-account.php:356
-#: assets/edit/ssl-provider-account.php:290 bulk/index.php:2274
-#: bulk/index.php:2280 domains/add.php:494 domains/add.php:499
-#: domains/edit.php:530 domains/edit.php:535 queue/index.php:345
-#: queue/index.php:371 settings/profile/index.php:297
-msgid "No"
-msgstr "No eh"
-
-#: _includes/layout/header.inc.php:183 _includes/layout/menu-main.inc.php:56
-#: _includes/settings/settings-profile.inc.php:23 settings/index.php:48
-msgid "User Profile"
-msgstr "User Profile eh"
-
-#: _includes/layout/header.inc.php:186
-msgid "Sign out"
-msgstr "Sign out eh"
 
 #: _includes/layout/header.inc.php:224 domains/index.php:2039
 msgid "Domain Keyword Search"
@@ -482,6 +399,11 @@ msgstr "Display Settings eh"
 msgid "User Defaults"
 msgstr "User Defaults eh"
 
+#: _includes/layout/header.inc.php:183 _includes/layout/menu-main.inc.php:56
+#: _includes/settings/settings-profile.inc.php:23 settings/index.php:48
+msgid "User Profile"
+msgstr "User Profile eh"
+
 #: _includes/layout/menu-main.inc.php:57
 #: _includes/settings/settings-password.inc.php:23 settings/index.php:49
 #: settings/password/index.php:142
@@ -497,7 +419,6 @@ msgstr "Maintenance eh"
 #: _includes/layout/menu-main.inc.php:69 admin/scheduler/run.php:110
 #: admin/scheduler/run.php:137 cron.php:101 cron.php:128 install/go.php:63
 #: maintenance/index.php:46
-#, php-format
 msgid "Update Conversion Rates"
 msgstr "Update Conversion Rates eh"
 
@@ -565,7 +486,6 @@ msgid "Contribute"
 msgstr "Contribute eh"
 
 #: _includes/layout/pagination-large-mode.inc.php:26
-#, php-format
 msgid "(Listing %s of %s)"
 msgstr "(Listing %s of %s)"
 
@@ -699,26 +619,16 @@ msgid "Click here to fix this"
 msgstr "Click here to fix this eh"
 
 #: _includes/layout/table-maintenance.inc.php:25
-#, php-format
-msgid ""
-"If you've already updated all new TLDs, you should %supdate the domain fees "
-"system-wide%s (this may take some time)"
-msgstr ""
-"If you've already updated all new TLDs, you should %supdate the domain fees "
-"system-wide%s (this may take some time)"
+msgid "If you've already updated all new TLDs, you should %supdate the domain fees system-wide%s (this may take some time)"
+msgstr "If you've already updated all new TLDs, you should %supdate the domain fees system-wide%s (this may take some time)"
 
 #: _includes/layout/table-maintenance.inc.php:33
 msgid "Some of your SSL Certificate Types are missing fees."
 msgstr "Some of your SSL Certificate Types are missing fees."
 
 #: _includes/layout/table-maintenance.inc.php:33
-#, php-format
-msgid ""
-"If you've already updated all new SSL Types, you should %supdate the SSL "
-"fees system-wide%s (this may take some time)"
-msgstr ""
-"If you've already updated all new SSL Types, you should %supdate the SSL "
-"fees system-wide%s (this may take some time)"
+msgid "If you've already updated all new SSL Types, you should %supdate the SSL fees system-wide%s (this may take some time)"
+msgstr "If you've already updated all new SSL Types, you should %supdate the SSL fees system-wide%s (this may take some time)"
 
 #: _includes/layout/table-maintenance.inc.php:41
 msgid "Debugging mode is currently enabled."
@@ -729,12 +639,10 @@ msgid "View Debug Log"
 msgstr "View Debug Log eh"
 
 #: _includes/layout/table-maintenance.inc.php:45
-#, php-format
 msgid "You can disable debugging mode in %sSettings%s."
 msgstr "You can disable debugging mode in %sSettings%s."
 
 #: _includes/layout/table-maintenance.inc.php:50
-#, php-format
 msgid "Please contact your %s administrator to disable debugging"
 msgstr "Please contact your %s administrator to disable debugging eh"
 
@@ -1036,7 +944,6 @@ msgid "Listing All Server Accounts"
 msgstr "Listing All Server Accounts eh"
 
 #: _includes/settings/dw-list-accounts.inc.php:29
-#, php-format
 msgid "Listing Server Accounts on %s (%s)"
 msgstr "Listing Server Accounts on %s (%s)"
 
@@ -1052,7 +959,6 @@ msgid "Listing All DNS Zones & Records"
 msgstr "Listing All DNS Zones & Records eh"
 
 #: _includes/settings/dw-list-zones.inc.php:29
-#, php-format
 msgid "Listing DNS Zones & Records on %s (%s)"
 msgstr "Listing DNS Zones & Records on %s (%s)"
 
@@ -1293,29 +1199,16 @@ msgid "Your database has been upgraded"
 msgstr "Your database has been upgraded eh"
 
 #: _includes/update.inc.php:90 _includes/update.inc.php:92
-msgid ""
-"The upgrade process cannot be completed, as your versions are currently out-"
-"of-sync."
-msgstr ""
-"The upgrade process cannot be completed, as your versions are currently out-"
-"of-sync."
+msgid "The upgrade process cannot be completed, as your versions are currently out-of-sync."
+msgstr "The upgrade process cannot be completed, as your versions are currently out-of-sync."
 
 #: _includes/update.inc.php:91 _includes/update.inc.php:92
-msgid ""
-"The software on your server is older than your database version. This should "
-"never happen."
-msgstr ""
-"The software on your server is older than your database version. This should "
-"never happen."
+msgid "The software on your server is older than your database version. This should never happen."
+msgstr "The software on your server is older than your database version. This should never happen."
 
 #: _includes/update.inc.php:91 _includes/update.inc.php:92
-#, php-format
-msgid ""
-"Please logout and log back in, and if the problem persists please contact "
-"your %s administrator."
-msgstr ""
-"Please logout and log back in, and if the problem persists please contact "
-"your %s administrator."
+msgid "Please logout and log back in, and if the problem persists please contact your %s administrator."
+msgstr "Please logout and log back in, and if the problem persists please contact your %s administrator."
 
 #: _includes/update.inc.php:98
 msgid "Your Database is already up-to-date"
@@ -1330,64 +1223,36 @@ msgid "Please choose a backup file to restore"
 msgstr "Please choose a backup file to restore eh"
 
 #: admin/backup/index.php:105
-#, php-format
-msgid ""
-"This page enables you to perform complete backups and restores of your %s "
-"database."
-msgstr ""
-"This page enables you to perform complete backups and restores of your %s "
-"database."
+msgid "This page enables you to perform complete backups and restores of your %s database."
+msgstr "This page enables you to perform complete backups and restores of your %s database."
 
 #: admin/backup/index.php:106
-msgid ""
-"This allows you to export your entire system in a single file so that it can "
-"easily be backed up and restored."
-msgstr ""
-"This allows you to export your entire system in a single file so that it can "
-"easily be backed up and restored."
+msgid "This allows you to export your entire system in a single file so that it can easily be backed up and restored."
+msgstr "This allows you to export your entire system in a single file so that it can easily be backed up and restored."
 
 #: admin/backup/index.php:107
-#, php-format
-msgid ""
-"This is helpful if you want to perform regular backups of your data, you "
-"need to move %s to a new server, or if you want to change your installation "
-"method."
-msgstr ""
-"This is helpful if you want to perform regular backups of your data, you "
-"need to move %s to a new server, or if you want to change your installation "
-"method."
+msgid "This is helpful if you want to perform regular backups of your data, you need to move %s to a new server, or if you want to change your installation method."
+msgstr "This is helpful if you want to perform regular backups of your data, you need to move %s to a new server, or if you want to change your installation method."
 
 #: admin/backup/index.php:109
-msgid ""
-"This process backs up the data saved in your database. If you also want to "
-"save your database connection information, you should backup your /_includes/"
-"config.inc.php file."
-msgstr ""
-"This process backs up the data saved in your database. If you also want to "
-"save your database connection information, you should backup your /_includes/"
-"config.inc.php file."
+msgid "This process backs up the data saved in your database. If you also want to save your database connection information, you should backup your /_includes/config.inc.php file."
+msgstr "This process backs up the data saved in your database. If you also want to save your database connection information, you should backup your /_includes/config.inc.php file."
 
 #: admin/backup/index.php:111 admin/dw/intro.php:53 queue/intro.php:69
 msgid "Note"
 msgstr "Note eh"
 
 #: admin/backup/index.php:111
-msgid ""
-"Before you can use Backup & Restore you must update the permissions on the"
-msgstr ""
-"Before you can use Backup & Restore you must update the permissions on the"
+msgid "Before you can use Backup & Restore you must update the permissions on the"
+msgstr "Before you can use Backup & Restore you must update the permissions on the"
 
 #: admin/backup/index.php:111
 msgid "Folder"
 msgstr "Folder eh"
 
 #: admin/backup/index.php:111
-msgid ""
-"If you're unsure how to do this your web hosting provider should be able to "
-"assist you."
-msgstr ""
-"If you're unsure how to do this your web hosting provider should be able to "
-"assist you."
+msgid "If you're unsure how to do this your web hosting provider should be able to assist you."
+msgstr "If you're unsure how to do this your web hosting provider should be able to assist you."
 
 #: admin/backup/index.php:114
 msgid "Database Backup File"
@@ -1413,19 +1278,12 @@ msgid "Warning"
 msgstr "Warning eh"
 
 #: admin/backup/index.php:121
-#, php-format
-msgid ""
-"This will completely delete all of the data in your current %s database."
-msgstr ""
-"This will completely delete all of the data in your current %s database."
+msgid "This will completely delete all of the data in your current %s database."
+msgstr "This will completely delete all of the data in your current %s database."
 
 #: admin/backup/index.php:123
-msgid ""
-"After restoring a database you'll be automatically logged out, at which "
-"point you'll be able to login using the accounts in the data you restored."
-msgstr ""
-"After restoring a database you'll be automatically logged out, at which "
-"point you'll be able to login using the accounts in the data you restored."
+msgid "After restoring a database you'll be automatically logged out, at which point you'll be able to login using the accounts in the data you restored."
+msgstr "After restoring a database you'll be automatically logged out, at which point you'll be able to login using the accounts in the data you restored."
 
 #: admin/backup/index.php:124
 msgid "Restore Entire Database"
@@ -1436,12 +1294,8 @@ msgid "Cleanup"
 msgstr "Cleanup eh"
 
 #: admin/backup/index.php:129
-msgid ""
-"Click here to delete any and all past backup and restore files that may be "
-"saved on your server."
-msgstr ""
-"Click here to delete any and all past backup and restore files that may be "
-"saved on your server."
+msgid "Click here to delete any and all past backup and restore files that may be saved on your server."
+msgstr "Click here to delete any and all past backup and restore files that may be saved on your server."
 
 #: admin/backup/index.php:130
 msgid "Perform Cleanup"
@@ -1496,7 +1350,6 @@ msgid "The Debug Log is empty"
 msgstr "The Debug Log is empty eh"
 
 #: admin/debug-log/index.php:117
-#, php-format
 msgid "Debugging can be enabled in %sSettings%s."
 msgstr "Debugging can be enabled in %sSettings%s."
 
@@ -1571,7 +1424,6 @@ msgid "The Database Field Name you entered already exists"
 msgstr "The Database Field Name you entered already exists"
 
 #: admin/domain-fields/add.php:126
-#, php-format
 msgid "Custom Domain Field %s (%s) added"
 msgstr "Custom Domain Field %s (%s) added eh"
 
@@ -1595,12 +1447,8 @@ msgid "Database Field Name"
 msgstr "Database Field Name eh"
 
 #: admin/domain-fields/add.php:169 admin/ssl-fields/add.php:169
-msgid ""
-"The Database Field Name can contain only letters and underscores (ie. "
-"sample_field or SampleField)."
-msgstr ""
-"The Database Field Name can contain only letters and underscores (ie. "
-"sample_field or SampleField)."
+msgid "The Database Field Name can contain only letters and underscores (ie. sample_field or SampleField)."
+msgstr "The Database Field Name can contain only letters and underscores (ie. sample_field or SampleField)."
 
 #: admin/domain-fields/add.php:169 admin/ssl-fields/add.php:169
 msgid "The Database Field Name cannot be renamed."
@@ -1659,7 +1507,6 @@ msgid "The Custom Domain Field you're trying to edit is invalid"
 msgstr "The Custom Domain Field you're trying to edit is invalid eh"
 
 #: admin/domain-fields/edit.php:112
-#, php-format
 msgid "Custom Domain Field %s (%s) updated"
 msgstr "Custom Domain Field %s (%s) updated eh"
 
@@ -1672,7 +1519,6 @@ msgid "The Custom Domain Field cannot be deleted"
 msgstr "The Custom Domain Field cannot be deleted eh"
 
 #: admin/domain-fields/edit.php:207
-#, php-format
 msgid "Custom Domain Field %s (%s) delete"
 msgstr "Custom Domain Field %s (%s) delete eh"
 
@@ -1755,53 +1601,28 @@ msgstr "Unknown eh"
 #: assets/registrar-accounts.php:209 assets/registrars.php:157
 #: assets/ssl-accounts.php:175 assets/ssl-providers.php:148
 #: assets/ssl-types.php:139
-#, php-format
 msgid "Below is a list of all the %s that have been added to %s."
 msgstr "Below is a list of all the %s that have been added to %s."
 
 #: admin/domain-fields/index.php:118
-#, php-format
-msgid ""
-"Custom Domain Fields help extend the functionality of %s by allowing the "
-"user to create their own data fields."
-msgstr ""
-"Custom Domain Fields help extend the functionality of %s by allowing the "
-"user to create their own data fields."
+msgid "Custom Domain Fields help extend the functionality of %s by allowing the user to create their own data fields."
+msgstr "Custom Domain Fields help extend the functionality of %s by allowing the user to create their own data fields."
 
 #: admin/domain-fields/index.php:119
-msgid ""
-"For example, if you wanted to keep track of which domains are currently "
-"setup in Google Analytics, you could create a new Google Analytics check box "
-"field and start tracking this information for each of your domains."
-msgstr ""
-"For example, if you wanted to keep track of which domains are currently "
-"setup in Google Analytics, you could create a new Google Analytics check box "
-"field and start tracking this information for each of your domains."
+msgid "For example, if you wanted to keep track of which domains are currently setup in Google Analytics, you could create a new Google Analytics check box field and start tracking this information for each of your domains."
+msgstr "For example, if you wanted to keep track of which domains are currently setup in Google Analytics, you could create a new Google Analytics check box field and start tracking this information for each of your domains."
 
 #: admin/domain-fields/index.php:120
-msgid ""
-"Combine custom fields with the ability to update them with the Bulk Updater, "
-"and the sky's the limit in regards to what data you can easily track!"
-msgstr ""
-"Combine custom fields with the ability to update them with the Bulk Updater, "
-"and the sky's the limit in regards to what data you can easily track!"
+msgid "Combine custom fields with the ability to update them with the Bulk Updater, and the sky's the limit in regards to what data you can easily track!"
+msgstr "Combine custom fields with the ability to update them with the Bulk Updater, and the sky's the limit in regards to what data you can easily track!"
 
 #: admin/domain-fields/index.php:122
-msgid ""
-"And when you export your domain data, the information contained in your "
-"custom fields will automatically be included in the exported data."
-msgstr ""
-"And when you export your domain data, the information contained in your "
-"custom fields will automatically be included in the exported data."
+msgid "And when you export your domain data, the information contained in your custom fields will automatically be included in the exported data."
+msgstr "And when you export your domain data, the information contained in your custom fields will automatically be included in the exported data."
 
 #: admin/domain-fields/index.php:127
-#, php-format
-msgid ""
-"It appears as though you haven't created any Custom Domain Fields yet. "
-"%sClick here%s to add one."
-msgstr ""
-"It appears as though you haven't created any Custom Domain Fields yet. "
-"%sClick here%s to add one."
+msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
+msgstr "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
 
 #: admin/domain-fields/index.php:138 admin/dw/add-server.php:105
 #: admin/dw/edit-server.php:205 admin/dw/servers.php:61
@@ -1818,7 +1639,6 @@ msgid "DB Fields"
 msgstr "DB Fields eh"
 
 #: admin/dw/add-server.php:77
-#, php-format
 msgid "Server %s (%s) added"
 msgstr "Server %s (%s) added eh"
 
@@ -1857,8 +1677,7 @@ msgstr "Host Name eh"
 
 #: admin/dw/add-server.php:106 admin/dw/edit-server.php:206
 msgid "Enter the host name of your WHM installation (ie. server1.example.com)."
-msgstr ""
-"Enter the host name of your WHM installation (ie. server1.example.com)."
+msgstr "Enter the host name of your WHM installation (ie. server1.example.com)."
 
 #: admin/dw/add-server.php:107 admin/dw/edit-server.php:207
 #: admin/dw/servers.php:63 classes/DomainMOD/Smtp.php:68
@@ -1905,16 +1724,8 @@ msgid "Enter the username for your WHM installation."
 msgstr "Enter the username for your WHM installation."
 
 #: admin/dw/add-server.php:114 admin/dw/edit-server.php:214
-msgid ""
-"Only one of the below items is required, either the API Token or the Remote "
-"Access Key/Hash. The Remote Access Key/Hash will be getting removed from WHM "
-"in version 68 though, so if your WHM already supports the API Token that's "
-"what you should use."
-msgstr ""
-"Only one of the below items is required, either the API Token or the Remote "
-"Access Key/Hash. The Remote Access Key/Hash will be getting removed from WHM "
-"in version 68 though, so if your WHM already supports the API Token that's "
-"what you should use."
+msgid "Only one of the below items is required, either the API Token or the Remote Access Key/Hash. The Remote Access Key/Hash will be getting removed from WHM in version 68 though, so if your WHM already supports the API Token that's what you should use."
+msgstr "Only one of the below items is required, either the API Token or the Remote Access Key/Hash. The Remote Access Key/Hash will be getting removed from WHM in version 68 though, so if your WHM already supports the API Token that's what you should use."
 
 #: admin/dw/add-server.php:116 admin/dw/edit-server.php:216
 #: admin/dw/servers.php:66
@@ -1930,16 +1741,8 @@ msgid "Remote Access Key/Hash"
 msgstr "Remote Access Key/Hash eh"
 
 #: admin/dw/add-server.php:117 admin/dw/edit-server.php:217
-msgid ""
-"Enter the remote access key/hash for you WHM installation. You can retrieve "
-"this from your WHM by logging in and searching for \"Remote Access\". Click "
-"on the \"Setup Remote Access Key\" option on the left, and your hash will be "
-"displayed on the right-hand side of the screen."
-msgstr ""
-"Enter the remote access key/hash for you WHM installation. You can retrieve "
-"this from your WHM by logging in and searching for \"Remote Access\". Click "
-"on the \"Setup Remote Access Key\" option on the left, and your hash will be "
-"displayed on the right-hand side of the screen."
+msgid "Enter the remote access key/hash for you WHM installation. You can retrieve this from your WHM by logging in and searching for \"Remote Access\". Click on the \"Setup Remote Access Key\" option on the left, and your hash will be displayed on the right-hand side of the screen."
+msgstr "Enter the remote access key/hash for you WHM installation. You can retrieve this from your WHM by logging in and searching for \"Remote Access\". Click on the \"Setup Remote Access Key\" option on the left, and your hash will be displayed on the right-hand side of the screen."
 
 #: admin/dw/add-server.php:119
 msgid "Add Server"
@@ -2061,12 +1864,10 @@ msgid "All Servers"
 msgstr "All Servers eh"
 
 #: admin/dw/edit-server.php:111
-#, php-format
 msgid "Server %s (%s) updated"
 msgstr "Server %s (%s) updated eh"
 
 #: admin/dw/edit-server.php:188
-#, php-format
 msgid "Server %s (%s) deleted"
 msgstr "Server %s (%s) deleted eh"
 
@@ -2075,111 +1876,52 @@ msgid "Proceed to the Data Warehouse"
 msgstr "Proceed to the Data Warehouse eh"
 
 #: admin/dw/intro.php:49
-#, php-format
-msgid ""
-"%s has a Data Warehouse framework built right into it, which allows you to "
-"import the data stored on your web server. Currently the only web servers "
-"that are supported are ones that run WHM/cPanel."
-msgstr ""
-"%s has a Data Warehouse framework built right into it, which allows you to "
-"import the data stored on your web server. Currently the only web servers "
-"that are supported are ones that run WHM/cPanel."
+msgid "%s has a Data Warehouse framework built right into it, which allows you to import the data stored on your web server. Currently the only web servers that are supported are ones that run WHM/cPanel."
+msgstr "%s has a Data Warehouse framework built right into it, which allows you to import the data stored on your web server. Currently the only web servers that are supported are ones that run WHM/cPanel."
 
 #: admin/dw/intro.php:51
-#, php-format
-msgid ""
-"If your web server doesn't run WHM/cPanel, or you don't want to import your "
-"web server data into %s, you can ignore this section."
-msgstr ""
-"If your web server doesn't run WHM/cPanel, or you don't want to import your "
-"web server data into %s, you can ignore this section."
+msgid "If your web server doesn't run WHM/cPanel, or you don't want to import your web server data into %s, you can ignore this section."
+msgstr "If your web server doesn't run WHM/cPanel, or you don't want to import your web server data into %s, you can ignore this section."
 
 #: admin/dw/intro.php:53
-#, php-format
-msgid ""
-"Importing your web server(s) into the Data Warehouse will %snot%s modify any "
-"of your other %s data, nor any of the data on your web server."
-msgstr ""
-"Importing your web server(s) into the Data Warehouse will %snot%s modify any "
-"of your other %s data, nor any of the data on your web server."
+msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
+msgstr "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
 msgstr "Automating Builds eh"
 
 #: admin/dw/intro.php:56
-#, php-format
-msgid ""
-"If you're going to use the Data Warehouse it's recommended that you setup "
-"the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr ""
-"If you're going to use the Data Warehouse it's recommended that you setup "
-"the %ssystem cron/scheduled job%s in order to automate your builds."
+msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
+msgstr "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
 
 #: admin/dw/intro.php:58
-msgid ""
-"There's a lot of work being done in the background during a build, and more "
-"often than not a web browser will timeout if you try to build through the "
-"software instead of using the cron job, leading to incomplete and missing "
-"information in your Data Warehouse."
-msgstr ""
-"There's a lot of work being done in the background during a build, and more "
-"often than not a web browser will timeout if you try to build through the "
-"software instead of using the cron job, leading to incomplete and missing "
-"information in your Data Warehouse."
+msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
+msgstr "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
 
 #: admin/dw/intro.php:60
-#, php-format
-msgid ""
-"After you've setup the cron job you will be able to manage the Data "
-"Warehouse scheduling through %s's Task Scheduler"
-msgstr ""
-"After you've setup the cron job you will be able to manage the Data "
-"Warehouse scheduling through %s's Task Scheduler"
+msgid "After you've setup the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
+msgstr "After you've setup the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
 
 #: admin/dw/intro.php:62
 msgid "Supported Data"
 msgstr "Supported Data"
 
 #: admin/dw/intro.php:63
-msgid ""
-"The following WHM sections are currently supported, but our end goal is to "
-"have every piece of WHM information that can be retrieved via the API stored "
-"in the Data Warehouse."
-msgstr ""
-"The following WHM sections are currently supported, but our end goal is to "
-"have every piece of WHM information that can be retrieved via the API stored "
-"in the Data Warehouse."
+msgid "The following WHM sections are currently supported, but our end goal is to have every piece of WHM information that can be retrieved via the API stored in the Data Warehouse."
+msgstr "The following WHM sections are currently supported, but our end goal is to have every piece of WHM information that can be retrieved via the API stored in the Data Warehouse."
 
 #: admin/dw/intro.php:67
-msgid ""
-"Domain, IP Address, Owner, User, Contact Email, Plan, Theme, Shell, "
-"Partition, Disk Limit, Disk Usage, Max Addons, Max FTP Accounts, Max Email "
-"Lists, Max Parked Domains, Max POP Accounts, Max SQL Accounts, Max "
-"Subdomains, Creation Date, Suspend Status, Suspend Reason, Suspend Time, Max "
-"Email Per Hour, Failed Email % Before Defer, Min Failed Email # Before Defer"
-msgstr ""
-"Domain, IP Address, Owner, User, Contact Email, Plan, Theme, Shell, "
-"Partition, Disk Limit, Disk Usage, Max Addons, Max FTP Accounts, Max Email "
-"Lists, Max Parked Domains, Max POP Accounts, Max SQL Accounts, Max "
-"Subdomains, Creation Date, Suspend Status, Suspend Reason, Suspend Time, Max "
-"Email Per Hour, Failed Email % Before Defer, Min Failed Email # Before Defer"
+msgid "Domain, IP Address, Owner, User, Contact Email, Plan, Theme, Shell, Partition, Disk Limit, Disk Usage, Max Addons, Max FTP Accounts, Max Email Lists, Max Parked Domains, Max POP Accounts, Max SQL Accounts, Max Subdomains, Creation Date, Suspend Status, Suspend Reason, Suspend Time, Max Email Per Hour, Failed Email % Before Defer, Min Failed Email # Before Defer"
+msgstr "Domain, IP Address, Owner, User, Contact Email, Plan, Theme, Shell, Partition, Disk Limit, Disk Usage, Max Addons, Max FTP Accounts, Max Email Lists, Max Parked Domains, Max POP Accounts, Max SQL Accounts, Max Subdomains, Creation Date, Suspend Status, Suspend Reason, Suspend Time, Max Email Per Hour, Failed Email % Before Defer, Min Failed Email # Before Defer"
 
 #: admin/dw/intro.php:70
-msgid ""
-"Zone File Name, Original/Primary Source of Zone Data, Admin Email, Serial #, "
-"Refresh, Retry, Expiry, Minimum TTL, Authoritative Name Server"
-msgstr ""
-"Zone File Name, Original/Primary Source of Zone Data, Admin Email, Serial #, "
-"Refresh, Retry, Expiry, Minimum TTL, Authoritative Name Server"
+msgid "Zone File Name, Original/Primary Source of Zone Data, Admin Email, Serial #, Refresh, Retry, Expiry, Minimum TTL, Authoritative Name Server"
+msgstr "Zone File Name, Original/Primary Source of Zone Data, Admin Email, Serial #, Refresh, Retry, Expiry, Minimum TTL, Authoritative Name Server"
 
 #: admin/dw/intro.php:73
-msgid ""
-"TTL, Class, Type, IP Address, CNAME, Mail Server, Mail Server Priority, TXT "
-"Data, Line # of Zone, # of Lines, RAW Data"
-msgstr ""
-"TTL, Class, Type, IP Address, CNAME, Mail Server, Mail Server Priority, TXT "
-"Data, Line # of Zone, # of Lines, RAW Data"
+msgid "TTL, Class, Type, IP Address, CNAME, Mail Server, Mail Server Priority, TXT Data, Line # of Zone, # of Lines, RAW Data"
+msgstr "TTL, Class, Type, IP Address, CNAME, Mail Server, Mail Server Priority, TXT Data, Line # of Zone, # of Lines, RAW Data"
 
 #: admin/dw/list-accounts.php:84
 msgid "dw_account_list"
@@ -2560,50 +2302,22 @@ msgid "Clear Queues"
 msgstr "Clear Queues eh"
 
 #: admin/maintenance/index.php:48
-msgid ""
-"This will completely delete all queue lists and domains, regardless of their "
-"status. This should not be run until all legitimate lists and domains in the "
-"queue have been successfully processed."
-msgstr ""
-"This will completely delete all queue lists and domains, regardless of their "
-"status. This should not be run until all legitimate lists and domains in the "
-"queue have been successfully processed."
+msgid "This will completely delete all queue lists and domains, regardless of their status. This should not be run until all legitimate lists and domains in the queue have been successfully processed."
+msgstr "This will completely delete all queue lists and domains, regardless of their status. This should not be run until all legitimate lists and domains in the queue have been successfully processed."
 
 #: admin/scheduler/index.php:53
-#, php-format
-msgid ""
-"The Task Scheduler allows you to run various system jobs at specified times, "
-"which helps keep your %s installation up-to-date and running smoothly, as "
-"well as notifies you of important information, such as emailing you to let "
-"you know about upcoming Domain & SSL Certificate expirations."
-msgstr ""
-"The Task Scheduler allows you to run various system jobs at specified times, "
-"which helps keep your %s installation up-to-date and running smoothly, as "
-"well as notifies you of important information, such as emailing you to let "
-"you know about upcoming Domain & SSL Certificate expirations."
+msgid "The Task Scheduler allows you to run various system jobs at specified times, which helps keep your %s installation up-to-date and running smoothly, as well as notifies you of important information, such as emailing you to let you know about upcoming Domain & SSL Certificate expirations."
+msgstr "The Task Scheduler allows you to run various system jobs at specified times, which helps keep your %s installation up-to-date and running smoothly, as well as notifies you of important information, such as emailing you to let you know about upcoming Domain & SSL Certificate expirations."
 
 #: admin/scheduler/index.php:54
-#, php-format
-msgid ""
-"In order to use the Task Scheduler you must setup a cron/scheduled job on "
-"your web server to execute the file %scron.php%s, which is located in the "
-"root folder of your %s installation."
-msgstr ""
-"In order to use the Task Scheduler you must setup a cron/scheduled job on "
-"your web server to execute the file %scron.php%s, which is located in the "
-"root folder of your %s installation."
+msgid "In order to use the Task Scheduler you must setup a cron/scheduled job on your web server to execute the file %scron.php%s, which is located in the root folder of your %s installation."
+msgstr "In order to use the Task Scheduler you must setup a cron/scheduled job on your web server to execute the file %scron.php%s, which is located in the root folder of your %s installation."
 
 #: admin/scheduler/index.php:57
-#, php-format
-msgid ""
-"This file should be executed %severy 10 minutes%s, and once it's setup the "
-"Task Scheduler will be live."
-msgstr ""
-"This file should be executed %severy 10 minutes%s, and once it's setup the "
-"Task Scheduler will be live."
+msgid "This file should be executed %severy 10 minutes%s, and once it's setup the Task Scheduler will be live."
+msgstr "This file should be executed %severy 10 minutes%s, and once it's setup the Task Scheduler will be live."
 
 #: admin/scheduler/index.php:59
-#, php-format
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
 msgstr "Using the Task Scheduler is optional, but %shighly%s recommended."
 
@@ -2665,7 +2379,6 @@ msgstr "Active eh"
 
 #: admin/scheduler/run.php:81 admin/scheduler/run.php:89 cron.php:74
 #: cron.php:82
-#, php-format
 msgid "Cleanup Tasks"
 msgstr "Cleanup Tasks eh"
 
@@ -2689,7 +2402,6 @@ msgstr "System Cleanup Performed eh"
 
 #: admin/scheduler/run.php:96 admin/scheduler/run.php:105 cron.php:87
 #: cron.php:96 install/go.php:62
-#, php-format
 msgid "Send Expiration Email"
 msgstr "Send Expiration Email eh"
 
@@ -2699,7 +2411,6 @@ msgstr "Conversion Rates Updated eh"
 
 #: admin/scheduler/run.php:144 admin/scheduler/run.php:152 cron.php:133
 #: cron.php:141
-#, php-format
 msgid "New Version Check"
 msgstr "New Version Check eh"
 
@@ -2709,7 +2420,6 @@ msgstr "No Upgrade Available eh"
 
 #: admin/scheduler/run.php:159 admin/scheduler/run.php:168 cron.php:146
 #: cron.php:155
-#, php-format
 msgid "Build Data Warehouse"
 msgstr "Build Data Warehouse eh"
 
@@ -2719,7 +2429,6 @@ msgstr "Data Warehouse Rebuilt eh"
 
 #: admin/scheduler/run.php:175 admin/scheduler/run.php:185 cron.php:160
 #: cron.php:170
-#, php-format
 msgid "Process Domain Queue"
 msgstr "Process Domain Queue eh"
 
@@ -2752,7 +2461,6 @@ msgid "The System Settings were updated"
 msgstr "The System Settings were updated eh"
 
 #: admin/settings/index.php:117
-#, php-format
 msgid "Enter the full URL of your %s installation"
 msgstr "Enter the full URL of your %s installation eh"
 
@@ -2765,71 +2473,40 @@ msgid "Enter the number of days to display in expiration emails"
 msgstr "Enter the number of days to display in expiration emails eh"
 
 #: admin/settings/index.php:165
-#, php-format
 msgid "Full %s URL"
 msgstr "Full %s URL eh"
 
 #: admin/settings/index.php:165
-#, php-format
-msgid ""
-"Enter the full URL of your %s installation, excluding the trailing slash "
-"(Example: http://example.com/domainmod)"
-msgstr ""
-"Enter the full URL of your %s installation, excluding the trailing slash "
-"(Example: http://example.com/domainmod)"
+msgid "Enter the full URL of your %s installation, excluding the trailing slash (Example: http://example.com/domainmod)"
+msgstr "Enter the full URL of your %s installation, excluding the trailing slash (Example: http://example.com/domainmod)"
 
 #: admin/settings/index.php:166
-#, php-format
-msgid ""
-"This should be a valid email address that is monitored by the %s System "
-"Administrator. It will be used in various system locations, such as the "
-"REPLY-TO address for emails sent by %s."
-msgstr ""
-"This should be a valid email address that is monitored by the %s System "
-"Administrator. It will be used in various system locations, such as the "
-"REPLY-TO address for emails sent by %s."
+msgid "This should be a valid email address that is monitored by the %s System Administrator. It will be used in various system locations, such as the REPLY-TO address for emails sent by %s."
+msgstr "This should be a valid email address that is monitored by the %s System Administrator. It will be used in various system locations, such as the REPLY-TO address for emails sent by %s."
 
 #: admin/settings/index.php:167
 msgid "Expiration Days to Display"
 msgstr "Expiration Days to Display eh"
 
 #: admin/settings/index.php:167
-msgid ""
-"This is the number of days in the future to display on the Dashboard and in "
-"expiration emails."
-msgstr ""
-"This is the number of days in the future to display on the Dashboard and in "
-"expiration emails."
+msgid "This is the number of days in the future to display on the Dashboard and in expiration emails."
+msgstr "This is the number of days in the future to display on the Dashboard and in expiration emails."
 
 #: admin/settings/index.php:168
 msgid "Email Signature"
 msgstr "Email Signature eh"
 
 #: admin/settings/index.php:168
-msgid ""
-"Every email sent by the system (new account notices, expiration emails, "
-"etc.), includes an email signature, which includes a user's full name and "
-"email address. Use the below menu to choose the user that you would like to "
-"appear in your system's email signature."
-msgstr ""
-"Every email sent by the system (new account notices, expiration emails, "
-"etc.), includes an email signature, which includes a user's full name and "
-"email address. Use the below menu to choose the user that you would like to "
-"appear in your system's email signature."
+msgid "Every email sent by the system (new account notices, expiration emails, etc.), includes an email signature, which includes a user's full name and email address. Use the below menu to choose the user that you would like to appear in your system's email signature."
+msgstr "Every email sent by the system (new account notices, expiration emails, etc.), includes an email signature, which includes a user's full name and email address. Use the below menu to choose the user that you would like to appear in your system's email signature."
 
 #: admin/settings/index.php:180
 msgid "Currency Converter"
 msgstr "Currency Converter"
 
 #: admin/settings/index.php:180
-msgid ""
-"Although it doesn't happen often, sometimes currency converters can "
-"experience downtime. If this happens, and your conversions aren't working "
-"properly, try a different source."
-msgstr ""
-"Although it doesn't happen often, sometimes currency converters can "
-"experience downtime. If this happens, and your conversions aren't working "
-"properly, try a different source."
+msgid "Although it doesn't happen often, sometimes currency converters can experience downtime. If this happens, and your conversions aren't working properly, try a different source."
+msgstr "Although it doesn't happen often, sometimes currency converters can experience downtime. If this happens, and your conversions aren't working properly, try a different source."
 
 #: admin/settings/index.php:181
 msgid "Exchange Rates API"
@@ -2840,14 +2517,8 @@ msgid "Large Mode"
 msgstr "Large Mode eh"
 
 #: admin/settings/index.php:183
-msgid ""
-"If you have a very large database and your main Domains page is loading "
-"slowly, enabling Large Mode should fix the issue, at the cost of losing some "
-"of the advanced filtering and mobile functionality."
-msgstr ""
-"If you have a very large database and your main Domains page is loading "
-"slowly, enabling Large Mode should fix the issue, at the cost of losing some "
-"of the advanced filtering and mobile functionality."
+msgid "If you have a very large database and your main Domains page is loading slowly, enabling Large Mode should fix the issue, at the cost of losing some of the advanced filtering and mobile functionality."
+msgstr "If you have a very large database and your main Domains page is loading slowly, enabling Large Mode should fix the issue, at the cost of losing some of the advanced filtering and mobile functionality."
 
 #: admin/settings/index.php:184 admin/settings/index.php:188
 #: classes/DomainMOD/System.php:114 classes/DomainMOD/System.php:115
@@ -2868,45 +2539,24 @@ msgid "Debugging Mode"
 msgstr "Debugging Mode eh"
 
 #: admin/settings/index.php:187
-#, php-format
-msgid ""
-"Unless you're having problems with %s and support has asked you to turn this "
-"on, you should leave it turned off."
-msgstr ""
-"Unless you're having problems with %s and support has asked you to turn this "
-"on, you should leave it turned off."
+msgid "Unless you're having problems with %s and support has asked you to turn this on, you should leave it turned off."
+msgstr "Unless you're having problems with %s and support has asked you to turn this on, you should leave it turned off."
 
 #: admin/settings/index.php:191
 msgid "Local PHP Log"
 msgstr "Local PHP Log eh"
 
 #: admin/settings/index.php:192
-msgid ""
-"This allows you to log PHP errors in a local file called domainmod.log, "
-"instead of recording them in the main PHP log."
-msgstr ""
-"This allows you to log PHP errors in a local file called domainmod.log, "
-"instead of recording them in the main PHP log."
+msgid "This allows you to log PHP errors in a local file called domainmod.log, instead of recording them in the main PHP log."
+msgstr "This allows you to log PHP errors in a local file called domainmod.log, instead of recording them in the main PHP log."
 
 #: admin/settings/index.php:193
-#, php-format
-msgid ""
-"Only enable this feature temporarily for troubleshooting, and if you're "
-"asked to by %s support."
-msgstr ""
-"Only enable this feature temporarily for troubleshooting, and if you're "
-"asked to by %s support."
+msgid "Only enable this feature temporarily for troubleshooting, and if you're asked to by %s support."
+msgstr "Only enable this feature temporarily for troubleshooting, and if you're asked to by %s support."
 
 #: admin/settings/index.php:194
-#, php-format
-msgid ""
-"Leaving it enabled all the time will cause logged errors to be visible to "
-"everyone who knows the URL to your %s installation, which could allow them "
-"to compromise your system."
-msgstr ""
-"Leaving it enabled all the time will cause logged errors to be visible to "
-"everyone who knows the URL to your %s installation, which could allow them "
-"to compromise your system."
+msgid "Leaving it enabled all the time will cause logged errors to be visible to everyone who knows the URL to your %s installation, which could allow them to compromise your system."
+msgstr "Leaving it enabled all the time will cause logged errors to be visible to everyone who knows the URL to your %s installation, which could allow them to compromise your system."
 
 #: admin/settings/index.php:202
 msgid "SMTP Server Settings"
@@ -2917,23 +2567,40 @@ msgid "Use SMTP Server"
 msgstr "Use SMTP Server eh"
 
 #: admin/settings/index.php:206
-#, php-format
-msgid ""
-"If the instance of PHP running on your %s server isn't configured to send "
-"mail, you can use an external SMTP server to send system emails."
-msgstr ""
-"If the instance of PHP running on your %s server isn't configured to send "
-"mail, you can use an external SMTP server to send system emails."
+msgid "If the instance of PHP running on your %s server isn't configured to send mail, you can use an external SMTP server to send system emails."
+msgstr "If the instance of PHP running on your %s server isn't configured to send mail, you can use an external SMTP server to send system emails."
+
+#: _includes/layout/header.inc.php:156 admin/settings/index.php:207
+#: admin/users/edit.php:407 admin/users/edit.php:413 admin/users/edit.php:418
+#: admin/users/edit.php:431 admin/users/edit.php:439 admin/users/edit.php:444
+#: assets/add/registrar-account.php:171 assets/add/ssl-provider-account.php:175
+#: assets/edit/registrar-account.php:355
+#: assets/edit/ssl-provider-account.php:289 bulk/index.php:2273
+#: bulk/index.php:2279 domains/add.php:493 domains/add.php:498
+#: domains/edit.php:529 domains/edit.php:534 queue/index.php:333
+#: queue/index.php:359 settings/profile/index.php:296
+msgid "Yes"
+msgstr "Yes eh"
+
+#: _includes/layout/header.inc.php:158 admin/settings/index.php:208
+#: admin/users/edit.php:408 admin/users/edit.php:419 admin/users/edit.php:426
+#: admin/users/edit.php:432 admin/users/edit.php:445
+#: assets/add/registrar-account.php:172 assets/add/ssl-provider-account.php:176
+#: assets/edit/registrar-account.php:356
+#: assets/edit/ssl-provider-account.php:290 bulk/index.php:2274
+#: bulk/index.php:2280 domains/add.php:494 domains/add.php:499
+#: domains/edit.php:530 domains/edit.php:535 queue/index.php:345
+#: queue/index.php:371 settings/profile/index.php:297
+msgid "No"
+msgstr "No eh"
 
 #: admin/settings/index.php:210
 msgid "SMTP Server"
 msgstr "SMTP Server eh"
 
 #: admin/settings/index.php:210
-msgid ""
-"If you plan on using an external SMTP server, enter the server name here."
-msgstr ""
-"If you plan on using an external SMTP server, enter the server name here."
+msgid "If you plan on using an external SMTP server, enter the server name here."
+msgstr "If you plan on using an external SMTP server, enter the server name here."
 
 #: admin/settings/index.php:211
 msgid "SMTP Server Protocol"
@@ -2972,7 +2639,6 @@ msgid "Update System Settings"
 msgstr "Update System Settings eh"
 
 #: admin/ssl-fields/add.php:126
-#, php-format
 msgid "Custom SSL Field %s (%s) added"
 msgstr "Custom SSL Field %s (%s) added eh"
 
@@ -2981,7 +2647,6 @@ msgid "The Custom SSL Field you're trying to edit is invalid"
 msgstr "The Custom SSL Field you're trying to edit is invalid eh"
 
 #: admin/ssl-fields/edit.php:112
-#, php-format
 msgid "Custom SSL Field %s (%s) updated"
 msgstr "Custom SSL Field %s (%s) updated eh"
 
@@ -2990,7 +2655,6 @@ msgid "The Custom SSL Field cannot be deleted"
 msgstr "The Custom SSL Field cannot be deleted eh"
 
 #: admin/ssl-fields/edit.php:207
-#, php-format
 msgid "Custom SSL Field %s (%s) deleted"
 msgstr "Custom SSL Field %s (%s) deleted eh"
 
@@ -3003,36 +2667,18 @@ msgid "custom_ssl_field_list"
 msgstr "custom_ssl_field_list_eh"
 
 #: admin/ssl-fields/index.php:118
-#, php-format
-msgid ""
-"Custom SSL Fields help extend the functionality of %s by allowing the user "
-"to create their own data fields."
-msgstr ""
-"Custom SSL Fields help extend the functionality of %s by allowing the user "
-"to create their own data fields."
+msgid "Custom SSL Fields help extend the functionality of %s by allowing the user to create their own data fields."
+msgstr "Custom SSL Fields help extend the functionality of %s by allowing the user to create their own data fields."
 
 #: admin/ssl-fields/index.php:119
-msgid ""
-"For example, if you were working in a corporate environment and wanted to "
-"keep a record of who purchased each of your SSL certificates, you could "
-"create a Purchaser Name text field and keep track of this information for "
-"every one of your SSL certificates. And when you export your SSL data, the "
-"information contained in your custom fields will automatically be included "
-"in the exported data."
-msgstr ""
-"For example, if you were working in a corporate environment and wanted to "
-"keep a record of who purchased each of your SSL certificates, you could "
-"create a Purchaser Name text field and keep track of this information for "
-"every one of your SSL certificates. And when you export your SSL data, the "
-"information contained in your custom fields will automatically be included "
-"in the exported data."
+msgid "For example, if you were working in a corporate environment and wanted to keep a record of who purchased each of your SSL certificates, you could create a Purchaser Name text field and keep track of this information for every one of your SSL certificates. And when you export your SSL data, the information contained in your custom fields will automatically be included in the exported data."
+msgstr "For example, if you were working in a corporate environment and wanted to keep a record of who purchased each of your SSL certificates, you could create a Purchaser Name text field and keep track of this information for every one of your SSL certificates. And when you export your SSL data, the information contained in your custom fields will automatically be included in the exported data."
 
 #: admin/ssl-fields/index.php:124
 msgid "It appears as though you haven't created any Custom SSL Fields yet."
 msgstr "It appears as though you haven't created any Custom SSL Fields yet."
 
 #: admin/ssl-fields/index.php:125
-#, php-format
 msgid "%sClick here%s to add one."
 msgstr "%sClick here%s to add one."
 
@@ -3045,18 +2691,12 @@ msgid "A user with that email address already exists"
 msgstr "A user with that email address already exists eh"
 
 #: admin/users/add.php:166
-#, php-format
 msgid "User %s %s (%s / %s) added."
 msgstr "User %s %s (%s / %s) added."
 
 #: admin/users/add.php:168
-#, php-format
-msgid ""
-"You can either manually email the above credentials to the user, or you can "
-"%sclick here%s to have %s email them for you."
-msgstr ""
-"You can either manually email the above credentials to the user, or you can "
-"%sclick here%s to have %s email them for you."
+msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
+msgstr "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
 
 #: admin/users/add.php:170
 msgid "Use the below form to customize the new user's account."
@@ -3098,11 +2738,9 @@ msgstr "Email Address eh"
 
 #: admin/users/edit.php:80
 msgid "You don't have permissions to edit the primary administrator account"
-msgstr ""
-"You don't have permissions to edit the primary administrator account eh"
+msgstr "You don't have permissions to edit the primary administrator account eh"
 
 #: admin/users/edit.php:232
-#, php-format
 msgid "User %s %s (%s) updated"
 msgstr "User %s %s (%s) updated eh"
 
@@ -3131,9 +2769,29 @@ msgid "You can't delete yourself"
 msgstr "You can't delete yourself eh"
 
 #: admin/users/edit.php:318
-#, php-format
 msgid "User %s %s (%s) deleted"
 msgstr "User %s %s (%s) deleted eh"
+
+#: _includes/layout/header.inc.php:151 admin/users/edit.php:352
+#: settings/profile/index.php:245
+msgid "Language"
+msgstr "Language eh"
+
+#: _includes/layout/header.inc.php:152 admin/users/edit.php:370
+#: assets/add/registrar-fee.php:203 assets/add/ssl-provider-fee.php:201
+#: assets/edit/registrar-fee.php:200 assets/edit/ssl-provider-fee.php:198
+#: assets/registrar-fees.php:76 assets/registrar-fees.php:171
+#: assets/ssl-provider-fees.php:75 assets/ssl-provider-fees.php:168
+#: reporting/domains/registrar-fees.php:118
+#: reporting/domains/registrar-fees.php:212 reporting/ssl/provider-fees.php:118
+#: reporting/ssl/provider-fees.php:203 settings/profile/index.php:260
+msgid "Currency"
+msgstr "Currency eh"
+
+#: _includes/layout/header.inc.php:153 admin/users/edit.php:388
+#: settings/profile/index.php:275
+msgid "Time Zone"
+msgstr "Time Zone eh"
 
 #: admin/users/edit.php:406 settings/profile/index.php:295
 msgid "Subscribe to Domain & SSL Certificate expiration emails?"
@@ -3197,7 +2855,6 @@ msgid "Inactive"
 msgstr "Inactive eh"
 
 #: admin/users/index.php:159
-#, php-format
 msgid "Below is a list of all users that have access to %s."
 msgstr "Below is a list of all users that have access to %s."
 
@@ -3218,7 +2875,6 @@ msgid "The password could not be reset due to an invalid username."
 msgstr "The password could not be reset due to an invalid username."
 
 #: admin/users/reset-password.php:97
-#, php-format
 msgid "The new password for %s is %s"
 msgstr "The new password for %s is %s"
 
@@ -3253,7 +2909,6 @@ msgid "You don't currently have any Owners."
 msgstr "You don't currently have any Owners."
 
 #: assets/add/account-owner.php:66
-#, php-format
 msgid "Owner %s added"
 msgstr "Owner %s added eh"
 
@@ -3266,7 +2921,6 @@ msgid "Owner Name"
 msgstr "Owner Name eh"
 
 #: assets/add/category.php:68
-#, php-format
 msgid "Category %s added"
 msgstr "Category %s added eh"
 
@@ -3284,7 +2938,6 @@ msgid "Stakeholder"
 msgstr "Stakeholder eh"
 
 #: assets/add/dns.php:123
-#, php-format
 msgid "DNS Profile %s added"
 msgstr "DNS Profile %s added eh"
 
@@ -3314,7 +2967,6 @@ msgid "DNS Server"
 msgstr "DNS Server eh"
 
 #: assets/add/host.php:68
-#, php-format
 msgid "Web Host %s added"
 msgstr "Web Host %s added eh"
 
@@ -3331,7 +2983,6 @@ msgid "Web Host's URL"
 msgstr "Web Host's URL eh"
 
 #: assets/add/ip-address.php:70
-#, php-format
 msgid "IP Address %s (%s) added"
 msgstr "IP Address %s (%s) added eh"
 
@@ -3360,7 +3011,6 @@ msgid "rDNS"
 msgstr "rDNS eh"
 
 #: assets/add/registrar-account.php:89
-#, php-format
 msgid "Registrar Account %s (%s, %s) added"
 msgstr "Registrar Account %s (%s, %s) added eh"
 
@@ -3440,10 +3090,8 @@ msgid "API IP Address"
 msgstr "API IP Address eh"
 
 #: assets/add/registrar-account.php:190 assets/edit/registrar-account.php:464
-msgid ""
-"The IP Address that you whitelisted with the domain registrar for API access."
-msgstr ""
-"The IP Address that you whitelisted with the domain registrar for API access."
+msgid "The IP Address that you whitelisted with the domain registrar for API access."
+msgstr "The IP Address that you whitelisted with the domain registrar for API access."
 
 #: assets/add/registrar-fee.php:66
 msgid "Enter the TLD"
@@ -3458,7 +3106,6 @@ msgid "Edit Fee"
 msgstr "Edit Fee eh"
 
 #: assets/add/registrar-fee.php:156 assets/add/ssl-provider-fee.php:143
-#, php-format
 msgid "The fee for %s has been added"
 msgstr "The fee for %s has been added eh"
 
@@ -3526,7 +3173,6 @@ msgid "Add Fee"
 msgstr "Add Fee eh"
 
 #: assets/add/registrar.php:69
-#, php-format
 msgid "Registrar %s added"
 msgstr "Registrar %s added eh"
 
@@ -3551,7 +3197,6 @@ msgid "If the registrar has an API please select it from the list below."
 msgstr "If the registrar has an API please select it from the list below."
 
 #: assets/add/ssl-provider-account.php:80
-#, php-format
 msgid "SSL Account %s (%s, %s) added"
 msgstr "SSL Account %s (%s, %s) added"
 
@@ -3593,7 +3238,6 @@ msgid "Choose an SSL Type"
 msgstr "Choose an SSL Type eh"
 
 #: assets/add/ssl-provider.php:68
-#, php-format
 msgid "SSL Provider %s added"
 msgstr "SSL Provider %s added eh"
 
@@ -3610,7 +3254,6 @@ msgid "SSL Provider's URL"
 msgstr "SSL Provider's URL eh"
 
 #: assets/add/ssl-type.php:66
-#, php-format
 msgid "SSL Type %s added"
 msgstr "SSL Type %s added eh"
 
@@ -3685,7 +3328,6 @@ msgid "You don't currently have any DNS Profiles."
 msgstr "You don't currently have any DNS Profiles."
 
 #: assets/edit/account-owner.php:74
-#, php-format
 msgid "Owner %s updated"
 msgstr "Owner %s updated eh"
 
@@ -3694,10 +3336,8 @@ msgid "Enter the owner's name"
 msgstr "Enter the owner's name eh"
 
 #: assets/edit/account-owner.php:172
-msgid ""
-"This Owner has registrar accounts associated with it and cannot be deleted"
-msgstr ""
-"This Owner has registrar accounts associated with it and cannot be deleted"
+msgid "This Owner has registrar accounts associated with it and cannot be deleted"
+msgstr "This Owner has registrar accounts associated with it and cannot be deleted"
 
 #: assets/edit/account-owner.php:176
 msgid "This Owner has domains associated with it and cannot be deleted"
@@ -3708,18 +3348,14 @@ msgid "This Owner has SSL accounts associated with it and cannot be deleted"
 msgstr "This Owner has SSL accounts associated with it and cannot be deleted"
 
 #: assets/edit/account-owner.php:184
-msgid ""
-"This Owner has SSL certificates associated with it and cannot be deleted"
-msgstr ""
-"This Owner has SSL certificates associated with it and cannot be deleted"
+msgid "This Owner has SSL certificates associated with it and cannot be deleted"
+msgstr "This Owner has SSL certificates associated with it and cannot be deleted"
 
 #: assets/edit/account-owner.php:195
-#, php-format
 msgid "Owner %s deleted"
 msgstr "Owner %s deleted eh"
 
 #: assets/edit/category.php:77
-#, php-format
 msgid "Category %s updated"
 msgstr "Category %s updated eh"
 
@@ -3728,12 +3364,10 @@ msgid "This Category has domains associated with it and cannot be deleted"
 msgstr "This Category has domains associated with it and cannot be deleted eh"
 
 #: assets/edit/category.php:133
-#, php-format
 msgid "Category %s deleted"
 msgstr "Category %s deleted eh"
 
 #: assets/edit/dns.php:149
-#, php-format
 msgid "DNS Profile %s updated"
 msgstr "DNS Profile %s updated eh"
 
@@ -3751,16 +3385,13 @@ msgstr "Enter the second DNS server eh"
 
 #: assets/edit/dns.php:216
 msgid "This DNS Profile has domains associated with it and cannot be deleted"
-msgstr ""
-"This DNS Profile has domains associated with it and cannot be deleted eh"
+msgstr "This DNS Profile has domains associated with it and cannot be deleted eh"
 
 #: assets/edit/dns.php:226
-#, php-format
 msgid "DNS Profile %s deleted"
 msgstr "DNS Profile %s deleted eh"
 
 #: assets/edit/host.php:76
-#, php-format
 msgid "Web Host %s updated"
 msgstr "Web Host %s updated eh"
 
@@ -3769,7 +3400,6 @@ msgid "This Web Host has domains associated with it and cannot be deleted"
 msgstr "This Web Host has domains associated with it and cannot be deleted eh"
 
 #: assets/edit/host.php:131
-#, php-format
 msgid "Web Host %s deleted"
 msgstr "Web Host %s deleted eh"
 
@@ -3780,7 +3410,6 @@ msgid "Web Host"
 msgstr "Web Host eh"
 
 #: assets/edit/ip-address.php:79
-#, php-format
 msgid "IP Address %s (%s) updated"
 msgstr "IP Address %s (%s) updated eh"
 
@@ -3794,16 +3423,13 @@ msgstr "Enter the IP Address eh"
 
 #: assets/edit/ip-address.php:126
 msgid "This IP Address has domains associated with it and cannot be deleted"
-msgstr ""
-"This IP Address has domains associated with it and cannot be deleted eh"
+msgstr "This IP Address has domains associated with it and cannot be deleted eh"
 
 #: assets/edit/ip-address.php:136
-#, php-format
 msgid "IP Address %s (%s) deleted"
 msgstr "IP Address %s (%s) deleted eh"
 
 #: assets/edit/registrar-account.php:124
-#, php-format
 msgid "Registrar Account %s (%s, %s) updated"
 msgstr "Registrar Account %s (%s, %s) updated eh"
 
@@ -3817,13 +3443,10 @@ msgid "Choose the Registrar"
 msgstr "Choose the Registrar eh"
 
 #: assets/edit/registrar-account.php:207
-msgid ""
-"This Registrar Account has domains associated with it and cannot be deleted"
-msgstr ""
-"This Registrar Account has domains associated with it and cannot be deleted"
+msgid "This Registrar Account has domains associated with it and cannot be deleted"
+msgstr "This Registrar Account has domains associated with it and cannot be deleted"
 
 #: assets/edit/registrar-account.php:244
-#, php-format
 msgid "Registrar Account %s (%s, %s) deleted"
 msgstr "Registrar Account %s (%s, %s) deleted eh"
 
@@ -3836,7 +3459,6 @@ msgid "API Requirements"
 msgstr "API Requirements eh"
 
 #: assets/edit/registrar-account.php:374
-#, php-format
 msgid "%s requires the following credentials in order to use their API."
 msgstr "%s requires the following credentials in order to use their API."
 
@@ -3869,7 +3491,6 @@ msgid "Registrar Notes"
 msgstr "Registrar Notes eh"
 
 #: assets/edit/registrar-account.php:464
-#, php-format
 msgid "%sClick here%s to add a new IP Address"
 msgstr "%sClick here%s to add a new IP Address eh"
 
@@ -3882,12 +3503,10 @@ msgid "Registrar Account"
 msgstr "Registrar Account eh"
 
 #: assets/edit/registrar-fee.php:124 assets/edit/ssl-provider-fee.php:120
-#, php-format
 msgid "The fee for %s has been updated"
 msgstr "The fee for %s has been updated eh"
 
 #: assets/edit/registrar.php:77
-#, php-format
 msgid "Registrar %s updated"
 msgstr "Registrar %s updated"
 
@@ -3896,19 +3515,14 @@ msgid "Enter the Registrar name"
 msgstr "Enter the Registrar name eh"
 
 #: assets/edit/registrar.php:144
-msgid ""
-"This Registrar has Registrar Accounts associated with it and cannot be "
-"deleted"
-msgstr ""
-"This Registrar has Registrar Accounts associated with it and cannot be "
-"deleted"
+msgid "This Registrar has Registrar Accounts associated with it and cannot be deleted"
+msgstr "This Registrar has Registrar Accounts associated with it and cannot be deleted"
 
 #: assets/edit/registrar.php:145
 msgid "This Registrar has domains associated with it and cannot be deleted"
 msgstr "This Registrar has domains associated with it and cannot be deleted eh"
 
 #: assets/edit/registrar.php:175
-#, php-format
 msgid "Registrar %s deleted"
 msgstr "Registrar %s deleted eh"
 
@@ -3917,20 +3531,14 @@ msgid "Registrar Name"
 msgstr "Registrar Name eh"
 
 #: assets/edit/ssl-provider-account.php:112
-#, php-format
 msgid "SSL Account %s (%s, %s) updated"
 msgstr "SSL Account %s (%s, %s) updated eh"
 
 #: assets/edit/ssl-provider-account.php:196
-msgid ""
-"This SSL Account has SSL certificates associated with it and cannot be "
-"deleted"
-msgstr ""
-"This SSL Account has SSL certificates associated with it and cannot be "
-"deleted"
+msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
+msgstr "This SSL Account has SSL certificates associated with it and cannot be deleted"
 
 #: assets/edit/ssl-provider-account.php:225
-#, php-format
 msgid "SSL Account %s (%s, %s) deleted"
 msgstr "SSL Account %s (%s, %s) deleted eh"
 
@@ -3940,30 +3548,22 @@ msgid "SSL Provider Account"
 msgstr "SSL Provider Account eh"
 
 #: assets/edit/ssl-provider.php:78
-#, php-format
 msgid "SSL Provider %s updated"
 msgstr "SSL Provider %s updated eh"
 
 #: assets/edit/ssl-provider.php:144
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
-msgstr ""
-"This SSL Provider has Accounts associated with it and cannot be deleted eh"
+msgstr "This SSL Provider has Accounts associated with it and cannot be deleted eh"
 
 #: assets/edit/ssl-provider.php:145
-msgid ""
-"This SSL Provider has SSL Certificates associated with it and cannot be "
-"deleted"
-msgstr ""
-"This SSL Provider has SSL Certificates associated with it and cannot be "
-"deleted eh"
+msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
+msgstr "This SSL Provider has SSL Certificates associated with it and cannot be deleted eh"
 
 #: assets/edit/ssl-provider.php:175
-#, php-format
 msgid "SSL Provider %s deleted"
 msgstr "SSL Provider %s deleted eh"
 
 #: assets/edit/ssl-type.php:74
-#, php-format
 msgid "SSL Type %s updated"
 msgstr "SSL Type %s updated eh"
 
@@ -3973,11 +3573,9 @@ msgstr "Enter the Type name eh"
 
 #: assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr ""
-"This Type has SSL Certificates associated with it and cannot be deleted eh"
+msgstr "This Type has SSL Certificates associated with it and cannot be deleted eh"
 
 #: assets/edit/ssl-type.php:128
-#, php-format
 msgid "SSL Type %s deleted"
 msgstr "SSL Type %s deleted eh"
 
@@ -4055,14 +3653,8 @@ msgid "You don't currently have any Registrar Accounts."
 msgstr "You don't currently have any Registrar Accounts."
 
 #: assets/registrar-fees-missing.php:58
-msgid ""
-"The following Registrars/TLDs are missing Domain fees. In order to ensure "
-"your domain reporting is accurate please update these fees as soon as "
-"possible."
-msgstr ""
-"The following Registrars/TLDs are missing Domain fees. In order to ensure "
-"your domain reporting is accurate please update these fees as soon as "
-"possible."
+msgid "The following Registrars/TLDs are missing Domain fees. In order to ensure your domain reporting is accurate please update these fees as soon as possible."
+msgstr "The following Registrars/TLDs are missing Domain fees. In order to ensure your domain reporting is accurate please update these fees as soon as possible."
 
 #: assets/registrar-fees-missing.php:64 assets/registrar-fees.php:133
 msgid "Missing TLD Fees"
@@ -4077,28 +3669,16 @@ msgid "Below is a list of all the fees associated with"
 msgstr "Below is a list of all the fees associated with eh"
 
 #: assets/registrar-fees.php:148
-#, php-format
-msgid ""
-"You have domains with %s that use this TLDs, however there are no fees "
-"associated with it yet. You should add this fee as soon as possible."
-msgstr ""
-"You have domains with %s that use this TLDs, however there are no fees "
-"associated with it yet. You should add this fee as soon as possible."
+msgid "You have domains with %s that use this TLDs, however there are no fees associated with it yet. You should add this fee as soon as possible."
+msgstr "You have domains with %s that use this TLDs, however there are no fees associated with it yet. You should add this fee as soon as possible."
 
 #: assets/registrar-fees.php:150
-#, php-format
-msgid ""
-"You have domains with %s that use these TLDs, however there are no fees "
-"associated with them yet. You should add these fees as soon as possible."
-msgstr ""
-"You have domains with %s that use these TLDs, however there are no fees "
-"associated with them yet. You should add these fees as soon as possible."
+msgid "You have domains with %s that use these TLDs, however there are no fees associated with them yet. You should add these fees as soon as possible."
+msgstr "You have domains with %s that use these TLDs, however there are no fees associated with them yet. You should add these fees as soon as possible."
 
 #: assets/registrar-fees.php:157
-msgid ""
-"You don't currently have any fees associated with this domain registrar."
-msgstr ""
-"You don't currently have any fees associated with this domain registrar."
+msgid "You don't currently have any fees associated with this domain registrar."
+msgstr "You don't currently have any fees associated with this domain registrar."
 
 #: assets/registrar-fees.php:166 reporting/domains/registrar-fees.php:207
 #: reporting/ssl/provider-fees.php:200
@@ -4160,10 +3740,8 @@ msgid "Provider"
 msgstr "Provider eh"
 
 #: assets/ssl-accounts.php:251
-msgid ""
-"Before adding an SSL Provider Account you must add at least one SSL Provider."
-msgstr ""
-"Before adding an SSL Provider Account you must add at least one SSL Provider."
+msgid "Before adding an SSL Provider Account you must add at least one SSL Provider."
+msgstr "Before adding an SSL Provider Account you must add at least one SSL Provider."
 
 #: assets/ssl-accounts.php:251 ssl/index.php:610
 msgid "Click here to add an SSL Provider"
@@ -4174,12 +3752,8 @@ msgid "You don't currently have any SSL Provider Accounts."
 msgstr "You don't currently have any SSL Provider Accounts."
 
 #: assets/ssl-provider-fees-missing.php:58
-msgid ""
-"The following SSL Certificates are missing fees. In order to ensure your SSL "
-"reporting is accurate please update these fees as soon as possible."
-msgstr ""
-"The following SSL Certificates are missing fees. In order to ensure your SSL "
-"reporting is accurate please update these fees as soon as possible."
+msgid "The following SSL Certificates are missing fees. In order to ensure your SSL reporting is accurate please update these fees as soon as possible."
+msgstr "The following SSL Certificates are missing fees. In order to ensure your SSL reporting is accurate please update these fees as soon as possible."
 
 #: assets/ssl-provider-fees.php:62
 msgid "ssl_provider_fee_list"
@@ -4190,24 +3764,12 @@ msgid "Missing SSL Type Fees"
 msgstr "Missing SSL Type Fees eh"
 
 #: assets/ssl-provider-fees.php:147
-#, php-format
-msgid ""
-"You have SSL certificates with %s that use this SSL Type, however there are "
-"no fees associated with it yet. You should add this fee as soon as possible."
-msgstr ""
-"You have SSL certificates with %s that use this SSL Type, however there are "
-"no fees associated with it yet. You should add this fee as soon as possible."
+msgid "You have SSL certificates with %s that use this SSL Type, however there are no fees associated with it yet. You should add this fee as soon as possible."
+msgstr "You have SSL certificates with %s that use this SSL Type, however there are no fees associated with it yet. You should add this fee as soon as possible."
 
 #: assets/ssl-provider-fees.php:149
-#, php-format
-msgid ""
-"You have SSL certificates with %s that use these SSL Types, however there "
-"are no fees associated with them yet. You should add these fees as soon as "
-"possible."
-msgstr ""
-"You have SSL certificates with %s that use these SSL Types, however there "
-"are no fees associated with them yet. You should add these fees as soon as "
-"possible."
+msgid "You have SSL certificates with %s that use these SSL Types, however there are no fees associated with them yet. You should add these fees as soon as possible."
+msgstr "You have SSL certificates with %s that use these SSL Types, however there are no fees associated with them yet. You should add these fees as soon as possible."
 
 #: assets/ssl-provider-fees.php:156
 msgid "You don't currently have any fees associated with this SSL provider."
@@ -4252,25 +3814,21 @@ msgstr "Enter the list of domains to apply the action to eh"
 
 #: bulk/index.php:121 queue/add.php:226 segments/add.php:72
 #: segments/edit.php:81
-#, php-format
 msgid "There is %s invalid domain on your list"
 msgstr "There is %s invalid domain on your list eh"
 
 #: bulk/index.php:125 queue/add.php:230 segments/add.php:76
 #: segments/edit.php:85
-#, php-format
 msgid "There are %s invalid domains on your list"
 msgstr "There are %s invalid domains on your list eh"
 
 #: bulk/index.php:129 queue/add.php:234 segments/add.php:80
 #: segments/edit.php:89
-#, php-format
 msgid "Plus %s other"
 msgstr "Plus %s other eh"
 
 #: bulk/index.php:133 queue/add.php:238 segments/add.php:84
 #: segments/edit.php:93
-#, php-format
 msgid "Plus %s others"
 msgstr "Plus %s others eh"
 
@@ -4279,13 +3837,8 @@ msgid "Domains Renewed"
 msgstr "Domains Renewed eh"
 
 #: bulk/index.php:204 queue/add.php:294
-#, php-format
-msgid ""
-"At least one of the domains you entered already exists in %s. %s You should "
-"run the domain list through a Segment filter to determine which one(s)."
-msgstr ""
-"At least one of the domains you entered already exists in %s. %s You should "
-"run the domain list through a Segment filter to determine which one(s)."
+msgid "At least one of the domains you entered already exists in %s. %s You should run the domain list through a Segment filter to determine which one(s)."
+msgstr "At least one of the domains you entered already exists in %s. %s You should run the domain list through a Segment filter to determine which one(s)."
 
 #: bulk/index.php:205
 msgid "You have entered an invalid expiry date"
@@ -4294,7 +3847,6 @@ msgstr "You have entered an invalid expiry date eh"
 #: bulk/index.php:206 bulk/index.php:207 bulk/index.php:208 bulk/index.php:209
 #: bulk/index.php:210 bulk/index.php:488 bulk/index.php:559 bulk/index.php:630
 #: bulk/index.php:749 bulk/index.php:900
-#, php-format
 msgid "Please choose the new %s"
 msgstr "Please choose the new %s eh"
 
@@ -4323,7 +3875,6 @@ msgid "Years"
 msgstr "Years eh"
 
 #: bulk/index.php:427
-#, php-format
 msgid "Domain Renewed For %s"
 msgstr "Domain Renewed For %s eh"
 
@@ -4417,7 +3968,6 @@ msgid "Expiry Date Updated"
 msgstr "Expiry Date Updated eh"
 
 #: bulk/index.php:1911
-#, php-format
 msgid "Custom Field %s updated"
 msgstr "Custom Field %s updated eh"
 
@@ -4515,26 +4065,20 @@ msgid "Update Custom Domain Field"
 msgstr "Update Custom Domain Field eh"
 
 #: bulk/index.php:2010
-msgid ""
-"The Bulk Updater allows you add or modify multiple domains at the same time, "
-"whether it's a couple dozen or a couple thousand, all with a few clicks."
-msgstr ""
-"The Bulk Updater allows you add or modify multiple domains at the same time, "
-"whether it's a couple dozen or a couple thousand, all with a few clicks."
+msgid "The Bulk Updater allows you add or modify multiple domains at the same time, whether it's a couple dozen or a couple thousand, all with a few clicks."
+msgstr "The Bulk Updater allows you add or modify multiple domains at the same time, whether it's a couple dozen or a couple thousand, all with a few clicks."
 
 #: bulk/index.php:2016
 msgid "The following domains were added"
 msgstr "The following domains were added eh"
 
 #: bulk/index.php:2018
-#, php-format
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
 msgstr[0] "The following domain was renewed for %s year"
 msgstr[1] "The following domains were renewed for %s years"
 
 #: bulk/index.php:2020
-#, php-format
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
 msgstr[0] "The following domain was fully renewed for %s year"
@@ -4610,8 +4154,7 @@ msgstr "The following domains had their Web Hosting Provider changed eh"
 
 #: bulk/index.php:2056
 msgid "The following domains (and associated SSL Certificates) were deleted"
-msgstr ""
-"The following domains (and associated SSL Certificates) were deleted eh"
+msgstr "The following domains (and associated SSL Certificates) were deleted eh"
 
 #: bulk/index.php:2058
 msgid "The following domains had the Note appended"
@@ -4642,22 +4185,12 @@ msgid "Choose the Custom Field to Edit"
 msgstr "Choose the Custom Field to Edit eh"
 
 #: bulk/index.php:2122
-msgid ""
-"WARNING: In addition to deleting the domains, all SSL certificates and "
-"custom field data associated with the domains and SSL certificates will also "
-"be deleted."
-msgstr ""
-"WARNING: In addition to deleting the domains, all SSL certificates and "
-"custom field data associated with the domains and SSL certificates will also "
-"be deleted."
+msgid "WARNING: In addition to deleting the domains, all SSL certificates and custom field data associated with the domains and SSL certificates will also be deleted."
+msgstr "WARNING: In addition to deleting the domains, all SSL certificates and custom field data associated with the domains and SSL certificates will also be deleted."
 
 #: bulk/index.php:2122
-msgid ""
-"If you don't want to completely remove all traces of the domains from the "
-"system you may be better off marking them as expired instead."
-msgstr ""
-"If you don't want to completely remove all traces of the domains from the "
-"system you may be better off marking them as expired instead."
+msgid "If you don't want to completely remove all traces of the domains from the system you may be better off marking them as expired instead."
+msgstr "If you don't want to completely remove all traces of the domains from the system you may be better off marking them as expired instead."
 
 #: bulk/index.php:2127 queue/add.php:511 queue/add.php:515
 msgid "Domains to add (one per line)"
@@ -4801,7 +4334,6 @@ msgid "View"
 msgstr "View eh"
 
 #: classes/DomainMOD/Domain.php:50
-#, php-format
 msgid "Line %s contains an invalid domain"
 msgstr "Line %s contains an invalid domain eh"
 
@@ -4957,31 +4489,16 @@ msgid "No Users Are Subscribed"
 msgstr "No Users Are Subscribed eh"
 
 #: classes/DomainMOD/Email.php:281 classes/DomainMOD/Email.php:290
-#, php-format
-msgid ""
-"Below is a list of all the Domains & SSL Certificates in %s that are "
-"expiring in the next %s days."
-msgstr ""
-"Below is a list of all the Domains & SSL Certificates in %s that are "
-"expiring in the next %s days."
+msgid "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
+msgstr "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
 
 #: classes/DomainMOD/Email.php:283 classes/DomainMOD/Email.php:291
-#, php-format
-msgid ""
-"If you would like to change the frequency of this email notification please "
-"contact your %s administrator."
-msgstr ""
-"If you would like to change the frequency of this email notification please "
-"contact your %s administrator."
+msgid "If you would like to change the frequency of this email notification please contact your %s administrator."
+msgstr "If you would like to change the frequency of this email notification please contact your %s administrator."
 
 #: classes/DomainMOD/Email.php:383 classes/DomainMOD/Email.php:399
-#, php-format
-msgid ""
-"You've received this email because you're currently subscribed to receive "
-"expiration notifications from the %s installation located at"
-msgstr ""
-"You've received this email because you're currently subscribed to receive "
-"expiration notifications from the %s installation located at"
+msgid "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
+msgstr "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
 
 #: classes/DomainMOD/Email.php:383 classes/DomainMOD/Email.php:400
 msgid "To unsubscribe from these notifications please visit"
@@ -5004,7 +4521,6 @@ msgid "Yes, Delete"
 msgstr "Yes, Delete eh"
 
 #: classes/DomainMOD/Layout.php:165
-#, php-format
 msgid "Are you sure you want to delete %s"
 msgstr "Are you sure you want to delete %s eh"
 
@@ -5021,13 +4537,8 @@ msgid "Database Upgrade Available"
 msgstr "Database Upgrade Available eh"
 
 #: classes/DomainMOD/Notice.php:32
-#, php-format
-msgid ""
-"Your %s software was recently updated, so we now need to upgrade your "
-"database."
-msgstr ""
-"Your %s software was recently updated, so we now need to upgrade your "
-"database."
+msgid "Your %s software was recently updated, so we now need to upgrade your database."
+msgstr "Your %s software was recently updated, so we now need to upgrade your database."
 
 #: classes/DomainMOD/Notice.php:33 classes/DomainMOD/Notice.php:38
 msgid "Critical Warning"
@@ -5038,38 +4549,20 @@ msgid "Please Read"
 msgstr "Please Read eh"
 
 #: classes/DomainMOD/Notice.php:35
-#, php-format
-msgid ""
-"We %sstrongly%s recommend that you backup your %s installation directory and "
-"database before proceeding with the upgrade"
-msgstr ""
-"We %sstrongly%s recommend that you backup your %s installation directory and "
-"database before proceeding with the upgrade"
+msgid "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
+msgstr "We %sstrongly%s recommend that you backup your %s installation directory and database before proceeding with the upgrade"
 
 #: classes/DomainMOD/Notice.php:36
-msgid ""
-"If something goes wrong during the upgrade and you haven't created a backup, "
-"there may be no way to recover your data"
-msgstr ""
-"If something goes wrong during the upgrade and you haven't created a backup, "
-"there may be no way to recover your data"
+msgid "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
+msgstr "If something goes wrong during the upgrade and you haven't created a backup, there may be no way to recover your data"
 
 #: classes/DomainMOD/Notice.php:37
-#, php-format
-msgid ""
-"You should also make a note of your current version (%s), as this may be "
-"required by the recovery process"
-msgstr ""
-"You should also make a note of your current version (%s), as this may be "
-"required by the recovery process"
+msgid "You should also make a note of your current version (%s), as this may be required by the recovery process"
+msgstr "You should also make a note of your current version (%s), as this may be required by the recovery process"
 
 #: classes/DomainMOD/Notice.php:40
-msgid ""
-"Please be patient, this may take a moment. The older your current version "
-"is, the longer the upgrade will take."
-msgstr ""
-"Please be patient, this may take a moment. The older your current version "
-"is, the longer the upgrade will take."
+msgid "Please be patient, this may take a moment. The older your current version is, the longer the upgrade will take."
+msgstr "Please be patient, this may take a moment. The older your current version is, the longer the upgrade will take."
 
 #: classes/DomainMOD/Notice.php:40
 msgid "Upgrade Database"
@@ -5129,7 +4622,6 @@ msgid "Get Live Version"
 msgstr "Get Live Version eh"
 
 #: classes/DomainMOD/System.php:215
-#, php-format
 msgid "A new version of %s is available for download."
 msgstr "A new version of %s is available for download."
 
@@ -5142,12 +4634,10 @@ msgid "You must be logged in to access this area"
 msgstr "You must be logged in to access this area eh"
 
 #: classes/DomainMOD/System.php:260
-#, php-format
 msgid "%s is already installed"
 msgstr "%s is already installed eh"
 
 #: classes/DomainMOD/System.php:260
-#, php-format
 msgid "You should delete the %s folder"
 msgstr "You should delete the %s folder eh"
 
@@ -5184,7 +4674,6 @@ msgid "Sold Domains"
 msgstr "Sold Domains eh"
 
 #: dashboard/index.php:125
-#, php-format
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
 msgstr[0] "Expiring in the next day eh"
@@ -5220,7 +4709,6 @@ msgid "Pending (SSL Certificates)"
 msgstr "Pending (SSL Certificates)"
 
 #: debug/off/index.php:52 debug/on/index.php:53
-#, php-format
 msgid "Debugging Mode is %s"
 msgstr "Debugging Mode is %s eh"
 
@@ -5237,12 +4725,10 @@ msgid "On"
 msgstr "On eh"
 
 #: domains/add.php:107
-#, php-format
 msgid "This domain is already in %s"
 msgstr "This domain is already in %s eh"
 
 #: domains/add.php:250
-#, php-format
 msgid "Domain %s added"
 msgstr "Domain %s added eh"
 
@@ -5276,18 +4762,14 @@ msgid "Custom Fields"
 msgstr "Custom Fields eh"
 
 #: domains/edit.php:249
-#, php-format
 msgid "Domain %s updated"
 msgstr "Domain %s updated eh"
 
 #: domains/edit.php:357
-msgid ""
-"This Domain has SSL Certificates associated with it and cannot be deleted"
-msgstr ""
-"This Domain has SSL Certificates associated with it and cannot be deleted eh"
+msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
+msgstr "This Domain has SSL Certificates associated with it and cannot be deleted eh"
 
 #: domains/edit.php:383
-#, php-format
 msgid "Domain %s deleted"
 msgstr "Domain %s deleted eh"
 
@@ -5296,7 +4778,6 @@ msgid "View Full Notes"
 msgstr "View Full Notes eh"
 
 #: domains/edit.php:633
-#, php-format
 msgid "Data Warehouse Information for %s"
 msgstr "Data Warehouse Information for %s eh"
 
@@ -5405,22 +4886,12 @@ msgid "Go"
 msgstr "Go eh"
 
 #: domains/index.php:932
-#, php-format
-msgid ""
-"Before you can start adding domains to %s you need to add at least one "
-"domain registrar and a domain registrar account."
-msgstr ""
-"Before you can start adding domains to %s you need to add at least one "
-"domain registrar and a domain registrar account."
+msgid "Before you can start adding domains to %s you need to add at least one domain registrar and a domain registrar account."
+msgstr "Before you can start adding domains to %s you need to add at least one domain registrar and a domain registrar account."
 
 #: domains/index.php:934
-#, php-format
-msgid ""
-"Please see the %sFirst Run%s section of the User Guide for more detailed "
-"information."
-msgstr ""
-"Please see the %sFirst Run%s section of the User Guide for more detailed "
-"information."
+msgid "Please see the %sFirst Run%s section of the User Guide for more detailed information."
+msgstr "Please see the %sFirst Run%s section of the User Guide for more detailed information."
 
 #: domains/index.php:937
 msgid "Domain Registrars found"
@@ -5443,13 +4914,8 @@ msgid "Domains found"
 msgstr "Domains found eh"
 
 #: domains/index.php:953
-#, php-format
-msgid ""
-"Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see "
-"the %sAdding Domains%s section of the User Guide for more options."
-msgstr ""
-"Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see "
-"the %sAdding Domains%s section of the User Guide for more options."
+msgid "Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see the %sAdding Domains%s section of the User Guide for more options."
+msgstr "Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see the %sAdding Domains%s section of the User Guide for more options."
 
 #: domains/index.php:999 ssl/index.php:645
 msgid "Advanced Filtering"
@@ -5493,22 +4959,27 @@ msgstr "IP eh"
 msgid "Inactive Domain"
 msgstr "Inactive Domain eh"
 
+#. The character(s) representing the translation of "Pending Transfer"
 #: domains/index.php:2396
 msgid "Pending Transfer Characters"
 msgstr "T"
 
+#. The character(s) representing the translation of  "Pending Renewal"
 #: domains/index.php:2398 ssl/index.php:1582
 msgid "Pending Renewal Characters"
 msgstr "PRn"
 
+#. The character(s) representing the translation of  "Pending Other"
 #: domains/index.php:2400 ssl/index.php:1584
 msgid "Pending Other Characters"
 msgstr "PO"
 
+#. The character(s) representing the translation of  "Pending Registration"
 #: domains/index.php:2402 ssl/index.php:1586
 msgid "Pending Registration Characters"
 msgstr "PRg"
 
+#. The character(s) representing the translation of  "Sold"
 #: domains/index.php:2404
 msgid "Pending Sold Characters"
 msgstr "S"
@@ -5517,6 +4988,7 @@ msgstr "S"
 msgid "Private WHOIS Registration"
 msgstr "Private WHOIS Registration eh"
 
+#. The character(s) representing the translation of  "Private WHOIS"
 #: domains/index.php:2408
 msgid "Private WHOIS Characters"
 msgstr "PRV"
@@ -5526,12 +4998,10 @@ msgid "Your search returned zero results."
 msgstr "Your search returned zero results."
 
 #: domains/notes.php:57
-#, php-format
 msgid "Domain Notes (%s)"
 msgstr "Domain Notes (%s) eh"
 
 #: domains/notes.php:70 ssl/notes.php:70
-#, php-format
 msgid "Notes For %s"
 msgstr "Notes For %s eh"
 
@@ -5560,31 +5030,16 @@ msgid "ERROR -- PROBLEM WITH CODE IN RESULTS.PHP"
 msgstr "ERROR -- PROBLEM WITH CODE IN RESULTS.PHP eh"
 
 #: domains/results.php:300
-#, php-format
-msgid ""
-"The below domains are in the segment %s, and they are stored in your %s "
-"database, but they are currently marked as inactive."
-msgstr ""
-"The below domains are in the segment %s, and they are stored in your %s "
-"database, but they are currently marked as inactive."
+msgid "The below domains are in the segment %s, and they are stored in your %s database, but they are currently marked as inactive."
+msgstr "The below domains are in the segment %s, and they are stored in your %s database, but they are currently marked as inactive."
 
 #: domains/results.php:302
-#, php-format
-msgid ""
-"The below domains are in the segment %s, and they are stored in your %s "
-"database, but they were filtered out based on your search criteria."
-msgstr ""
-"The below domains are in the segment %s, and they are stored in your %s "
-"database, but they were filtered out based on your search criteria."
+msgid "The below domains are in the segment %s, and they are stored in your %s database, but they were filtered out based on your search criteria."
+msgstr "The below domains are in the segment %s, and they are stored in your %s database, but they were filtered out based on your search criteria."
 
 #: domains/results.php:304
-#, php-format
-msgid ""
-"The below domains are in the segment %s, and they are not in your %s "
-"database."
-msgstr ""
-"The below domains are in the segment %s, and they are not in your %s "
-"database."
+msgid "The below domains are in the segment %s, and they are not in your %s database."
+msgstr "The below domains are in the segment %s, and they are not in your %s database."
 
 #: domains/results.php:309 domains/results.php:311 domains/results.php:313
 msgid "Export Results"
@@ -5622,12 +5077,6 @@ msgstr "Login eh"
 msgid "Forgot your Password"
 msgstr "Forgot your Password eh"
 
-#: install/currency/index.php:237 install/email-admin/index.php:90
-#: install/email-system/index.php:99 install/requirements/index.php:63
-#: install/timezone/index.php:587
-msgid "Go Back"
-msgstr "Go Back eh"
-
 #: install/currency/index.php:239 install/email-admin/index.php:92
 #: install/requirements/index.php:64 install/timezone/index.php:589
 msgid "Next Step"
@@ -5642,12 +5091,8 @@ msgid "The administrator email addresses didn't match"
 msgstr "The administrator email addresses didn't match eh"
 
 #: install/email-admin/index.php:83
-msgid ""
-"This email address will be used for the first administrator account, which "
-"will be created during the installation process."
-msgstr ""
-"This email address will be used for the first administrator account, which "
-"will be created during the installation process."
+msgid "This email address will be used for the first administrator account, which will be created during the installation process."
+msgstr "This email address will be used for the first administrator account, which will be created during the installation process."
 
 #: install/email-admin/index.php:87 install/email-system/index.php:96
 msgid "Enter Email"
@@ -5656,6 +5101,16 @@ msgstr "Enter Email eh"
 #: install/email-admin/index.php:88 install/email-system/index.php:97
 msgid "Confirm Email"
 msgstr "Confirm Email eh"
+
+#: install/currency/index.php:237 install/email-admin/index.php:90
+#: install/email-system/index.php:99 install/requirements/index.php:63
+#: install/timezone/index.php:587
+msgid "Go Back"
+msgstr "Go Back eh"
+
+#: install/language/index.php:87
+msgid "Begin Installation"
+msgstr "Begin Installation eh"
 
 #: install/email-system/index.php:67
 msgid "Please enter and confirm the system email address"
@@ -5666,16 +5121,8 @@ msgid "The system email addresses didn't match"
 msgstr "The system email addresses didn't match eh"
 
 #: install/email-system/index.php:92
-msgid ""
-"This email address will be used in various locations by the system, such as "
-"the FROM address when expiration emails are sent to users."
-msgstr ""
-"This email address will be used in various locations by the system, such as "
-"the FROM address when expiration emails are sent to users."
-
-#: install/email-system/index.php:101
-msgid "Proceed With Installation"
-msgstr "Proceed With Installation eh"
+msgid "This email address will be used in various locations by the system, such as the FROM address when expiration emails are sent to users."
+msgstr "This email address will be used in various locations by the system, such as the FROM address when expiration emails are sent to users."
 
 #: install/go.php:44
 msgid "Administrator"
@@ -5738,76 +5185,36 @@ msgid "Data Warehouse Build"
 msgstr "Data Warehouse Build eh"
 
 #: install/go.php:1228
-#, php-format
-msgid ""
-"%s has been successfully installed and you should now delete the %s folder"
-msgstr ""
-"%s has been successfully installed and you should now delete the %s folder eh"
+msgid "%s has been successfully installed and you should now delete the %s folder"
+msgstr "%s has been successfully installed and you should now delete the %s folder eh"
 
 #: install/go.php:1228
-#, php-format
-msgid ""
-"The default username and password are %s, and you'll be prompted to change "
-"the password after logging in"
-msgstr ""
-"The default username and password are %s, and you'll be prompted to change "
-"the password after logging in"
+msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
+msgstr "The default username and password are %s, and you'll be prompted to change the password after logging in"
 
 #: install/language/index.php:64
-msgid ""
-"We've tried our best to automatically determine your language, but if for "
-"some reason we were wrong, please select it below."
-msgstr ""
-"We've tried our best to automatically determine your language, but if for "
-"some reason we were wrong, please select it below."
+msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
+msgstr "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
 
 #: install/language/index.php:66
-#, php-format
-msgid ""
-"If your language is not yet supported, we recommend selecting %sEnglish "
-"(United States)%s."
-msgstr ""
-"If your language is not yet supported, we recommend selecting %sEnglish "
-"(United States)%s."
+msgid "If your language is not yet supported, we recommend selecting %sEnglish (United States)%s."
+msgstr "If your language is not yet supported, we recommend selecting %sEnglish (United States)%s."
 
 #: install/language/index.php:66
-#, php-format
-msgid ""
-"Multilingual support is very new, so please bear with us while we get new "
-"languages added."
-msgstr ""
-"Multilingual support is very new, so please bear with us while we get new "
-"languages added."
-
-#: install/language/index.php:87
-msgid "Begin Installation"
-msgstr "Begin Installation eh"
+msgid "Multilingual support is very new, so please bear with us while we get new languages added."
+msgstr "Multilingual support is very new, so please bear with us while we get new languages added."
 
 #: install/requirements/index.php:52
-msgid ""
-"The first thing we need to do is check to see if your web server meets the "
-"software's requirements."
-msgstr ""
-"The first thing we need to do is check to see if your web server meets the "
-"software's requirements."
+msgid "The first thing we need to do is check to see if your web server meets the software's requirements."
+msgstr "The first thing we need to do is check to see if your web server meets the software's requirements."
 
 #: install/requirements/index.php:54
-#, php-format
-msgid ""
-"All of the below items should say %s or %s. If they don't, you still may be "
-"able to install %s, but certain features might not work completely."
-msgstr ""
-"All of the below items should say %s or %s. If they don't, you still may be "
-"able to install %s, but certain features might not work completely."
+msgid "All of the below items should say %s or %s. If they don't, you still may be able to install %s, but certain features might not work completely."
+msgstr "All of the below items should say %s or %s. If they don't, you still may be able to install %s, but certain features might not work completely."
 
 #: install/requirements/index.php:56
-#, php-format
-msgid ""
-"If any of the items say %s or %s, we recommend you install and/or update the "
-"appropriate software so that all of the requirements are met."
-msgstr ""
-"If any of the items say %s or %s, we recommend you install and/or update the "
-"appropriate software so that all of the requirements are met."
+msgid "If any of the items say %s or %s, we recommend you install and/or update the appropriate software so that all of the requirements are met."
+msgstr "If any of the items say %s or %s, we recommend you install and/or update the appropriate software so that all of the requirements are met."
 
 #: invalid.php:46
 msgid "The page you're trying to access is invalid."
@@ -5834,15 +5241,10 @@ msgid "Registrar Account Added To Domain List Queue"
 msgstr "Registrar Account Added To Domain List Queue eh"
 
 #: queue/add.php:206
-msgid ""
-"Either the registrar associated with this account doesn't have API support, "
-"or you haven't yet updated the registrar to indicate API support."
-msgstr ""
-"Either the registrar associated with this account doesn't have API support, "
-"or you haven't yet updated the registrar to indicate API support."
+msgid "Either the registrar associated with this account doesn't have API support, or you haven't yet updated the registrar to indicate API support."
+msgstr "Either the registrar associated with this account doesn't have API support, or you haven't yet updated the registrar to indicate API support."
 
 #: queue/add.php:207
-#, php-format
 msgid "Please check the %sregistrar%s and try again."
 msgstr "Please check the %sregistrar%s and try again."
 
@@ -5852,8 +5254,7 @@ msgstr "Enter the list of domains to add to the queue eh"
 
 #: queue/add.php:295
 msgid "At least one of the domains you entered is already in the domain queue."
-msgstr ""
-"At least one of the domains you entered is already in the domain queue."
+msgstr "At least one of the domains you entered is already in the domain queue."
 
 #: queue/add.php:352 queue/index.php:116 queue/index.php:561
 msgid "Domains Added To Queue"
@@ -5864,45 +5265,28 @@ msgid "Domain Queue & API Prerequisites"
 msgstr "Domain Queue & API Prerequisites eh"
 
 #: queue/add.php:391
-#, php-format
-msgid ""
-"Before you can add domains to %s using the Domain Queue you must first do "
-"the following"
-msgstr ""
-"Before you can add domains to %s using the Domain Queue you must first do "
-"the following"
+msgid "Before you can add domains to %s using the Domain Queue you must first do the following"
+msgstr "Before you can add domains to %s using the Domain Queue you must first do the following"
 
 #: queue/add.php:393
-msgid ""
-"Ensure that the registrar has an API and that your account has been granted "
-"access to it"
-msgstr ""
-"Ensure that the registrar has an API and that your account has been granted "
-"access to it"
+msgid "Ensure that the registrar has an API and that your account has been granted access to it"
+msgstr "Ensure that the registrar has an API and that your account has been granted access to it"
 
 #: queue/add.php:394
-#, php-format
 msgid "Enable API Support on the %sregistrar asset%s"
 msgstr "Enable API Support on the %sregistrar asset%s eh"
 
 #: queue/add.php:395
-#, php-format
 msgid "Save the required API credentials with the %sregistrar account asset%s"
-msgstr ""
-"Save the required API credentials with the %sregistrar account asset%s eh"
+msgstr "Save the required API credentials with the %sregistrar account asset%s eh"
 
 #: queue/add.php:410
 msgid "Choose the Registrar Account to import"
 msgstr "Choose the Registrar Account to import eh"
 
 #: queue/add.php:422
-#, php-format
-msgid ""
-"%s requires the following credentials in order to use their API. These "
-"credentials must to be saved with the %sregistrar account asset%s."
-msgstr ""
-"%s requires the following credentials in order to use their API. These "
-"credentials must to be saved with the %sregistrar account asset%s."
+msgid "%s requires the following credentials in order to use their API. These credentials must to be saved with the %sregistrar account asset%s."
+msgstr "%s requires the following credentials in order to use their API. These credentials must to be saved with the %sregistrar account asset%s."
 
 #: queue/add.php:426
 msgid "Click Here to Enter"
@@ -5913,15 +5297,8 @@ msgid "Domain List"
 msgstr "Domain List eh"
 
 #: queue/add.php:509
-#, php-format
-msgid ""
-"The %s API has a domain list feature, so you don't even have to supply a "
-"list of the domains you want to import, %s will retrieve them for you "
-"automatically."
-msgstr ""
-"The %s API has a domain list feature, so you don't even have to supply a "
-"list of the domains you want to import, %s will retrieve them for you "
-"automatically."
+msgid "The %s API has a domain list feature, so you don't even have to supply a list of the domains you want to import, %s will retrieve them for you automatically."
+msgstr "The %s API has a domain list feature, so you don't even have to supply a list of the domains you want to import, %s will retrieve them for you automatically."
 
 #: queue/add.php:511
 msgid "Optional"
@@ -5997,7 +5374,6 @@ msgid "Domain ID"
 msgstr "Domain ID eh"
 
 #: queue/index.php:199 queue/index.php:665
-#, php-format
 msgid "Already in %s"
 msgstr "Already in %s eh"
 
@@ -6014,12 +5390,8 @@ msgid "Are you sure you want to clear completed items from the queue?"
 msgstr "Are you sure you want to clear completed items from the queue?"
 
 #: queue/index.php:435
-msgid ""
-"Before clearing the queue you should review the results to make sure that "
-"everything is correct."
-msgstr ""
-"Before clearing the queue you should review the results to make sure that "
-"everything is correct."
+msgid "Before clearing the queue you should review the results to make sure that everything is correct."
+msgstr "Before clearing the queue you should review the results to make sure that everything is correct."
 
 #: queue/index.php:436
 msgid "YES, REALLY CLEAR COMPLETED ITEMS FROM THE QUEUE"
@@ -6058,16 +5430,10 @@ msgid "The Queue Is Currently Processing"
 msgstr "The Queue Is Currently Processing eh"
 
 #: queue/index.php:515
-#, php-format
-msgid ""
-"The Domain Queue relies on your domain registrar's API to import your "
-"domains, so they must have an API and support for it must be built into %s."
-msgstr ""
-"The Domain Queue relies on your domain registrar's API to import your "
-"domains, so they must have an API and support for it must be built into %s."
+msgid "The Domain Queue relies on your domain registrar's API to import your domains, so they must have an API and support for it must be built into %s."
+msgstr "The Domain Queue relies on your domain registrar's API to import your domains, so they must have an API and support for it must be built into %s."
 
 #: queue/index.php:517
-#, php-format
 msgid "For more information please see the %sDomain Queue information page%s"
 msgstr "For more information please see the %sDomain Queue information page%s"
 
@@ -6092,52 +5458,26 @@ msgid "Added"
 msgstr "Added eh"
 
 #: queue/intro.php:48
-#, php-format
-msgid ""
-"The Domain Queue allows you to use your domain registrar's API to "
-"automatically import the details of your domains, such as expiry date and "
-"DNS servers, which are then added to your main %s database along with your "
-"domains."
-msgstr ""
-"The Domain Queue allows you to use your domain registrar's API to "
-"automatically import the details of your domains, such as expiry date and "
-"DNS servers, which are then added to your main %s database along with your "
-"domains."
+msgid "The Domain Queue allows you to use your domain registrar's API to automatically import the details of your domains, such as expiry date and DNS servers, which are then added to your main %s database along with your domains."
+msgstr "The Domain Queue allows you to use your domain registrar's API to automatically import the details of your domains, such as expiry date and DNS servers, which are then added to your main %s database along with your domains."
 
 #: queue/intro.php:49
-msgid ""
-"All you have to do is choose the registrar account, supply a list of "
-"domains, and the rest of the work is done for you. Depending on the "
-"registrar, you may not even have to supply the list of domains."
-msgstr ""
-"All you have to do is choose the registrar account, supply a list of "
-"domains, and the rest of the work is done for you. Depending on the "
-"registrar, you may not even have to supply the list of domains."
+msgid "All you have to do is choose the registrar account, supply a list of domains, and the rest of the work is done for you. Depending on the registrar, you may not even have to supply the list of domains."
+msgstr "All you have to do is choose the registrar account, supply a list of domains, and the rest of the work is done for you. Depending on the registrar, you may not even have to supply the list of domains."
 
 #: queue/intro.php:51
-#, php-format
-msgid ""
-"If you use a registrar that isn't already supported, and they have an API, "
-"send us an email at %s and we'll see what we can do about adding it."
-msgstr ""
-"If you use a registrar that isn't already supported, and they have an API, "
-"send us an email at %s and we'll see what we can do about adding it."
+msgid "If you use a registrar that isn't already supported, and they have an API, send us an email at %s and we'll see what we can do about adding it."
+msgstr "If you use a registrar that isn't already supported, and they have an API, send us an email at %s and we'll see what we can do about adding it."
 
 #: queue/intro.php:67
 msgid "Currently Supported Registrars"
 msgstr "Currently Supported Registrars eh"
 
 #: queue/intro.php:69
-#, php-format
-msgid ""
-"In order to use the Domain Queue you must setup the cron job that comes with "
-"%s."
-msgstr ""
-"In order to use the Domain Queue you must setup the cron job that comes with "
-"%s."
+msgid "In order to use the Domain Queue you must setup the cron job that comes with %s."
+msgstr "In order to use the Domain Queue you must setup the cron job that comes with %s."
 
 #: queue/intro.php:70
-#, php-format
 msgid "For more information please see the %sUser Guide%s."
 msgstr "For more information please see the %sUser Guide%s."
 
@@ -6390,22 +5730,18 @@ msgstr "dw_potential_problems_report_eh"
 
 #: reporting/dw/potential-problems.php:86
 #: reporting/dw/potential-problems.php:154
-#, php-format
 msgid "Accounts without a DNS Zone (%s)"
 msgstr "Accounts without a DNS Zone (%s)"
 
 #: reporting/dw/potential-problems.php:101
-#, php-format
 msgid "DNS Zones without an Account (%s)"
 msgstr "DNS Zones without an Account (%s)"
 
 #: reporting/dw/potential-problems.php:116
-#, php-format
 msgid "Suspended Accounts (%s)"
 msgstr "Suspended Accounts (%s)"
 
 #: reporting/index.php:51
-#, php-format
 msgid "Before running any reports you should %supdate the conversion rates%s."
 msgstr "Before running any reports you should %supdate the conversion rates%s."
 
@@ -6598,12 +5934,8 @@ msgid "Reset Password"
 msgstr "Reset Password eh"
 
 #: reset.php:63 reset.php:93
-msgid ""
-"If there's a matching username or email address your new password will been "
-"emailed to you."
-msgstr ""
-"If there's a matching username or email address your new password will been "
-"emailed to you."
+msgid "If there's a matching username or email address your new password will been emailed to you."
+msgstr "If there's a matching username or email address your new password will been emailed to you."
 
 #: reset.php:105
 msgid "Enter your username or email address"
@@ -6642,12 +5974,10 @@ msgid "Segment Domains (one per line)"
 msgstr "Segment Domains (one per line)"
 
 #: segments/edit.php:195
-#, php-format
 msgid "Segment %s update"
 msgstr "Segment %s update eh"
 
 #: segments/edit.php:273
-#, php-format
 msgid "Segment %s deleted"
 msgstr "Segment %s deleted eh"
 
@@ -6681,24 +6011,12 @@ msgid "Update Time"
 msgstr "Update Time eh"
 
 #: segments/index.php:207
-#, php-format
-msgid ""
-"Segments are lists of domains that can be used to help filter and manage "
-"your %sdomain results%s."
-msgstr ""
-"Segments are lists of domains that can be used to help filter and manage "
-"your %sdomain results%s."
+msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
+msgstr "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
 
 #: segments/index.php:209
-#, php-format
-msgid ""
-"Segment filters will tell you which domains match with domains that are "
-"saved in %s, as well as which domains don't match, and you can easily view "
-"and export the results."
-msgstr ""
-"Segment filters will tell you which domains match with domains that are "
-"saved in %s, as well as which domains don't match, and you can easily view "
-"and export the results."
+msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
+msgstr "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
 
 #: segments/index.php:222
 msgid "You don't currently have any Segments."
@@ -6825,7 +6143,6 @@ msgid "Update Profile"
 msgstr "User Profile eh"
 
 #: ssl/add.php:210
-#, php-format
 msgid "SSL Certificate %s added"
 msgstr "SSL Certificate %s added eh"
 
@@ -6850,7 +6167,6 @@ msgid "Certificate Status"
 msgstr "Certificate Status eh"
 
 #: ssl/edit.php:230
-#, php-format
 msgid "SSL Certificate %s updated"
 msgstr "SSL Certificate %s updated eh"
 
@@ -6859,7 +6175,6 @@ msgid "Enter the SSL certificate name"
 msgstr "Enter the SSL certificate name eh"
 
 #: ssl/edit.php:345
-#, php-format
 msgid "SSL Certificate %s (%s) deleted"
 msgstr "SSL Certificate %s (%s) deleted eh"
 
@@ -6900,12 +6215,8 @@ msgid "ERROR -- PROBLEM WITH CODE IN SSL/INDEX.PHP"
 msgstr "ERROR -- PROBLEM WITH CODE IN SSL/INDEX.PHP eh"
 
 #: ssl/index.php:605
-msgid ""
-"Before you can start adding SSL certificates to DomainMOD you need to add at "
-"least one SSL provider, an SSL provider account, and a domain."
-msgstr ""
-"Before you can start adding SSL certificates to DomainMOD you need to add at "
-"least one SSL provider, an SSL provider account, and a domain."
+msgid "Before you can start adding SSL certificates to DomainMOD you need to add at least one SSL provider, an SSL provider account, and a domain."
+msgstr "Before you can start adding SSL certificates to DomainMOD you need to add at least one SSL provider, an SSL provider account, and a domain."
 
 #: ssl/index.php:608
 msgid "SSL Providers found"
@@ -6944,6 +6255,18 @@ msgid "Add SSL Cert"
 msgstr "Add SSL Cert eh"
 
 #: ssl/notes.php:57
-#, php-format
 msgid "SSL Certificate Notes (%s)"
 msgstr "SSL Certificate Notes (%s)"
+
+#: _includes/layout/header.inc.php:154
+msgid "Expiration Emails"
+msgstr "Expiration Emails eh"
+
+#: _includes/layout/header.inc.php:186
+msgid "Sign out"
+msgstr "Sign out eh"
+
+#: install/email-system/index.php:101
+msgid "Proceed With Installation"
+msgstr "Proceed With Installation eh"
+
