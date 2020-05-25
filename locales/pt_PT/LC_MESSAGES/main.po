@@ -3,14 +3,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: POEditor.com\n"
 "Project-Id-Version: DomainMOD\n"
 "Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
 
 #: _includes/breadcrumbs/admin-add-custom-domain-field.inc.php:22
 #: _includes/breadcrumbs/admin-add-custom-ssl-field.inc.php:22
@@ -3392,7 +3388,7 @@ msgstr "Digite o segundo servidor DNS"
 
 #: assets/edit/dns.php:216
 msgid "This DNS Profile has domains associated with it and cannot be deleted"
-msgstr "Este Perfil DNS tem domínios associados a ele e não pode ser excluído"
+msgstr "Este Perfil DNS tem domínios associados a ele e não pode ser excluído."
 
 #: assets/edit/dns.php:226
 msgid "DNS Profile %s deleted"
@@ -3430,7 +3426,7 @@ msgstr "Digite o endereço IP"
 
 #: assets/edit/ip-address.php:126
 msgid "This IP Address has domains associated with it and cannot be deleted"
-msgstr "Este endereço IP tem domínios associados a ele e não pode ser excluído"
+msgstr "Este endereço IP tem domínios associados a ele e não pode ser excluído."
 
 #: assets/edit/ip-address.php:136
 msgid "IP Address %s (%s) deleted"
@@ -3524,7 +3520,7 @@ msgstr "Digite o nome do registrador"
 
 #: assets/edit/registrar.php:144
 msgid "This Registrar has Registrar Accounts associated with it and cannot be deleted"
-msgstr "Este registrador tem contas de registrador associadas a ele e não pode ser apagado"
+msgstr "Este registrador tem contas de registrador associadas a ele e não pode ser apagado."
 
 #: assets/edit/registrar.php:145
 msgid "This Registrar has domains associated with it and cannot be deleted"
@@ -3544,7 +3540,7 @@ msgstr "Conta SSL %s (%s, %s) atualizada"
 
 #: assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
-msgstr "Esta conta SSL tem certificados SSL associados e não pode ser apagada"
+msgstr "Esta conta SSL tem certificados SSL associados e não pode ser apagada."
 
 #: assets/edit/ssl-provider-account.php:225
 msgid "SSL Account %s (%s, %s) deleted"
@@ -3561,11 +3557,11 @@ msgstr "Provedor SSL %s atualizado"
 
 #: assets/edit/ssl-provider.php:144
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
-msgstr "Este Provedor SSL tem contas associadas a ele e não pode ser excluído"
+msgstr "Este Provedor SSL tem contas associadas a ele e não pode ser excluído."
 
 #: assets/edit/ssl-provider.php:145
 msgid "This SSL Provider has SSL Certificates associated with it and cannot be deleted"
-msgstr "Este Provedor SSL tem Certificados SSL associados e não pode ser apagado"
+msgstr "Este Provedor SSL tem Certificados SSL associados e não pode ser apagado."
 
 #: assets/edit/ssl-provider.php:175
 msgid "SSL Provider %s deleted"
@@ -3581,7 +3577,7 @@ msgstr "Digite o nome do tipo"
 
 #: assets/edit/ssl-type.php:118
 msgid "This Type has SSL Certificates associated with it and cannot be deleted"
-msgstr "Este tipo tem certificados SSL associados e não pode ser apagado"
+msgstr "Este tipo tem certificados SSL associados e não pode ser apagado."
 
 #: assets/edit/ssl-type.php:128
 msgid "SSL Type %s deleted"
@@ -3969,7 +3965,7 @@ msgstr "Domínios marcados como WHOIS Público"
 #: bulk/index.php:1774 domains/add.php:275 domains/edit.php:271 ssl/add.php:232
 #: ssl/edit.php:255
 msgid "The expiry date you entered is invalid"
-msgstr "A data de expiração que você inseriu é inválida"
+msgstr "A data de expiração que você inseriu é inválida."
 
 #: bulk/index.php:1823
 msgid "Expiry Date Updated"
@@ -4777,7 +4773,7 @@ msgstr "Domínio %s actualizado"
 
 #: domains/edit.php:357
 msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
-msgstr "Este domínio tem certificados SSL associados e não pode ser apagado"
+msgstr "Este domínio tem certificados SSL associados e não pode ser apagado."
 
 #: domains/edit.php:383
 msgid "Domain %s deleted"
@@ -5405,7 +5401,7 @@ msgstr "Antes de limpar a fila, deve rever os resultados para se certificar de q
 
 #: queue/index.php:436
 msgid "YES, REALLY CLEAR COMPLETED ITEMS FROM THE QUEUE"
-msgstr "SIM, REALMENTE LIMPAR ITENS COMPLETOS DA FILA"
+msgstr "SIM, REALMENTE LIMPAR ITENS COMPLETOS DA FILA."
 
 #: queue/index.php:444
 msgid "Completed items cleared from the queue"
@@ -5704,7 +5700,7 @@ msgstr "domínio_costos_por_registrar_relatório"
 
 #: reporting/domains/cost-by-tld.php:109
 msgid "domain_cost_by_tld_report_all"
-msgstr "domínio_costos_por_relatório_do_tld_domínio_tudo"
+msgstr "Domínio_costos_por_relatório_do_tld_domínio_tudo"
 
 #: reporting/domains/cost-by-tld.php:114
 msgid "domain_cost_by_tld_report"
@@ -5797,7 +5793,7 @@ msgstr "Custo por Anfitrião Web"
 
 #: reporting/index.php:66
 msgid "Registrar Fees"
-msgstr "Raxas de Inscrição"
+msgstr "taxas de inscrição"
 
 #: reporting/index.php:71
 msgid "SSL Certificate Reports"
@@ -6114,7 +6110,7 @@ msgstr "Senha alterada"
 
 #: settings/password/index.php:118
 msgid "Your passwords were left blank"
-msgstr "As suas palavras-passe foram deixadas em branco"
+msgstr "As suas palavras-passe foram deixadas em branco."
 
 #: settings/password/index.php:122
 msgid "Your passwords didn't match"
@@ -6279,3 +6275,4 @@ msgstr "Sair da sessão"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Prosseguir com a instalação"
+
