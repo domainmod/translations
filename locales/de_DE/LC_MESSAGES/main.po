@@ -5196,14 +5196,6 @@ msgstr "Der Standardbenutzername und das Passwort sind %s, und Sie werden aufgef
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
 msgstr "Wir haben unser Bestes versucht, Ihre Sprache automatisch zu bestimmen, aber wenn wir uns aus irgendeinem Grund geirrt haben, wählen Sie sie bitte unten aus."
 
-#: install/language/index.php:66
-msgid "If your language is not yet supported, we recommend selecting %sEnglish (United States)%s."
-msgstr "Wenn Ihre Sprache noch nicht unterstützt wird, empfehlen wir die Auswahl %sEnglisch (Vereinigte Staaten)%s."
-
-#: install/language/index.php:66
-msgid "Multilingual support is very new, so please bear with us while we get new languages added."
-msgstr "Mehrsprachige Unterstützung ist sehr neu, also haben Sie bitte Geduld mit uns, während wir neue Sprachen hinzufügen."
-
 #: install/requirements/index.php:52
 msgid "The first thing we need to do is check to see if your web server meets the software's requirements."
 msgstr "Als erstes müssen wir prüfen, ob Ihr Webserver die Anforderungen der Software erfüllt."
@@ -6269,4 +6261,8 @@ msgstr "Abmeldung"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Mit der Installation fortfahren"
+
+#: install/language/index.php:66
+msgid "Multilingual support is very new, so please bear with us while we get new languages added. And also while we fix our auto-generated translations, some of which are probably pretty bad."
+msgstr "Mehrsprachige Unterstützung ist sehr neu, also haben Sie bitte Geduld mit uns, während wir neue Sprachen hinzufügen. Und auch während wir unsere automatisch generierten Übersetzungen reparieren, von denen einige wahrscheinlich ziemlich schlecht sind."
 
