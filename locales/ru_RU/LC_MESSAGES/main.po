@@ -5213,14 +5213,6 @@ msgstr "Имя пользователя и пароль по умолчанию 
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
 msgstr "Мы постарались сделать все возможное, чтобы автоматически определить ваш язык, но если по каким-то причинам мы ошиблись, пожалуйста, выберите его ниже."
 
-#: install/language/index.php:66
-msgid "If your language is not yet supported, we recommend selecting %sEnglish (United States)%s."
-msgstr "Если ваш язык еще не поддерживается, мы рекомендуем выбрать %sEnglish (United States)%s."
-
-#: install/language/index.php:66
-msgid "Multilingual support is very new, so please bear with us while we get new languages added."
-msgstr "Многоязычная поддержка является очень новой, так что, пожалуйста, будьте с нами, пока мы добавляем новые языки."
-
 #: install/requirements/index.php:52
 msgid "The first thing we need to do is check to see if your web server meets the software's requirements."
 msgstr "Первое, что нам нужно сделать, это проверить, соответствует ли ваш веб-сервер требованиям программного обеспечения."
@@ -6288,4 +6280,8 @@ msgstr "Выход из системы"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Приступайте к установке"
+
+#: install/language/index.php:66
+msgid "Multilingual support is very new, so please bear with us while we get new languages added. And also while we fix our auto-generated translations, some of which are probably pretty bad."
+msgstr "Многоязычная поддержка является очень новой, так что, пожалуйста, будьте терпеливы, пока мы добавляем новые языки. А также, пока мы исправляем наши автосгенерированные переводы, некоторые из которых, вероятно, довольно плохие."
 
