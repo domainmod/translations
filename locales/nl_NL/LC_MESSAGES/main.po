@@ -5201,14 +5201,6 @@ msgstr "De standaard gebruikersnaam en het wachtwoord zijn %s, en u wordt gevraa
 msgid "We've tried our best to automatically determine your language, but if for some reason we were wrong, please select it below."
 msgstr "We hebben ons best gedaan om automatisch uw taal te bepalen, maar als we het om een of andere reden fout hadden, selecteer deze dan hieronder."
 
-#: install/language/index.php:66
-msgid "If your language is not yet supported, we recommend selecting %sEnglish (United States)%s."
-msgstr "Als uw taal nog niet wordt ondersteund, raden wij u aan %sEngels (Verenigde Staten)%s te selecteren."
-
-#: install/language/index.php:66
-msgid "Multilingual support is very new, so please bear with us while we get new languages added."
-msgstr "Meertalige ondersteuning is erg nieuw, dus wees geduldig met ons terwijl we nieuwe talen toevoegen."
-
 #: install/requirements/index.php:52
 msgid "The first thing we need to do is check to see if your web server meets the software's requirements."
 msgstr "Het eerste wat we moeten doen is controleren of uw webserver voldoet aan de eisen van de software."
@@ -6275,4 +6267,8 @@ msgstr "Uitloggen"
 #: install/email-system/index.php:101
 msgid "Proceed With Installation"
 msgstr "Ga verder met de installatie"
+
+#: install/language/index.php:66
+msgid "Multilingual support is very new, so please bear with us while we get new languages added. And also while we fix our auto-generated translations, some of which are probably pretty bad."
+msgstr "Meertalige ondersteuning is erg nieuw, dus wees geduldig met ons terwijl we nieuwe talen toevoegen. En ook terwijl we onze automatisch gegenereerde vertalingen repareren, waarvan sommige waarschijnlijk behoorlijk slecht zijn."
 
