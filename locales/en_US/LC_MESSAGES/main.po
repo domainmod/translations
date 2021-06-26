@@ -607,7 +607,7 @@ msgstr "Generate Report"
 #: segments/index.php:213 segments/index.php:233 segments/index.php:264
 #: ssl/index.php:1496
 msgid "Export"
-msgstr "Exportv"
+msgstr "Export"
 
 #: _includes/layout/table-maintenance.inc.php:25
 msgid "Some of your Registrars/TLDs are missing domain fees."
@@ -684,7 +684,7 @@ msgstr "Backup"
 #: _includes/settings/admin-debug-log-main.inc.php:24
 #: _includes/settings/system-debug.inc.php:24
 msgid "Debug"
-msgstr "Debugv"
+msgstr "Debug"
 
 #: _includes/settings/admin-edit-custom-domain-field.inc.php:23
 msgid "Edit Custom Domain Field"
@@ -6265,4 +6265,3 @@ msgstr "Proceed With Installation"
 #: install/language/index.php:66
 msgid "Multilingual support is very new, so please bear with us while we get new languages added. And also while we fix our auto-generated translations, some of which are probably pretty bad."
 msgstr "Multilingual support is very new, so please bear with us while we get new languages added. And also while we fix our auto-generated translations, some of which are probably pretty bad."
-
