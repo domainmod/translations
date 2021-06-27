@@ -13,7 +13,7 @@ The translation team can be reached at <translations@domainmod.org>.
 
 Contributors
 ------------
-Greg Chetcuti <greg@chetcuti.com>, 2020
+Greg Chetcuti <greg@chetcuti.com>, 2020-2021
 
 License
 -------
