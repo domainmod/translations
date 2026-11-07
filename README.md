@@ -13,11 +13,11 @@ The translation team can be reached at <translations@domainmod.org>.
 
 Contributors
 ------------
-Greg Chetcuti <greg@chetcuti.com>, 2020-2021
+Greg Chetcuti <greg@chetcuti.com>, 2020-2026
 
 License
 -------
-Copyright (c) 2020-2021 Greg Chetcuti <greg@chetcuti.com>
+Copyright (c) 2020-2026 Greg Chetcuti <greg@chetcuti.com>
 
 The DomainMOD language files are free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
