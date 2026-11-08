@@ -1837,7 +1837,7 @@ msgstr "L'importazione dei vostri server web nel Data Warehouse %snon%s modifich
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
-msgstr "Automatizzare gli edifici"
+msgstr "Automazione delle build"
 
 #: admin/dw/intro.php:56
 msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
