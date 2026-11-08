@@ -4019,22 +4019,20 @@ msgid "The following domains were added"
 msgstr "Были добавлены следующие домены"
 
 #: bulk/main/index.php:1918
-#, fuzzy
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
-msgstr[0] "Следующий домен был продлен на %s в год"
-msgstr[1] "Следующий домен был продлен на %s в год"
-msgstr[2] "Следующий домен был продлен на %s в год"
-msgstr[3] "Следующий домен был продлен на %s в год"
+msgstr[0] "Срок действия следующего домена был продлен на %s год"
+msgstr[1] "Следующие домены были продлены на %s года"
+msgstr[2] "Следующие домены были продлены на %s лет"
+msgstr[3] "Следующие домены были продлены на %s года"
 
 #: bulk/main/index.php:1920
-#, fuzzy
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
-msgstr[0] "Следующий домен был полностью обновлен на %s в год"
-msgstr[1] "Следующий домен был полностью обновлен на %s в год"
-msgstr[2] "Следующий домен был полностью обновлен на %s в год"
-msgstr[3] "Следующий домен был полностью обновлен на %s в год"
+msgstr[0] "Срок действия следующего домена был полностью продлен на %s год"
+msgstr[1] "Следующие домены были полностью продлены на %s года"
+msgstr[2] "Следующие домены были полностью продлены на %s лет"
+msgstr[3] "Следующие домены были полностью продлены на %s года"
 
 #: bulk/main/index.php:1922
 msgid "The following domains were marked as expired"
@@ -4616,13 +4614,12 @@ msgid "Sold Domains"
 msgstr "Проданные домены"
 
 #: dashboard/index.php:78
-#, fuzzy
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] "Срок действия истекает на следующий день"
-msgstr[1] "Срок действия истекает на следующий %s день"
-msgstr[2] "Срок действия истекает на следующий %s день"
-msgstr[3] "Срок действия истекает на следующий %s день"
+msgstr[0] "Срок действия истекает в течение следующих %s дня"
+msgstr[1] "Срок действия истекает в течение следующих %s дней"
+msgstr[2] "Срок действия истекает в течение следующих %s дней"
+msgstr[3] "Срок действия истекает в течение следующих %s дней"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697

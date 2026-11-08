@@ -4019,18 +4019,16 @@ msgid "The following domains were added"
 msgstr "De volgende domeinen werden toegevoegd"
 
 #: bulk/main/index.php:1918
-#, fuzzy
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
-msgstr[0] "Het volgende domein werd vernieuwd voor %s jaar"
-msgstr[1] "Het volgende domein werd vernieuwd voor %s jaar"
+msgstr[0] "Het volgende domein is met %s jaar verlengd"
+msgstr[1] "De volgende domeinnamen zijn voor %s jaar verlengd"
 
 #: bulk/main/index.php:1920
-#, fuzzy
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
-msgstr[0] "Het volgende domein werd volledig vernieuwd voor %s jaar"
-msgstr[1] "Het volgende domein werd volledig vernieuwd voor %s jaar"
+msgstr[0] "Het volgende domein is voor %s jaar volledig verlengd"
+msgstr[1] "De volgende domeinnamen zijn voor %s jaar volledig verlengd"
 
 #: bulk/main/index.php:1922
 msgid "The following domains were marked as expired"

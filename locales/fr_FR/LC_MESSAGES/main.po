@@ -4019,18 +4019,16 @@ msgid "The following domains were added"
 msgstr "Les domaines suivants ont été ajoutés"
 
 #: bulk/main/index.php:1918
-#, fuzzy
 msgid "The following domain was renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
-msgstr[0] "Le domaine suivant a été renouvelé pour %s année"
-msgstr[1] "Le domaine suivant a été renouvelé pour %s année"
+msgstr[0] "Le nom de domaine suivant a été renouvelé pour une durée d'un an"
+msgstr[1] "Les noms de domaine suivants ont été renouvelés pour une durée de %s ans"
 
 #: bulk/main/index.php:1920
-#, fuzzy
 msgid "The following domain was fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
-msgstr[0] "Le domaine suivant a été entièrement renouvelé pour %s année"
-msgstr[1] "Le domaine suivant a été entièrement renouvelé pour %s année"
+msgstr[0] "Le nom de domaine suivant a été entièrement renouvelé pour une durée d'un an"
+msgstr[1] "Les noms de domaine suivants ont été entièrement renouvelés pour une durée de %s ans"
 
 #: bulk/main/index.php:1922
 msgid "The following domains were marked as expired"
@@ -4612,11 +4610,10 @@ msgid "Sold Domains"
 msgstr "Domaines vendus"
 
 #: dashboard/index.php:78
-#, fuzzy
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] "Expirant le jour suivant"
-msgstr[1] "Expirant le %s jour suivant"
+msgstr[0] "Expire dans %s jour"
+msgstr[1] "Expire dans les %s prochains jours"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
