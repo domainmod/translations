@@ -1558,9 +1558,8 @@ msgstr "Inconnu"
 #: assets/registrar-accounts.php:209 assets/registrars.php:157
 #: assets/ssl-accounts.php:175 assets/ssl-providers.php:148
 #: assets/ssl-types.php:139
-#, fuzzy
 msgid "Below is a list of all the %s that have been added to %s."
-msgstr "Vous trouverez ci-dessous une liste de tous les %squi ont été ajoutés aux%s."
+msgstr "Vous trouverez ci-dessous la liste de tous les %s qui ont été ajoutés à %s."
 
 #: admin/domain-fields/index.php:118
 msgid "Custom Domain Fields help extend the functionality of %s by allowing the user to create their own data fields."
@@ -1579,9 +1578,8 @@ msgid "And when you export your domain data, the information contained in your c
 msgstr "Et lorsque vous exportez vos données de domaine, les informations contenues dans vos champs personnalisés seront automatiquement incluses dans les données exportées."
 
 #: admin/domain-fields/index.php:127
-#, fuzzy
 msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
-msgstr "Il semble que vous n'ayez pas encore créé de champs de domaine personnalisés. %sCliquez ici%s pour en ajouter un."
+msgstr "Il semble que vous n'ayez encore créé aucun champ de domaine personnalisé. %sCliquez ici%s pour en ajouter un."
 
 #: admin/domain-fields/index.php:138 admin/dw/add-server.php:105
 #: admin/dw/edit-server.php:205 admin/dw/servers.php:61
@@ -2566,18 +2564,16 @@ msgid "Update System Settings"
 msgstr "Mise à jour des paramètres du système"
 
 #: admin/ssl-fields/add.php:131
-#, fuzzy
 msgid "Custom SSL Field %s (%s) added"
-msgstr "Ajout d'un champ SSL personnalisé %s (%s)"
+msgstr "Champ SSL personnalisé %s (%s) ajouté"
 
 #: admin/ssl-fields/edit.php:68
 msgid "The Custom SSL Field you're trying to edit is invalid"
 msgstr "Le champ SSL personnalisé que vous essayez de modifier n'est pas valide"
 
 #: admin/ssl-fields/edit.php:112
-#, fuzzy
 msgid "Custom SSL Field %s (%s) updated"
-msgstr "Mise à jour du champ SSL personnalisé %s (%s)"
+msgstr "Le champ SSL personnalisé %s (%s) a été mis à jour"
 
 #: admin/ssl-fields/edit.php:168
 msgid "The Custom SSL Field cannot be deleted"
@@ -2608,7 +2604,6 @@ msgid "It appears as though you haven't created any Custom SSL Fields yet."
 msgstr "Il semble que vous n'ayez pas encore créé de champs SSL personnalisés."
 
 #: admin/ssl-fields/index.php:125
-#, fuzzy
 msgid "%sClick here%s to add one."
 msgstr "%sCliquez ici%s pour en ajouter un."
 
@@ -2621,9 +2616,8 @@ msgid "A user with that email address already exists"
 msgstr "Un utilisateur possédant cette adresse électronique existe déjà"
 
 #: admin/users/add.php:165
-#, fuzzy
 msgid "User %s %s (%s / %s) added."
-msgstr "Les %s %s d'utilisateurs (%s / %s) sont ajoutés."
+msgstr "L'utilisateur %s %s (%s / %s) a été ajouté."
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
@@ -2840,9 +2834,8 @@ msgid "You don't currently have any Owners."
 msgstr "Vous n'avez actuellement aucun propriétaire."
 
 #: assets/add/account-owner.php:66
-#, fuzzy
 msgid "Owner %s added"
-msgstr "Propriétaires %s ajoutés"
+msgstr "Le propriétaire %s a été ajouté"
 
 #: assets/add/account-owner.php:73
 msgid "Enter the Owner's name"
@@ -2853,9 +2846,8 @@ msgid "Owner Name"
 msgstr "Nom du propriétaire"
 
 #: assets/add/category.php:68
-#, fuzzy
 msgid "Category %s added"
-msgstr "Catégories %s ajoutés"
+msgstr "Catégorie %s ajoutée"
 
 #: assets/add/category.php:75 assets/edit/category.php:84
 msgid "Enter the Category name"
@@ -3039,9 +3031,8 @@ msgid "Edit Fee"
 msgstr "Frais d'édition"
 
 #: assets/add/registrar-fee.php:156 assets/add/ssl-provider-fee.php:143
-#, fuzzy
 msgid "The fee for %s has been added"
-msgstr "La redevance pour les %s a été ajoutée"
+msgstr "Les frais pour %s ont été ajoutés"
 
 #: assets/add/registrar-fee.php:189 assets/edit/registrar-fee.php:177
 msgid "Back to Registrar Fees"
@@ -3262,9 +3253,8 @@ msgid "You don't currently have any DNS Profiles."
 msgstr "Vous n'avez actuellement aucun profil DNS."
 
 #: assets/edit/account-owner.php:74
-#, fuzzy
 msgid "Owner %s updated"
-msgstr "Mise à jour des %s de propriétaires"
+msgstr "Mise à jour du propriétaire %s"
 
 #: assets/edit/account-owner.php:81
 msgid "Enter the owner's name"
@@ -3287,14 +3277,12 @@ msgid "This Owner has SSL certificates associated with it and cannot be deleted"
 msgstr "Ce propriétaire est associé à des certificats SSL et ne peut pas être supprimé"
 
 #: assets/edit/account-owner.php:195
-#, fuzzy
 msgid "Owner %s deleted"
-msgstr "%s de propriétaires supprimés"
+msgstr "Le propriétaire %s a été supprimé"
 
 #: assets/edit/category.php:77
-#, fuzzy
 msgid "Category %s updated"
-msgstr "Catégorie %s mis à jour"
+msgstr "La catégorie %s a été mise à jour"
 
 #: assets/edit/category.php:123
 msgid "This Category has domains associated with it and cannot be deleted"
@@ -3305,9 +3293,8 @@ msgid "Category %s deleted"
 msgstr "Catégorie %s supprimés"
 
 #: assets/edit/dns.php:149
-#, fuzzy
 msgid "DNS Profile %s updated"
-msgstr "Mise à jour du profil DNS %s"
+msgstr "Profil DNS %s mis à jour"
 
 #: assets/edit/dns.php:156
 msgid "Enter a name for the DNS profile"
@@ -3330,18 +3317,16 @@ msgid "DNS Profile %s deleted"
 msgstr "Profil DNS %s supprimés"
 
 #: assets/edit/host.php:76
-#, fuzzy
 msgid "Web Host %s updated"
-msgstr "Mise à jour des %s d'hôtes web"
+msgstr "Mise à jour de l'hébergeur Web %s"
 
 #: assets/edit/host.php:121
 msgid "This Web Host has domains associated with it and cannot be deleted"
 msgstr "Cet hôte Web a des domaines associés et ne peut pas être supprimé"
 
 #: assets/edit/host.php:131
-#, fuzzy
 msgid "Web Host %s deleted"
-msgstr "Suppression des %s d'hôtes Web"
+msgstr "L'hébergeur %s a été supprimé"
 
 #: assets/edit/host.php:157 assets/hosting.php:60 domains/index.php:633
 #: domains/index.php:743 domains/results.php:168 queue/index.php:175
@@ -3387,9 +3372,8 @@ msgid "This Registrar Account has domains associated with it and cannot be delet
 msgstr "Ce compte de bureau d'enregistrement est associé à des domaines et ne peut pas être supprimé"
 
 #: assets/edit/registrar-account.php:248
-#, fuzzy
 msgid "Registrar Account %s (%s, %s) deleted"
-msgstr "Compte du registraire %s (%s, %s) supprimé"
+msgstr "Compte de registraire %s (%s, %s) supprimé"
 
 #: assets/add/registrar-account.php:177 assets/edit/registrar-account.php:366
 msgid "API Credentials"
@@ -3444,9 +3428,8 @@ msgid "Registrar Account"
 msgstr "Compte du registraire"
 
 #: assets/edit/registrar-fee.php:124 assets/edit/ssl-provider-fee.php:120
-#, fuzzy
 msgid "The fee for %s has been updated"
-msgstr "La redevance pour les %s a été mise à jour"
+msgstr "Le tarif de %s a été mis à jour"
 
 #: assets/edit/registrar.php:77
 msgid "Registrar %s updated"
@@ -3473,9 +3456,8 @@ msgid "Registrar Name"
 msgstr "Nom du bureau d'enregistrement"
 
 #: assets/edit/ssl-provider-account.php:112
-#, fuzzy
 msgid "SSL Account %s (%s, %s) updated"
-msgstr "Mise à jour des %s de comptes SSL (%s, %s)"
+msgstr "Compte SSL %s (%s, %s) mis à jour"
 
 #: assets/edit/ssl-provider-account.php:196
 msgid "This SSL Account has SSL certificates associated with it and cannot be deleted"
@@ -3491,9 +3473,8 @@ msgid "SSL Provider Account"
 msgstr "Compte du fournisseur SSL"
 
 #: assets/edit/ssl-provider.php:77
-#, fuzzy
 msgid "SSL Provider %s updated"
-msgstr "Mise à jour des %s de fournisseurs SSL"
+msgstr "Mise à jour du fournisseur SSL %s"
 
 #: assets/edit/ssl-provider.php:143
 msgid "This SSL Provider has Accounts associated with it and cannot be deleted"
@@ -3613,14 +3594,12 @@ msgid "Below is a list of all the fees associated with"
 msgstr "Vous trouverez ci-dessous une liste de tous les frais associés à"
 
 #: assets/registrar-fees.php:148
-#, fuzzy
 msgid "You have domains with %s that use this TLDs, however there are no fees associated with it yet. You should add this fee as soon as possible."
-msgstr "Vous avez des domaines avec des %s qui utilisent ce TLD, mais il n'y a pas encore de frais associés. Vous devez ajouter ces frais dès que possible."
+msgstr "Vous possédez des noms de domaine avec %s qui utilisent ces TLD, mais aucun frais n'y est encore associé. Vous devriez ajouter ces frais dès que possible."
 
 #: assets/registrar-fees.php:150
-#, fuzzy
 msgid "You have domains with %s that use these TLDs, however there are no fees associated with them yet. You should add these fees as soon as possible."
-msgstr "Vous avez des domaines avec des %s qui utilisent ces TLD, mais il n'y a pas encore de frais associés. Vous devez ajouter ces frais dès que possible."
+msgstr "Vous possédez des noms de domaine chez %s qui utilisent ces extensions de premier niveau (TLD), mais aucun frais n'y est encore associé. Nous vous recommandons d'ajouter ces frais dès que possible."
 
 #: assets/registrar-fees.php:157
 msgid "You don't currently have any fees associated with this domain registrar."
@@ -3710,14 +3689,12 @@ msgid "Missing SSL Type Fees"
 msgstr "Frais de type SSL manquants"
 
 #: assets/ssl-provider-fees.php:147
-#, fuzzy
 msgid "You have SSL certificates with %s that use this SSL Type, however there are no fees associated with it yet. You should add this fee as soon as possible."
-msgstr "Vous avez des certificats SSL avec des %s qui utilisent ce type de SSL, mais il n'y a pas encore de frais associés. Vous devez ajouter ces frais dès que possible."
+msgstr "Vous disposez de certificats SSL chez %s qui utilisent ce type de SSL, mais aucun frais n'y est encore associé. Vous devriez ajouter ces frais dès que possible."
 
 #: assets/ssl-provider-fees.php:149
-#, fuzzy
 msgid "You have SSL certificates with %s that use these SSL Types, however there are no fees associated with them yet. You should add these fees as soon as possible."
-msgstr "Vous avez des certificats SSL avec des %s qui utilisent ces types de SSL, mais il n'y a pas encore de frais associés. Vous devez ajouter ces frais dès que possible."
+msgstr "Vous disposez de certificats SSL chez %s qui utilisent ces types de SSL, mais aucun frais n'y est encore associé. Vous devriez ajouter ces frais dès que possible."
 
 #: assets/ssl-provider-fees.php:156
 msgid "You don't currently have any fees associated with this SSL provider."
@@ -3797,9 +3774,8 @@ msgstr "Vous avez saisi une date d'expiration non valable"
 #: bulk/main/index.php:191 bulk/main/index.php:192 bulk/main/index.php:470
 #: bulk/main/index.php:541 bulk/main/index.php:612 bulk/main/index.php:731
 #: bulk/main/index.php:882
-#, fuzzy
 msgid "Please choose the new %s"
-msgstr "Veuillez choisir les nouveaux pourcentages %s"
+msgstr "Veuillez choisir une nouvelle valeur pour : %s"
 
 #: bulk/main/index.php:191 bulk/main/index.php:882 bulk/main/index.php:2111
 #: bulk/main/index.php:2287 domains/add.php:442 domains/edit.php:489
@@ -3919,9 +3895,8 @@ msgid "Expiry Date Updated"
 msgstr "Mise à jour de la date d'expiration"
 
 #: bulk/cf/step-two/index.php:208
-#, fuzzy
 msgid "Custom Field %s updated"
-msgstr "Mise à jour des %s de champs personnalisés"
+msgstr "Le champ personnalisé %s a été mis à jour"
 
 #: bulk/index.php:91 bulk/main/index.php:1852 bulk/main/index.php:1974
 #: bulk/main/index.php:2442 queue/add/step-two/index.php:507
@@ -5432,12 +5407,10 @@ msgid "Currently Supported Registrars"
 msgstr "Bureaux d'enregistrement actuellement pris en charge"
 
 #: queue/intro.php:71
-#, fuzzy
 msgid "In order to use the Domain Queue you must setup the cron job that comes with %s."
-msgstr "Pour utiliser la file d'attente des domaines, vous devez configurer le cron job qui est fourni avec les %s."
+msgstr "Pour pouvoir utiliser la file d'attente de domaine, vous devez configurer la tâche cron fournie avec %s."
 
 #: queue/intro.php:72
-#, fuzzy
 msgid "For more information please see the %sUser Guide%s."
 msgstr "Pour plus d'informations, veuillez consulter le %sGuide de l'utilisateur%s."
 
@@ -5702,9 +5675,8 @@ msgid "Suspended Accounts (%s)"
 msgstr "Comptes suspendus (%s)"
 
 #: reporting/index.php:49
-#, fuzzy
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Avant d'exécuter un rapport, vous devez %smettre à jour les taux de conversion%s."
+msgstr "Avant de générer des rapports, vous devez %smettre à jour les taux de conversion%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -5915,9 +5887,8 @@ msgid "Segment Domains (one per line)"
 msgstr "Domaines de segments (un par ligne)"
 
 #: segments/edit.php:195
-#, fuzzy
 msgid "Segment %s update"
-msgstr "Mise à jour des %s de segments"
+msgstr "Mise à jour du segment %s"
 
 #: segments/edit.php:273
 msgid "Segment %s deleted"
@@ -5953,14 +5924,12 @@ msgid "Update Time"
 msgstr "Heure de mise à jour"
 
 #: segments/index.php:207
-#, fuzzy
 msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
-msgstr "Les segments sont des listes de domaines qui peuvent être utilisés pour aider à filtrer et à gérer vos %srésultats domaine%s."
+msgstr "Les segments sont des listes de domaines qui permettent de filtrer et de gérer vos %srésultats de domaine%s."
 
 #: segments/index.php:209
-#, fuzzy
 msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
-msgstr "Les filtres de segments vous indiqueront les domaines qui correspondent aux domaines enregistrés en %s, ainsi que ceux qui ne correspondent pas, et vous pourrez facilement visualiser et exporter les résultats."
+msgstr "Les filtres de segment vous indiqueront quels domaines correspondent à ceux enregistrés dans %s, ainsi que ceux qui ne correspondent pas, et vous pourrez facilement consulter et exporter les résultats."
 
 #: segments/index.php:222
 msgid "You don't currently have any Segments."
@@ -6087,9 +6056,8 @@ msgid "Update Profile"
 msgstr "Mise à jour du profil"
 
 #: ssl/add.php:210
-#, fuzzy
 msgid "SSL Certificate %s added"
-msgstr "%s de certificats SSL ajoutés"
+msgstr "Certificat SSL %s ajouté"
 
 #: ssl/add.php:229
 msgid "Enter a name for the SSL certificate"
@@ -6112,9 +6080,8 @@ msgid "Certificate Status"
 msgstr "Statut du certificat"
 
 #: ssl/edit.php:230
-#, fuzzy
 msgid "SSL Certificate %s updated"
-msgstr "Mise à jour des %s de certificats SSL"
+msgstr "Certificat SSL %s mis à jour"
 
 #: ssl/edit.php:252
 msgid "Enter the SSL certificate name"

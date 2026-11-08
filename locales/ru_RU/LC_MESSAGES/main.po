@@ -1578,9 +1578,8 @@ msgid "And when you export your domain data, the information contained in your c
 msgstr "При экспорте данных домена информация, содержащаяся в пользовательских полях, автоматически включается в экспортируемые данные."
 
 #: admin/domain-fields/index.php:127
-#, fuzzy
 msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
-msgstr "Похоже, что вы еще не создали никаких пользовательских доменных полей. %sClick здесь%s для добавления."
+msgstr "Похоже, вы ещё не создали ни одного настраиваемого поля домена. %sНажмите здесь%s, чтобы добавить одно."
 
 #: admin/domain-fields/index.php:138 admin/dw/add-server.php:105
 #: admin/dw/edit-server.php:205 admin/dw/servers.php:61
@@ -2605,9 +2604,8 @@ msgid "It appears as though you haven't created any Custom SSL Fields yet."
 msgstr "Похоже, что вы еще не создали никаких пользовательских SSL-полей."
 
 #: admin/ssl-fields/index.php:125
-#, fuzzy
 msgid "%sClick here%s to add one."
-msgstr "%sClick здесь%s для добавления."
+msgstr "%sНажмите здесь%s, чтобы добавить одно."
 
 #: admin/users/add.php:90
 msgid "A user with that username already exists"
@@ -2622,9 +2620,8 @@ msgid "User %s %s (%s / %s) added."
 msgstr "Добавлен пользователь %s %s (%s / %s)."
 
 #: admin/users/add.php:167
-#, fuzzy
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "Вы можете либо отправить указанные выше учетные данные пользователю по электронной почте вручную, либо нажать здесь %s для отправки%s их по  %s электронной почте за вас."
+msgstr "Вы можете либо вручную отправить пользователю указанные выше учетные данные по электронной почте, либо %sнажать здесь%s, чтобы %s отправил их за вас."
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -2837,9 +2834,8 @@ msgid "You don't currently have any Owners."
 msgstr "В настоящее время у тебя нет владельцев."
 
 #: assets/add/account-owner.php:66
-#, fuzzy
 msgid "Owner %s added"
-msgstr "Проценты владельца %s добавлены"
+msgstr "Добавлен владелец %s"
 
 #: assets/add/account-owner.php:73
 msgid "Enter the Owner's name"
@@ -3035,7 +3031,6 @@ msgid "Edit Fee"
 msgstr "Плата за редактирование"
 
 #: assets/add/registrar-fee.php:156 assets/add/ssl-provider-fee.php:143
-#, fuzzy
 msgid "The fee for %s has been added"
 msgstr "Добавлена плата за %s"
 
@@ -3103,9 +3098,8 @@ msgid "Add Fee"
 msgstr "Добавить плату"
 
 #: assets/add/registrar.php:69
-#, fuzzy
 msgid "Registrar %s added"
-msgstr "Регистратор %s добавлено"
+msgstr "Добавлен регистратор %s"
 
 #: assets/add/registrar.php:86
 msgid "Enter the registrar name"
@@ -3780,9 +3774,8 @@ msgstr "Вы ввели недействительный срок годност
 #: bulk/main/index.php:191 bulk/main/index.php:192 bulk/main/index.php:470
 #: bulk/main/index.php:541 bulk/main/index.php:612 bulk/main/index.php:731
 #: bulk/main/index.php:882
-#, fuzzy
 msgid "Please choose the new %s"
-msgstr "Пожалуйста, выберите новые %s"
+msgstr "Пожалуйста, выберите новое значение для поля «%s»"
 
 #: bulk/main/index.php:191 bulk/main/index.php:882 bulk/main/index.php:2111
 #: bulk/main/index.php:2287 domains/add.php:442 domains/edit.php:489
@@ -5380,9 +5373,8 @@ msgid "The Domain Queue relies on your domain registrar's API to import your dom
 msgstr "Очередь доменов зависит от API вашего регистратора доменов при импорте доменов, поэтому они должны иметь API, а его поддержка должна быть встроена в %s."
 
 #: queue/index.php:521
-#, fuzzy
 msgid "For more information please see the %sDomain Queue information page%s"
-msgstr "Для получения более подробной информации смотрите страницу %sDomain Queue information page%s"
+msgstr "Дополнительную информацию можно найти на %sстранице с информацией об очереди доменов%s"
 
 #: queue/index.php:527
 msgid "Clear Completed"
@@ -5685,9 +5677,8 @@ msgid "DNS Zones without an Account (%s)"
 msgstr "Зоны DNS без аккаунта (%s)"
 
 #: reporting/dw/potential-problems.php:116
-#, fuzzy
 msgid "Suspended Accounts (%s)"
-msgstr "Приостановленные счета (%s)"
+msgstr "Заблокированные учетные записи (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."

@@ -1832,9 +1832,8 @@ msgid "If your web server doesn't run WHM/cPanel, or you don't want to import yo
 msgstr "Se o seu servidor web não executar WHM/cPanel, ou se você não quiser importar os dados do seu servidor web para %s, você pode ignorar esta seção."
 
 #: admin/dw/intro.php:53
-#, fuzzy
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Importar o(s) seu(s) servidor(es) web para o Data Warehouse irá %snão%s modificar qualquer um dos seus outros %s dados, nem qualquer um dos dados no seu servidor web."
+msgstr "A importação do(s) seu(s) servidor(es) web para o Data Warehouse %snão%s irá alterar quaisquer outros dados do %s, nem quaisquer dados presentes no seu servidor web."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2605,9 +2604,8 @@ msgid "It appears as though you haven't created any Custom SSL Fields yet."
 msgstr "Parece que você ainda não criou nenhum campo SSL personalizado."
 
 #: admin/ssl-fields/index.php:125
-#, fuzzy
 msgid "%sClick here%s to add one."
-msgstr "%sClica aqui%s para adicionar um."
+msgstr "%sClique aqui%s para adicionar um."
 
 #: admin/users/add.php:90
 msgid "A user with that username already exists"
@@ -3418,7 +3416,6 @@ msgid "Registrar Notes"
 msgstr "Notas de Registro"
 
 #: assets/edit/registrar-account.php:468
-#, fuzzy
 msgid "%sClick here%s to add a new IP Address"
 msgstr "%sClique aqui%s para adicionar um novo endereço IP"
 

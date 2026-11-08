@@ -5674,9 +5674,8 @@ msgid "Suspended Accounts (%s)"
 msgstr "Geschorste rekeningen (%s)"
 
 #: reporting/index.php:49
-#, fuzzy
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Voordat u een rapport uitbrengt, moet u de %somrekeningskoersen in verhogen%s."
+msgstr "Voordat u rapporten genereert, moet u %sde wisselkoersen bijwerken%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"

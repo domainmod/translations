@@ -1832,18 +1832,16 @@ msgid "If your web server doesn't run WHM/cPanel, or you don't want to import yo
 msgstr "Se il vostro server web non funziona WHM/cPanel, o non volete importare i dati del vostro server web in %s, potete ignorare questa sezione."
 
 #: admin/dw/intro.php:53
-#, fuzzy
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "L'importazione del vostro server web nel Data Warehouse %snon%s modifica i vostri altri %s dati, né i dati sul vostro server web."
+msgstr "L'importazione dei vostri server web nel Data Warehouse %snon%s modificherà né gli altri dati presenti su %s, né quelli presenti sui vostri server web."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
 msgstr "Automatizzare gli edifici"
 
 #: admin/dw/intro.php:56
-#, fuzzy
 msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr "Se si intende utilizzare il Data Warehouse, si consiglia di impostare il cron %ssystem cron/scheduled job%s al fine di automatizzare le proprie costruzioni."
+msgstr "Se intendete utilizzare il Data Warehouse, vi consigliamo di configurare il %scron o il processo pianificato del sistema%s per automatizzare le vostre build."
 
 #: admin/dw/intro.php:58
 msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
@@ -2265,9 +2263,8 @@ msgid "In order to use the Task Scheduler you must setup a cron/scheduled job on
 msgstr "Per poter utilizzare il Task Scheduler è necessario impostare un job cron/scheduled sul proprio server web per eseguire il file %scron.php%s, che si trova nella cartella principale dell'installazione %s."
 
 #: admin/scheduler/index.php:61
-#, fuzzy
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "L'uso del Task Scheduler è opzionale, %sma è consigliato%s."
+msgstr "L'uso di \"Task Scheduler\" è facoltativo, ma %svivamente%s consigliato."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -5666,24 +5663,20 @@ msgstr "dw_potenziale_problemi_report"
 
 #: reporting/dw/potential-problems.php:86
 #: reporting/dw/potential-problems.php:154
-#, fuzzy
 msgid "Accounts without a DNS Zone (%s)"
-msgstr "Account senza una zona DNS (%s)"
+msgstr "Account senza zona DNS (%s)"
 
 #: reporting/dw/potential-problems.php:101
-#, fuzzy
 msgid "DNS Zones without an Account (%s)"
 msgstr "Zone DNS senza account (%s)"
 
 #: reporting/dw/potential-problems.php:116
-#, fuzzy
 msgid "Suspended Accounts (%s)"
-msgstr "Conti sospesi (%s)"
+msgstr "Account sospesi (%s)"
 
 #: reporting/index.php:49
-#, fuzzy
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Prima di eseguire qualsiasi rapporto, è necessario %saggiornare i tassi di conversione%s."
+msgstr "Prima di generare qualsiasi report, è necessario %saggiornare i tassi di conversione%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"

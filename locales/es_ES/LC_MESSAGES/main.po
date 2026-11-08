@@ -2263,9 +2263,8 @@ msgid "In order to use the Task Scheduler you must setup a cron/scheduled job on
 msgstr "Para utilizar el Programador de Tareas debe configurar un trabajo cron/programado en su servidor web para ejecutar el archivo %scron.php%s, que se encuentra en la carpeta raíz de su instalación %s."
 
 #: admin/scheduler/index.php:61
-#, fuzzy
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "El uso del Programador de Tareas es opcional, pero se recomienda el uso de un porcentaje elevado."
+msgstr "El uso del Programador de tareas es opcional, pero %smuy%s recomendable."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -4573,7 +4572,6 @@ msgid "You must be logged in to access this area"
 msgstr "Debe estar registrado para acceder a esta área"
 
 #: classes/DomainMOD/System.php:369
-#, fuzzy
 msgid "%s is already installed"
 msgstr "%s ya está instalado"
 
@@ -5126,9 +5124,8 @@ msgid "Data Warehouse Build"
 msgstr "Construcción de un almacén de datos"
 
 #: install/go.php:1251
-#, fuzzy
 msgid "%s has been successfully installed and you should now delete the %s folder"
-msgstr "%s ha sido instalado con éxito y ahora deberías borrar la carpeta %s"
+msgstr "%s se ha instalado correctamente; ahora deberías eliminar la carpeta %s"
 
 #: install/go.php:1251
 msgid "The default username and password are %s, and you'll be prompted to change the password after logging in"
@@ -5677,9 +5674,8 @@ msgid "Suspended Accounts (%s)"
 msgstr "Cuentas suspendidas (%s)"
 
 #: reporting/index.php:49
-#, fuzzy
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Antes de ejecutar cualquier informe debe %sactualizar las tasas de conversión%s."
+msgstr "Antes de generar cualquier informe, debe %sactualizar los tipos de cambio%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -5927,9 +5923,8 @@ msgid "Update Time"
 msgstr "Hora de la actualización"
 
 #: segments/index.php:207
-#, fuzzy
 msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
-msgstr "Los segmentos son listas de dominios que se pueden usar para ayudar a filtrar y gestionar los resultados de tu %sdominio%s."
+msgstr "Los segmentos son listas de dominios que pueden utilizarse para filtrar y gestionar %slos resultados de tus dominios%s."
 
 #: segments/index.php:209
 msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."

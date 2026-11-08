@@ -4437,9 +4437,8 @@ msgid "No Users Are Subscribed"
 msgstr "Żaden użytkownik nie jest subskrybowany"
 
 #: classes/DomainMOD/Email.php:287 classes/DomainMOD/Email.php:296
-#, fuzzy
 msgid "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
-msgstr "Poniżej znajduje się lista wszystkich domen i certyfikatów SSL w %s, które wygasają w ciągu kolejnych %s dni."
+msgstr "Poniżej znajduje się lista wszystkich domen i certyfikatów SSL w %s, których ważność wygaśnie w ciągu najbliższych %s dni."
 
 #: classes/DomainMOD/Email.php:289 classes/DomainMOD/Email.php:297
 msgid "If you would like to change the frequency of this email notification please contact your %s administrator."
@@ -5928,9 +5927,8 @@ msgid "Update Time"
 msgstr "Czas aktualizacji"
 
 #: segments/index.php:207
-#, fuzzy
 msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
-msgstr "Segmenty to listy domen, które mogą być użyte do filtrowania i zarządzania %swynikami domeny%s."
+msgstr "Segmenty to listy domen, które można wykorzystać do filtrowania %swyników wyszukiwania domen%s i zarządzania nimi."
 
 #: segments/index.php:209
 msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
