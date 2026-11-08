@@ -4446,7 +4446,7 @@ msgstr "আপনি এই ইমেলটি পেয়েছেন কা�
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"
-msgstr "এই বিজ্ঞপ্তিগুলি থেকে সদস্যতা ত্যাগ করতে অনুগ্রহ করে পরিদর্শন করুন৷"
+msgstr "এই বিজ্ঞপ্তিগুলি থেকে সদস্যতা ত্যাগ করতে অনুগ্রহ করে পরিদর্শন করুন"
 
 #: classes/DomainMOD/Layout.php:122
 msgid "Delete This"

@@ -4442,7 +4442,7 @@ msgstr "जर तुम्ही या ईमेल सूचनेची व�
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:405
 msgid "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
-msgstr "तुम्हाला हा ईमेल प्राप्त झाला आहे कारण तुम्ही सध्या येथे असलेल्या %s इंस्टॉलेशनमधून कालबाह्यता सूचना प्राप्त करण्यासाठी सदस्यत्व घेतले आहे."
+msgstr "तुम्हाला हा ईमेल प्राप्त झाला आहे कारण तुम्ही सध्या येथे असलेल्या %s इंस्टॉलेशनमधून कालबाह्यता सूचना प्राप्त करण्यासाठी सदस्यत्व घेतले आहे"
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"

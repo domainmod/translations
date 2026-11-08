@@ -4446,7 +4446,7 @@ msgstr "Bu e-postayı aldınız çünkü şu anda %s kurulumundan son kullanma b
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"
-msgstr "Bu bildirimlerden aboneliğinizi iptal etmek için lütfen şu adresi ziyaret edin:"
+msgstr "Bu bildirimlerden aboneliğinizi iptal etmek için lütfen şu adresi ziyaret edin"
 
 #: classes/DomainMOD/Layout.php:122
 msgid "Delete This"

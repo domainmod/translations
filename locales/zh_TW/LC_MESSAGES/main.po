@@ -4440,7 +4440,7 @@ msgstr "如果您想變更此電子郵件通知的頻率，請聯絡您的 %s �
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:405
 msgid "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
-msgstr "您收到這封電子郵件是因為您目前訂閱了來自位於以下位置的 %s 安裝的到期通知："
+msgstr "您收到這封電子郵件是因為您目前訂閱了來自位於以下位置的 %s 安裝的到期通知"
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"

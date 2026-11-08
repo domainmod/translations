@@ -4440,11 +4440,11 @@ msgstr "이메일 알림 빈도를 변경하려면 %s 관리자에게 문의하�
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:405
 msgid "You've received this email because you're currently subscribed to receive expiration notifications from the %s installation located at"
-msgstr "현재 %s 설치에서 만료 알림을 수신하도록 구독 중이어서 이 이메일을 받았습니다."
+msgstr "현재 %s 설치에서 만료 알림을 수신하도록 구독 중이어서 이 이메일을 받았습니다"
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"
-msgstr "이러한 알림을 구독 취소하려면 다음을 방문하세요."
+msgstr "이러한 알림을 구독 취소하려면 다음을 방문하세요"
 
 #: classes/DomainMOD/Layout.php:122
 msgid "Delete This"

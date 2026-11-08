@@ -4446,7 +4446,7 @@ msgstr "آپ کو یہ ای میل اس لیے موصول ہوئی ہے کیون
 
 #: classes/DomainMOD/Email.php:389 classes/DomainMOD/Email.php:406
 msgid "To unsubscribe from these notifications please visit"
-msgstr "ان اطلاعات سے رکنیت ختم کرنے کے لیے براہ کرم ملاحظہ کریں۔"
+msgstr "ان اطلاعات سے رکنیت ختم کرنے کے لیے براہ کرم ملاحظہ کریں"
 
 #: classes/DomainMOD/Layout.php:122
 msgid "Delete This"
