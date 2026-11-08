@@ -4612,8 +4612,8 @@ msgstr "دامنه های فروخته شده"
 #: dashboard/index.php:78
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] " s% در روز بعد منقضی می شود"
-msgstr[1] " s% در روز بعد منقضی می شود"
+msgstr[0] "در %s روز آینده منقضی می‌شود"
+msgstr[1] "در %s روز آینده منقضی می‌شود"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -4852,7 +4852,7 @@ msgstr "دامنه پیدا شد"
 
 #: domains/index.php:958
 msgid "Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see the %sAdding Domains%s section of the User Guide for more options."
-msgstr "یک دامنه %s را به صورت دستی اضافه کنید، دامنه ها را با استفاده از %sDomain Queue%s اضافه کنید، یا برای گزینه های بیشتر به بخش %sAdding Domains%s در راهنمای کاربر مراجعه کنید."
+msgstr "یک دامنه را %sبه صورت دستی%s اضافه کنید، دامنه ها را با استفاده از %sDomain Queue%s اضافه کنید، یا برای گزینه های بیشتر به بخش %sAdding Domains%s در راهنمای کاربر مراجعه کنید."
 
 #: domains/index.php:1009 ssl/index.php:650
 msgid "Advanced Filtering"
@@ -5673,7 +5673,7 @@ msgstr "حساب‌های معلق (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "قبل از اجرای هر گزارشی باید %s نرخ تبدیل را به روز کنید."
+msgstr "قبل از اجرای هر گزارشی باید %sنرخ تبدیل را به روز کنید%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6436,7 +6436,7 @@ msgstr "اگر به ردیابی هزینه های گواهی SSL اهمیتی �
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "اگر قبلاً همه هزینه‌های جدید را به‌روزرسانی کرده‌اید، باید هزینه‌های گواهی SSL را در سراسر سیستم %s به‌روزرسانی کنید. این ممکن است کمی طول بکشد."
+msgstr "اگر قبلاً همه هزینه‌های جدید را به‌روزرسانی کرده‌اید، باید %sهزینه‌های گواهی SSL را در سراسر سیستم به‌روزرسانی کنید%s. این ممکن است کمی طول بکشد."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

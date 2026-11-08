@@ -1559,7 +1559,7 @@ msgstr "Nieznane"
 #: assets/ssl-accounts.php:175 assets/ssl-providers.php:148
 #: assets/ssl-types.php:139
 msgid "Below is a list of all the %s that have been added to %s."
-msgstr "Poniżej znajduje się lista wszystkich %, które zostały dodane do %s."
+msgstr "Poniżej znajduje się lista wszystkich %s, które zostały dodane do %s."
 
 #: admin/domain-fields/index.php:118
 msgid "Custom Domain Fields help extend the functionality of %s by allowing the user to create their own data fields."
@@ -5311,7 +5311,7 @@ msgstr "Identyfikator domeny"
 
 #: queue/index.php:199 queue/index.php:675
 msgid "Already in %s"
-msgstr "Już w %"
+msgstr "Już w %s"
 
 #: queue/index.php:204 queue/index.php:680
 msgid "Already in Domain Queue"
@@ -6430,7 +6430,7 @@ msgstr "kliknij tutaj, aby ustawić wszystkie brakujące opłaty na 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Jeśli zaktualizowałeś już wszystkie nowe opłaty, powinieneś %zaktualizować system opłat za domenę%s. Może to potrwać trochę czasu."
+msgstr "Jeśli zaktualizowałeś już wszystkie nowe opłaty, powinieneś %szaktualizować system opłat za domenę%s. Może to potrwać trochę czasu."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6442,7 +6442,7 @@ msgstr "Jeśli nie zależy Ci na śledzeniu opłat za certyfikat SSL, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Jeśli zaktualizowałeś już wszystkie nowe opłaty, powinieneś %zaktualizować opłaty za certyfikaty SSL w całym systemie%s. Może to potrwać trochę czasu."
+msgstr "Jeśli zaktualizowałeś już wszystkie nowe opłaty, powinieneś %szaktualizować opłaty za certyfikaty SSL w całym systemie%s. Może to potrwać trochę czasu."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

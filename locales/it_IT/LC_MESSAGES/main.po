@@ -1559,7 +1559,7 @@ msgstr "Sconosciuto"
 #: assets/ssl-accounts.php:175 assets/ssl-providers.php:148
 #: assets/ssl-types.php:139
 msgid "Below is a list of all the %s that have been added to %s."
-msgstr "Di seguito è riportato un elenco di tutte le % che sono state aggiunte alle %."
+msgstr "Di seguito è riportato l'elenco completo di %s presenti in %s."
 
 #: admin/domain-fields/index.php:118
 msgid "Custom Domain Fields help extend the functionality of %s by allowing the user to create their own data fields."
@@ -4434,7 +4434,7 @@ msgstr "Nessun utente è iscritto"
 
 #: classes/DomainMOD/Email.php:287 classes/DomainMOD/Email.php:296
 msgid "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
-msgstr "Di seguito è riportato un elenco di tutti i Domini & Certificati SSL in %s che scadono nei prossimi giorni."
+msgstr "Di seguito è riportato un elenco di tutti i Domini & Certificati SSL in %s che scadono nei prossimi %s giorni."
 
 #: classes/DomainMOD/Email.php:289 classes/DomainMOD/Email.php:297
 msgid "If you would like to change the frequency of this email notification please contact your %s administrator."
@@ -6424,7 +6424,7 @@ msgstr "clicca qui per impostare tutte le commissioni mancanti a 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Se hai già aggiornato tutte le nuove tariffe, dovresti %aggiornare le tariffe del dominio in tutto il sistema%s. Potrebbe volerci un po' di tempo."
+msgstr "Se hai già aggiornato tutte le nuove tariffe, dovresti %saggiornare le tariffe del dominio in tutto il sistema%s. Potrebbe volerci un po' di tempo."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "Se non ti interessa monitorare le tariffe del certificato SSL, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Se hai già aggiornato tutte le nuove tariffe, dovresti %aggiornare le tariffe del Certificato SSL in tutto il sistema%s. Potrebbe volerci un po' di tempo."
+msgstr "Se hai già aggiornato tutte le nuove tariffe, dovresti %saggiornare le tariffe del Certificato SSL in tutto il sistema%s. Potrebbe volerci un po' di tempo."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

@@ -1833,7 +1833,7 @@ msgstr "Se o seu servidor web não executar WHM/cPanel, ou se você não quiser 
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Importar seu(s) servidor(es) web para o Data Warehouse não modificará %s nenhum dos seus outros %s dados, nem nenhum dos dados em seu servidor web."
+msgstr "Importar seu(s) servidor(es) web para o Data Warehouse %snão%s modificará nenhum dos seus outros dados do %s, nem nenhum dos dados em seu servidor web."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -4612,8 +4612,8 @@ msgstr "Domínios Vendidos"
 #: dashboard/index.php:78
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] "Expira no dia seguinte"
-msgstr[1] "Expira no dia seguinte"
+msgstr[0] "Expira em %s dia"
+msgstr[1] "Expira nos próximos %s dias"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -5673,7 +5673,7 @@ msgstr "Contas suspensas (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Antes de executar qualquer relatório, você deve %atualizar as taxas de conversão%."
+msgstr "Antes de executar qualquer relatório, você deve %satualizar as taxas de conversão%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"

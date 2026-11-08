@@ -1579,7 +1579,7 @@ msgstr "وعندما تقوم بتصدير بيانات المجال الخاص 
 
 #: admin/domain-fields/index.php:127
 msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
-msgstr "يبدو أنك لم تقم بإنشاء أي حقول مجال مخصصة حتى الآن. انقر هنا لإضافة حقل."
+msgstr "يبدو أنك لم تقم بإنشاء أي حقول مجال مخصصة حتى الآن. %sانقر هنا%s لإضافة حقل."
 
 #: admin/domain-fields/index.php:138 admin/dw/add-server.php:105
 #: admin/dw/edit-server.php:205 admin/dw/servers.php:61
@@ -1833,7 +1833,7 @@ msgstr "إذا كان خادم الويب الخاص بك لا يعمل بنظا
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "لن يؤدي استيراد خادم/خوادم الويب الخاص بك إلى مستودع البيانات إلى تعديل أي من بياناتك الأخرى، أو أي من البيانات الموجودة على خادم الويب الخاص بك."
+msgstr "%sلن%s يؤدي استيراد خادم/خوادم الويب الخاص بك إلى مستودع البيانات إلى تعديل أي من بيانات %s الأخرى الخاصة بك، ولا أي من البيانات الموجودة على خادم الويب الخاص بك."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2264,7 +2264,7 @@ msgstr "لكي تتمكن من استخدام \"مجدول المهام\"، يج
 
 #: admin/scheduler/index.php:61
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "يعد استخدام \"مجدول المهام\" اختياريًا، ولكن يوصى به بشدة."
+msgstr "يعد استخدام \"مجدول المهام\" اختياريًا، ولكن يوصى به %sبشدة%s."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -4620,12 +4620,12 @@ msgstr "المجالات المباعة"
 #: dashboard/index.php:78
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] "تنتهي صلاحيتها في اليوم التالي"
-msgstr[1] "تنتهي صلاحيتها في اليوم التالي"
-msgstr[2] "تنتهي صلاحيتها في اليوم التالي"
-msgstr[3] "تنتهي صلاحيتها في اليوم التالي"
-msgstr[4] "تنتهي صلاحيتها في اليوم التالي"
-msgstr[5] "تنتهي صلاحيتها في اليوم التالي"
+msgstr[0] "تنتهي صلاحيتها خلال %s يوم"
+msgstr[1] "تنتهي صلاحيتها خلال %s يوم"
+msgstr[2] "تنتهي صلاحيتها خلال %s يوم"
+msgstr[3] "تنتهي صلاحيتها خلال %s أيام"
+msgstr[4] "تنتهي صلاحيتها خلال %s يومًا"
+msgstr[5] "تنتهي صلاحيتها خلال %s يوم"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -5377,7 +5377,7 @@ msgstr "تعتمد قائمة المجالات على واجهة برمجة ال
 
 #: queue/index.php:521
 msgid "For more information please see the %sDomain Queue information page%s"
-msgstr "لمزيد من المعلومات يرجى الاطلاع على صفحة معلومات قائمة انتظار المجال %s"
+msgstr "لمزيد من المعلومات يرجى الاطلاع على %sصفحة معلومات قائمة انتظار المجال%s"
 
 #: queue/index.php:527
 msgid "Clear Completed"

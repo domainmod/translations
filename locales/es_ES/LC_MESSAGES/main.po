@@ -5216,7 +5216,7 @@ msgstr "Elija la cuenta del registrador para importar"
 
 #: queue/add/step-two/index.php:395
 msgid "%s requires the following credentials in order to use their API. These credentials must to be saved with the %sregistrar account asset%s."
-msgstr "%s requiere las siguientes credenciales para poder usar su API. Estas credenciales deben ser guardadas con el activo %s de la cuenta del registrador."
+msgstr "%s requiere las siguientes credenciales para poder usar su API. Estas credenciales deben ser guardadas con el %sactivo de la cuenta del registrador%s."
 
 #: queue/add/step-two/index.php:399
 msgid "Click Here to Enter"
@@ -6424,7 +6424,7 @@ msgstr "Haga clic aquí para establecer todas las tarifas faltantes en 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Si ya ha actualizado todas las tarifas nuevas, debe actualizar el sistema de tarifas de dominios en todo el sistema. Esto puede llevar algún tiempo."
+msgstr "Si ya ha actualizado todas las tarifas nuevas, debe %sactualizar las tarifas de dominios en todo el sistema%s. Esto puede llevar algún tiempo."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "Si no le importa el seguimiento de las tarifas del certificado SSL, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Si ya ha actualizado todas las tarifas nuevas, debe actualizar las tarifas de certificados SSL en todo el sistema. Esto puede llevar algún tiempo."
+msgstr "Si ya ha actualizado todas las tarifas nuevas, debe %sactualizar las tarifas de certificados SSL en todo el sistema%s. Esto puede llevar algún tiempo."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

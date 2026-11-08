@@ -359,7 +359,7 @@ msgstr "Klik di sini untuk menyembunyikannya"
 
 #: _includes/layout/footer.inc.php:36
 msgid "%s%s%s is open source software released under the %sGNU/GPL License%s."
-msgstr "%s%s%s adalah perangkat lunak sumber terbuka yang dirilis di bawah Lisensi %sGNU/GPL%."
+msgstr "%s%s%s adalah perangkat lunak sumber terbuka yang dirilis di bawah %sLisensi GNU/GPL%s."
 
 #: _includes/layout/footer.inc.php:37
 msgid "Created by"
@@ -1833,7 +1833,7 @@ msgstr "Jika server web Anda tidak menjalankan WHM/cPanel, atau Anda tidak ingin
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Mengimpor server web Anda ke Gudang Data tidak akan mengubah data Anda yang lain maupun data apa pun di server web Anda."
+msgstr "Mengimpor server web Anda ke Gudang Data %stidak%s akan mengubah data %s Anda yang lain maupun data apa pun di server web Anda."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2264,7 +2264,7 @@ msgstr "Untuk menggunakan Penjadwal Tugas, Anda harus menyiapkan cron/pekerjaan 
 
 #: admin/scheduler/index.php:61
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "Menggunakan Penjadwal Tugas bersifat opsional, tetapi sangat disarankan."
+msgstr "Menggunakan Penjadwal Tugas bersifat opsional, tetapi %ssangat%s disarankan."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -5362,7 +5362,7 @@ msgstr "Antrean Domain bergantung pada API pendaftar domain Anda untuk mengimpor
 
 #: queue/index.php:521
 msgid "For more information please see the %sDomain Queue information page%s"
-msgstr "Untuk informasi lebih lanjut, silakan lihat halaman informasi Antrean Domain %s"
+msgstr "Untuk informasi lebih lanjut, silakan lihat %shalaman informasi Antrean Domain%s"
 
 #: queue/index.php:527
 msgid "Clear Completed"
@@ -5406,7 +5406,7 @@ msgstr "Untuk menggunakan Antrean Domain, Anda harus mengatur pekerjaan cron yan
 
 #: queue/intro.php:72
 msgid "For more information please see the %sUser Guide%s."
-msgstr "Untuk informasi lebih lanjut, silakan lihat %sPanduan Pengguna%."
+msgstr "Untuk informasi lebih lanjut, silakan lihat %sPanduan Pengguna%s."
 
 #: raw.php:42
 msgid "Domains (Raw List)"
@@ -5670,7 +5670,7 @@ msgstr "Akun yang Ditangguhkan (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Sebelum menjalankan laporan apa pun, Anda harus %smemperbarui tingkat konversi%."
+msgstr "Sebelum menjalankan laporan apa pun, Anda harus %smemperbarui tingkat konversi%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6421,7 +6421,7 @@ msgstr "klik di sini untuk mengatur semua biaya yang hilang menjadi 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Jika Anda sudah memperbarui semua biaya baru, Anda harus memperbarui sistem Biaya Domain secara keseluruhan. Ini mungkin memerlukan waktu."
+msgstr "Jika Anda sudah memperbarui semua biaya baru, Anda harus %smemperbarui Biaya Domain di seluruh sistem%s. Ini mungkin memerlukan waktu."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6433,7 +6433,7 @@ msgstr "Jika Anda tidak peduli tentang pelacakan biaya Sertifikat SSL, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Jika Anda telah memperbarui semua biaya baru, Anda harus %smemperbarui biaya Sertifikat SSL di seluruh sistem%. Ini mungkin memerlukan waktu."
+msgstr "Jika Anda telah memperbarui semua biaya baru, Anda harus %smemperbarui biaya Sertifikat SSL di seluruh sistem%s. Ini mungkin memerlukan waktu."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

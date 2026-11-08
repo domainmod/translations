@@ -1833,7 +1833,7 @@ msgstr "Web サーバーが WHM/cPanel を実行していない場合、また�
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Web サーバーをデータ ウェアハウスにインポートしても、他の %s データや Web サーバー上のデータは変更されません。"
+msgstr "Web サーバーをデータ ウェアハウスにインポートしても、他の %3$s データや Web サーバー上のデータは変更%1$sされません%2$s。"
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -5670,7 +5670,7 @@ msgstr "停止中のアカウント (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "レポートを実行する前に、%コンバージョン率を更新%sする必要があります。"
+msgstr "レポートを実行する前に、%s為替レートを更新%sする必要があります。"
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6421,7 +6421,7 @@ msgstr "不足している料金をすべて 0 に設定するには、ここを
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "すでにすべての新しい料金を更新している場合は、%システム全体でドメイン料金を更新%sする必要があります。これには時間がかかる場合があります。"
+msgstr "すでにすべての新しい料金を更新している場合は、%sシステム全体でドメイン料金を更新%sする必要があります。これには時間がかかる場合があります。"
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6433,7 +6433,7 @@ msgstr "SSL証明書の料金を追跡することに関心がない場合は、
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "すでにすべての新しい料金を更新している場合は、%SSL 証明書料金をシステム全体で更新%sする必要があります。これには時間がかかる場合があります。"
+msgstr "すでにすべての新しい料金を更新している場合は、%sSSL 証明書料金をシステム全体で更新%sする必要があります。これには時間がかかる場合があります。"
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

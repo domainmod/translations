@@ -2621,7 +2621,7 @@ msgstr "ব্যবহারকারী %s %s (%s / %s) যোগ করা �
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "আপনি হয় ম্যানুয়ালি উপরোক্ত শংসাপত্রগুলি ব্যবহারকারীকে ইমেল করতে পারেন, অথবা আপনি %s এখানে %s ক্লিক করে আপনার জন্য ইমেল করতে পারেন৷"
+msgstr "আপনি হয় ম্যানুয়ালি উপরোক্ত শংসাপত্রগুলি ব্যবহারকারীকে ইমেল করতে পারেন, অথবা %3$s-কে দিয়ে আপনার জন্য ইমেল করাতে %1$sএখানে ক্লিক%2$s করতে পারেন৷"
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -3417,7 +3417,7 @@ msgstr "রেজিস্ট্রার নোট"
 
 #: assets/edit/registrar-account.php:468
 msgid "%sClick here%s to add a new IP Address"
-msgstr "একটি নতুন আইপি ঠিকানা যোগ করতে %s এখানে ক্লিক করুন"
+msgstr "একটি নতুন আইপি ঠিকানা যোগ করতে %sএখানে ক্লিক করুন%s"
 
 #: assets/edit/registrar-account.php:491 bulk/main/index.php:192
 #: bulk/main/index.php:731 bulk/main/index.php:2046 bulk/main/index.php:2260
@@ -4613,7 +4613,7 @@ msgstr "ডোমেন বিক্রি করে"
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
 msgstr[0] "পরের দিনে মেয়াদ শেষ হবে"
-msgstr[1] "পরের দিনে মেয়াদ শেষ হবে"
+msgstr[1] "পরবর্তী %s দিনের মধ্যে মেয়াদ শেষ হবে"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -5673,7 +5673,7 @@ msgstr "স্থগিত অ্যাকাউন্ট (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "কোনো প্রতিবেদন চালানোর আগে আপনাকে রূপান্তর হার %s আপডেট করতে হবে।"
+msgstr "কোনো প্রতিবেদন চালানোর আগে আপনাকে %sরূপান্তর হার আপডেট%s করতে হবে।"
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6436,7 +6436,7 @@ msgstr "আপনি যদি SSL সার্টিফিকেট ফি ট�
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "আপনি যদি ইতিমধ্যেই সমস্ত নতুন ফি আপডেট করে থাকেন, তাহলে আপনাকে SSL সার্টিফিকেট ফি সিস্টেম-ব্যাপী%s আপডেট করতে হবে। এতে কিছুটা সময় লাগতে পারে।"
+msgstr "আপনি যদি ইতিমধ্যেই সমস্ত নতুন ফি আপডেট করে থাকেন, তাহলে আপনাকে %sSSL সার্টিফিকেট ফি সিস্টেম-ব্যাপী আপডেট%s করতে হবে। এতে কিছুটা সময় লাগতে পারে।"
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

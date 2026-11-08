@@ -1841,7 +1841,7 @@ msgstr "கட்டிடங்களை தானியக்கமாக்�
 
 #: admin/dw/intro.php:56
 msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr "நீங்கள் தரவுக் கிடங்கைப் பயன்படுத்தப் போகிறீர்கள் என்றால், %சிஸ்டம் கிரான்/திட்டமிடப்பட்ட வேலை%s ஐ அமைத்து, உங்கள் உருவாக்கங்களைத் தானியக்கமாக்குவதற்கு பரிந்துரைக்கப்படுகிறது."
+msgstr "நீங்கள் தரவுக் கிடங்கைப் பயன்படுத்தப் போகிறீர்கள் என்றால், %sசிஸ்டம் கிரான்/திட்டமிடப்பட்ட வேலை%s ஐ அமைத்து, உங்கள் உருவாக்கங்களைத் தானியக்கமாக்குவதற்கு பரிந்துரைக்கப்படுகிறது."
 
 #: admin/dw/intro.php:58
 msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
@@ -2621,7 +2621,7 @@ msgstr "பயனர் %s %s (%s / %s) சேர்க்கப்பட்ட�
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "மேலே உள்ள நற்சான்றிதழ்களை நீங்கள் கைமுறையாகப் பயனருக்கு மின்னஞ்சல் செய்யலாம் அல்லது %s உங்களுக்கு மின்னஞ்சல் அனுப்புவதற்கு இங்கே %s கிளிக் செய்யலாம்."
+msgstr "மேலே உள்ள நற்சான்றிதழ்களை நீங்கள் கைமுறையாகப் பயனருக்கு மின்னஞ்சல் செய்யலாம் அல்லது %3$s உங்களுக்காக மின்னஞ்சல் அனுப்ப %1$sஇங்கே கிளிக்%2$s செய்யலாம்."
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -4434,7 +4434,7 @@ msgstr "எந்த பயனர்களும் குழுசேரவி�
 
 #: classes/DomainMOD/Email.php:287 classes/DomainMOD/Email.php:296
 msgid "Below is a list of all the Domains & SSL Certificates in %s that are expiring in the next %s days."
-msgstr "அடுத்த %s நாட்களில் காலாவதியாகும் %s இல் உள்ள அனைத்து டொமைன்கள் & SSL சான்றிதழ்களின் பட்டியல் கீழே உள்ளது."
+msgstr "அடுத்த %2$s நாட்களில் காலாவதியாகும் %1$s இல் உள்ள அனைத்து டொமைன்கள் & SSL சான்றிதழ்களின் பட்டியல் கீழே உள்ளது."
 
 #: classes/DomainMOD/Email.php:289 classes/DomainMOD/Email.php:297
 msgid "If you would like to change the frequency of this email notification please contact your %s administrator."
@@ -5389,7 +5389,7 @@ msgstr "சேர்க்கப்பட்டது"
 
 #: queue/intro.php:48
 msgid "The Domain Queue allows you to use your domain registrar's API to automatically import the details of your domains, such as expiry date and DNS servers, which are then added to your main %s database along with your domains."
-msgstr "காலாவதி தேதி மற்றும் DNS சேவையகங்கள் போன்ற உங்கள் டொமைன்களின் விவரங்களை தானாக இறக்குமதி செய்ய உங்கள் டொமைன் பதிவாளரின் API ஐப் பயன்படுத்த டொமைன் வரிசை உங்களை அனுமதிக்கிறது."
+msgstr "காலாவதி தேதி மற்றும் DNS சேவையகங்கள் போன்ற உங்கள் டொமைன்களின் விவரங்களை தானாக இறக்குமதி செய்ய உங்கள் டொமைன் பதிவாளரின் API ஐப் பயன்படுத்த டொமைன் வரிசை உங்களை அனுமதிக்கிறது, அவை பின்னர் உங்கள் டொமைன்களுடன் சேர்த்து உங்கள் முக்கிய %s தரவுத்தளத்தில் சேர்க்கப்படும்."
 
 #: queue/intro.php:49
 msgid "All you have to do is choose the registrar account, supply a list of domains, and the rest of the work is done for you. Depending on the registrar, you may not even have to supply the list of domains."
@@ -5673,7 +5673,7 @@ msgstr "இடைநிறுத்தப்பட்ட கணக்குக�
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "எந்த அறிக்கையையும் இயக்கும் முன், நீங்கள் மாற்று விகிதங்களை%s புதுப்பிக்க வேண்டும்."
+msgstr "எந்த அறிக்கையையும் இயக்கும் முன், நீங்கள் %sமாற்று விகிதங்களைப் புதுப்பிக்க%s வேண்டும்."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6424,7 +6424,7 @@ msgstr "விடுபட்ட அனைத்து கட்டணங்க�
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "நீங்கள் ஏற்கனவே அனைத்து புதிய கட்டணங்களையும் புதுப்பித்திருந்தால், %s டொமைன் கட்டணத்தை கணினி முழுவதும் புதுப்பிக்க வேண்டும். இதற்கு சிறிது நேரம் ஆகலாம்."
+msgstr "நீங்கள் ஏற்கனவே அனைத்து புதிய கட்டணங்களையும் புதுப்பித்திருந்தால், %sடொமைன் கட்டணத்தை கணினி முழுவதும் புதுப்பிக்க%s வேண்டும். இதற்கு சிறிது நேரம் ஆகலாம்."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."

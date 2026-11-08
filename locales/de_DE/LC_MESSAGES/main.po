@@ -6424,7 +6424,7 @@ msgstr "Klicken Sie hier, um alle fehlenden Gebühren auf 0 zu setzen"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Wenn Sie bereits alle neuen Gebühren aktualisiert haben, sollten Sie die Domain-Gebühren systemweit aktualisieren. Dies kann einige Zeit dauern."
+msgstr "Wenn Sie bereits alle neuen Gebühren aktualisiert haben, sollten Sie %sdie Domain-Gebühren systemweit aktualisieren%s. Dies kann einige Zeit dauern."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "Wenn Sie keine SSL-Zertifikatsgebühren verfolgen möchten, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Wenn Sie bereits alle neuen Gebühren aktualisiert haben, sollten Sie die SSL-Zertifikatsgebühren systemweit aktualisieren. Dies kann einige Zeit dauern."
+msgstr "Wenn Sie bereits alle neuen Gebühren aktualisiert haben, sollten Sie %sdie SSL-Zertifikatsgebühren systemweit aktualisieren%s. Dies kann einige Zeit dauern."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

@@ -927,7 +927,7 @@ msgstr "Liste de toutes les zones et enregistrements DNS"
 
 #: _includes/settings/dw-list-zones.inc.php:29
 msgid "Listing DNS Zones & Records on %s (%s)"
-msgstr "Liste des zones et enregistrements DNS sur les % (%s)"
+msgstr "Liste des zones et enregistrements DNS sur %s (%s)"
 
 #: _includes/settings/dw-list-zones.inc.php:32 admin/dw/dw.php:227
 msgid "Zones"
@@ -1382,7 +1382,7 @@ msgstr "Le nom du champ de la base de données que vous avez saisi existe déjà
 
 #: admin/domain-fields/add.php:131
 msgid "Custom Domain Field %s (%s) added"
-msgstr "Ajout du champ de domaine personnalisé (%s)"
+msgstr "Champ de domaine personnalisé %s (%s) ajouté"
 
 #: admin/domain-fields/add.php:156 admin/ssl-fields/add.php:156
 msgid "Enter the Display Name"
@@ -1465,7 +1465,7 @@ msgstr "Le champ de domaine personnalisé que vous essayez de modifier n'est pas
 
 #: admin/domain-fields/edit.php:112
 msgid "Custom Domain Field %s (%s) updated"
-msgstr "Mise à jour du champ de domaine personnalisé (%s)"
+msgstr "Champ de domaine personnalisé %s (%s) mis à jour"
 
 #: admin/domain-fields/edit.php:135 admin/ssl-fields/edit.php:135
 msgid "Enter the display name"
@@ -2479,7 +2479,7 @@ msgstr "Mode de débogage"
 
 #: admin/settings/index.php:186
 msgid "Unless you're having problems with %s and support has asked you to turn this on, you should leave it turned off."
-msgstr "À moins que vous n'ayez des problèmes avec les % et que l'assistance vous ait demandé de l'allumer, vous devriez le laisser éteint."
+msgstr "À moins que vous n'ayez des problèmes avec %s et que l'assistance vous ait demandé de l'activer, vous devriez le laisser désactivé."
 
 #: admin/settings/index.php:188
 msgid "Local PHP Log"
@@ -2893,7 +2893,7 @@ msgstr "Serveur DNS"
 
 #: assets/add/host.php:68
 msgid "Web Host %s added"
-msgstr "% d'hôtes Web ajoutés"
+msgstr "Hébergeur Web %s ajouté"
 
 #: assets/add/host.php:75 assets/edit/host.php:83
 msgid "Enter the Web Host's name"
@@ -3336,7 +3336,7 @@ msgstr "Hébergeur web"
 
 #: assets/edit/ip-address.php:79
 msgid "IP Address %s (%s) updated"
-msgstr "% d'adresses IP (%s) mis à jour"
+msgstr "Adresse IP %s (%s) mise à jour"
 
 #: assets/edit/ip-address.php:86
 msgid "Enter a name for the IP Address"
@@ -4666,7 +4666,7 @@ msgstr "Ce domaine est déjà en %s"
 
 #: domains/add.php:250
 msgid "Domain %s added"
-msgstr "Domaines ajoutés"
+msgstr "Domaine %s ajouté"
 
 #: domains/add.php:271
 msgid "The domain format is incorrect"
@@ -4699,7 +4699,7 @@ msgstr "Champs personnalisés"
 
 #: domains/edit.php:249
 msgid "Domain %s updated"
-msgstr "Mise à jour des % de domaines"
+msgstr "Domaine %s mis à jour"
 
 #: domains/edit.php:358
 msgid "This Domain has SSL Certificates associated with it and cannot be deleted"
@@ -4824,7 +4824,7 @@ msgstr "Allez sur"
 
 #: domains/index.php:933
 msgid "Before you can start adding domains to %s you need to add at least one domain registrar and a domain registrar account."
-msgstr "Avant de pouvoir commencer à ajouter des domaines aux %, vous devez ajouter au moins un bureau d'enregistrement de domaine et un compte de bureau d'enregistrement de domaine."
+msgstr "Avant de pouvoir commencer à ajouter des domaines à %s, vous devez ajouter au moins un bureau d'enregistrement de domaine et un compte de bureau d'enregistrement de domaine."
 
 #: domains/index.php:935
 msgid "Please see the %sFirst Run%s section of the User Guide for more detailed information."
@@ -5139,7 +5139,7 @@ msgstr "La première chose à faire est de vérifier si votre serveur web répon
 
 #: install/requirements/index.php:54
 msgid "All of the below items should say %s or %s. If they don't, you still may be able to install %s, but certain features might not work completely."
-msgstr "Tous les éléments ci-dessous doivent indiquer des % ou des %. Si ce n'est pas le cas, vous pouvez toujours installer %s, mais certaines fonctionnalités risquent de ne pas fonctionner complètement."
+msgstr "Tous les éléments ci-dessous doivent indiquer %s ou %s. Si ce n'est pas le cas, vous pouvez toujours installer %s, mais certaines fonctionnalités risquent de ne pas fonctionner complètement."
 
 #: install/requirements/index.php:56
 msgid "If any of the items say %s or %s, we recommend you install and/or update the appropriate software so that all of the requirements are met."
@@ -5196,7 +5196,7 @@ msgstr "File d'attente des domaines et conditions préalables à l'API"
 
 #: queue/add/step-one/index.php:74
 msgid "Before you can add domains to %s using the Domain Queue you must first do the following"
-msgstr "Avant de pouvoir ajouter des domaines aux % en utilisant la file d'attente des domaines, vous devez d'abord procéder comme suit"
+msgstr "Avant de pouvoir ajouter des domaines à %s à l'aide de la file d'attente des domaines, vous devez d'abord procéder comme suit"
 
 #: queue/add/step-one/index.php:76
 msgid "Ensure that the registrar has an API and that your account has been granted access to it"
@@ -6424,7 +6424,7 @@ msgstr "cliquez ici pour régler tous les frais manquants à 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Si vous avez déjà mis à jour tous les nouveaux frais, vous devez %mettre à jour les frais de domaine à l'échelle du système%s. Cela peut prendre un certain temps."
+msgstr "Si vous avez déjà mis à jour tous les nouveaux frais, vous devez %smettre à jour les frais de domaine à l'échelle du système%s. Cela peut prendre un certain temps."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "Si vous ne vous souciez pas du suivi des frais de certificat SSL, "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Si vous avez déjà mis à jour tous les nouveaux frais, vous devez %mettre à jour les frais de certificat SSL à l'échelle du système%s. Cela peut prendre un certain temps."
+msgstr "Si vous avez déjà mis à jour tous les nouveaux frais, vous devez %smettre à jour les frais de certificat SSL à l'échelle du système%s. Cela peut prendre un certain temps."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

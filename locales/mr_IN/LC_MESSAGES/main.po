@@ -2621,7 +2621,7 @@ msgstr "वापरकर्ता %s %s (%s / %s) जोडला."
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "तुम्ही एकतर वरील क्रेडेन्शियल्स व्यक्तिचलितपणे वापरकर्त्याला ईमेल करू शकता किंवा %s तुमच्यासाठी ईमेल मिळवण्यासाठी तुम्ही %s येथे क्लिक करू शकता."
+msgstr "तुम्ही एकतर वरील क्रेडेन्शियल्स व्यक्तिचलितपणे वापरकर्त्याला ईमेल करू शकता किंवा %3$s कडून ते तुमच्यासाठी ईमेल करवून घेण्यासाठी %1$sयेथे क्लिक%2$s करू शकता."
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -4612,8 +4612,8 @@ msgstr "डोमेन विकले"
 #: dashboard/index.php:78
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
-msgstr[0] "दुसऱ्या दिवशी कालबाह्य होत आहे %2"
-msgstr[1] "दुसऱ्या दिवशी कालबाह्य होत आहे %2"
+msgstr[0] "दुसऱ्या दिवशी कालबाह्य होत आहे"
+msgstr[1] "पुढील %s दिवसांत कालबाह्य होत आहे"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -5673,7 +5673,7 @@ msgstr "निलंबित खाती (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "कोणताही अहवाल चालवण्यापूर्वी तुम्ही रूपांतरण दर %s अद्यतनित केले पाहिजेत."
+msgstr "कोणताही अहवाल चालवण्यापूर्वी तुम्ही %sरूपांतरण दर अद्यतनित%s केले पाहिजेत."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6424,7 +6424,7 @@ msgstr "सर्व गहाळ शुल्क 0 वर सेट करण�
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "जर तुम्ही आधीच सर्व नवीन फी अद्यतनित केली असेल, तर तुम्ही डोमेन फी सिस्टीम-व्यापी%s अद्यतनित केली पाहिजे. यास काही वेळ लागू शकतो."
+msgstr "जर तुम्ही आधीच सर्व नवीन फी अद्यतनित केली असेल, तर तुम्ही %sडोमेन फी सिस्टीम-व्यापी अद्यतनित%s केली पाहिजे. यास काही वेळ लागू शकतो."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "आपण SSL प्रमाणपत्र शुल्काचा �
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "जर तुम्ही आधीच सर्व नवीन फी अद्यतनित केली असेल, तर तुम्ही SSL प्रमाणपत्र फी सिस्टीम-व्यापी%s अद्यतनित केली पाहिजे. यास काही वेळ लागू शकतो."
+msgstr "जर तुम्ही आधीच सर्व नवीन फी अद्यतनित केली असेल, तर तुम्ही %sSSL प्रमाणपत्र फी सिस्टीम-व्यापी अद्यतनित%s केली पाहिजे. यास काही वेळ लागू शकतो."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

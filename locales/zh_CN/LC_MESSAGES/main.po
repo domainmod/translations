@@ -5670,7 +5670,7 @@ msgstr "已暂停帐户 (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "在运行任何报告之前，您应该%更新转换率%s。"
+msgstr "在运行任何报告之前，您应该%s更新汇率%s。"
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6421,7 +6421,7 @@ msgstr "点击此处将所有缺失费用设置为 0"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "如果您已经更新了所有新费用，则应%更新系统范围内的域名费用%s。这可能需要一些时间。"
+msgstr "如果您已经更新了所有新费用，则应%s更新系统范围内的域名费用%s。这可能需要一些时间。"
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6433,7 +6433,7 @@ msgstr "如果你不关心 SSL 证书费用， "
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "如果您已经更新了所有新费用，则应%更新全系统的 SSL 证书费用%s。这可能需要一些时间。"
+msgstr "如果您已经更新了所有新费用，则应%s更新全系统的 SSL 证书费用%s。这可能需要一些时间。"
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

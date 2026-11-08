@@ -2264,7 +2264,7 @@ msgstr "Для того, чтобы использовать планировщ�
 
 #: admin/scheduler/index.php:61
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "Использование планировщика задач является необязательным, но рекомендуется %shighly%."
+msgstr "Использование планировщика задач необязательно, но %sнастоятельно%s рекомендуется."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -3751,12 +3751,12 @@ msgstr "В вашем списке есть %s недействительных 
 #: bulk/cf/step-two/index.php:122 bulk/main/index.php:111
 #: queue/add/step-two/index.php:236 segments/add.php:80 segments/edit.php:89
 msgid "Plus %s other"
-msgstr "Плюс % другие"
+msgstr "И ещё %s"
 
 #: bulk/cf/step-two/index.php:126 bulk/main/index.php:115
 #: queue/add/step-two/index.php:240 segments/add.php:84 segments/edit.php:93
 msgid "Plus %s others"
-msgstr "Плюс % другие"
+msgstr "И ещё %s"
 
 #: bulk/main/index.php:145
 msgid "Domains Renewed"
@@ -4945,7 +4945,7 @@ msgstr "Примечания к домену (%s)"
 
 #: domains/notes.php:70 ssl/notes.php:70
 msgid "Notes For %s"
-msgstr "Примечания Для %"
+msgstr "Примечания для %s"
 
 #: domains/results.php:47 domains/results.php:141
 msgid "Inactive Domains"
@@ -5679,7 +5679,7 @@ msgstr "Заблокированные учетные записи (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Перед запуском отчетов необходимо %pdate%s."
+msgstr "Перед запуском отчетов необходимо %sобновить курсы валют%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6430,7 +6430,7 @@ msgstr "нажмите здесь, чтобы установить все нед
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Если вы уже обновили все новые сборы, вам следует %обновить сборы домена в системе%s. Это может занять некоторое время."
+msgstr "Если вы уже обновили все новые сборы, вам следует %sобновить сборы домена в системе%s. Это может занять некоторое время."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6442,7 +6442,7 @@ msgstr "Если вас не волнует отслеживание сборо�
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Если вы уже обновили все новые сборы, вам следует %обновить сборы SSL-сертификатов по всей системе%s. Это может занять некоторое время."
+msgstr "Если вы уже обновили все новые сборы, вам следует %sобновить сборы SSL-сертификатов по всей системе%s. Это может занять некоторое время."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

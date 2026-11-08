@@ -359,7 +359,7 @@ msgstr "Nhấp vào đây để ẩn chúng"
 
 #: _includes/layout/footer.inc.php:36
 msgid "%s%s%s is open source software released under the %sGNU/GPL License%s."
-msgstr "%s%s%s là phần mềm mã nguồn mở được phát hành theo Giấy phép %sGNU/GPL%."
+msgstr "%s%s%s là phần mềm mã nguồn mở được phát hành theo %sGiấy phép GNU/GPL%s."
 
 #: _includes/layout/footer.inc.php:37
 msgid "Created by"
@@ -1833,7 +1833,7 @@ msgstr "Nếu máy chủ web của bạn không chạy WHM/cPanel hoặc bạn k
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Việc nhập máy chủ web của bạn vào Kho dữ liệu sẽ không sửa đổi bất kỳ dữ liệu %s nào khác của bạn hoặc bất kỳ dữ liệu nào trên máy chủ web của bạn."
+msgstr "Việc nhập máy chủ web của bạn vào Kho dữ liệu sẽ %skhông%s sửa đổi bất kỳ dữ liệu %s nào khác của bạn hoặc bất kỳ dữ liệu nào trên máy chủ web của bạn."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2264,7 +2264,7 @@ msgstr "Để sử dụng Task Scheduler, bạn phải thiết lập một tác 
 
 #: admin/scheduler/index.php:61
 msgid "Using the Task Scheduler is optional, but %shighly%s recommended."
-msgstr "Việc sử dụng Trình lập lịch tác vụ là tùy chọn nhưng chúng tôi khuyên bạn nên sử dụng."
+msgstr "Việc sử dụng Trình lập lịch tác vụ là tùy chọn, nhưng %srất%s được khuyến khích."
 
 #: admin/scheduler/index.php:63
 msgid "Current Timestamp"
@@ -5406,7 +5406,7 @@ msgstr "Để sử dụng Domain Queue, bạn phải thiết lập tác vụ cro
 
 #: queue/intro.php:72
 msgid "For more information please see the %sUser Guide%s."
-msgstr "Để biết thêm thông tin, vui lòng xem %sHướng dẫn sử dụng%."
+msgstr "Để biết thêm thông tin, vui lòng xem %sHướng dẫn sử dụng%s."
 
 #: raw.php:42
 msgid "Domains (Raw List)"
@@ -5670,7 +5670,7 @@ msgstr "Tài khoản bị đình chỉ (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "Trước khi chạy bất kỳ báo cáo nào, bạn nên %cập nhật tỷ lệ chuyển đổi%."
+msgstr "Trước khi chạy bất kỳ báo cáo nào, bạn nên %scập nhật tỷ giá%s."
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6421,7 +6421,7 @@ msgstr "nhấp vào đây để đặt tất cả các khoản phí còn thiếu
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Nếu bạn đã cập nhật tất cả các loại phí mới, bạn nên %cập nhật hệ thống phí tên miền%s. Việc này có thể mất một thời gian."
+msgstr "Nếu bạn đã cập nhật tất cả các loại phí mới, bạn nên %scập nhật hệ thống phí tên miền%s. Việc này có thể mất một thời gian."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6433,7 +6433,7 @@ msgstr "Nếu bạn không quan tâm đến việc theo dõi phí Chứng chỉ 
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Nếu bạn đã cập nhật tất cả các khoản phí mới, bạn nên %cập nhật toàn bộ hệ thống phí Chứng chỉ SSL%. Việc này có thể mất một thời gian."
+msgstr "Nếu bạn đã cập nhật tất cả các khoản phí mới, bạn nên %scập nhật phí Chứng chỉ SSL trên toàn hệ thống%s. Việc này có thể mất một thời gian."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

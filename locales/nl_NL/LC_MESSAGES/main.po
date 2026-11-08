@@ -2491,7 +2491,7 @@ msgstr "Hiermee kunt u PHP-fouten in een lokaal bestand genaamd domainmod.log lo
 
 #: admin/settings/index.php:190
 msgid "Only enable this feature temporarily for troubleshooting, and if you're asked to by %s support."
-msgstr "Schakel deze functie alleen tijdelijk in voor het oplossen van problemen, en als u wordt gevraagd om met % ondersteuning."
+msgstr "Schakel deze functie alleen tijdelijk in voor het oplossen van problemen, en als de ondersteuning van %s u daarom vraagt."
 
 #: admin/settings/index.php:191
 msgid "Leaving it enabled all the time will cause logged errors to be visible to everyone who knows the URL to your %s installation, which could allow them to compromise your system."
@@ -6424,7 +6424,7 @@ msgstr "Klik hier om alle ontbrekende kosten op 0 te zetten"
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "Als u alle nieuwe kosten al hebt bijgewerkt, moet u de domeinkosten systeembreed %s bijwerken. Dit kan enige tijd duren."
+msgstr "Als u alle nieuwe kosten al hebt bijgewerkt, moet u %sde domeinkosten systeembreed bijwerken%s. Dit kan enige tijd duren."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "Als u zich geen zorgen maakt over het bijhouden van SSL-certificaatkoste
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "Als u alle nieuwe kosten al hebt bijgewerkt, moet u de SSL-certificaatkosten systeembreed %s bijwerken. Dit kan enige tijd duren."
+msgstr "Als u alle nieuwe kosten al hebt bijgewerkt, moet u %sde SSL-certificaatkosten systeembreed bijwerken%s. Dit kan enige tijd duren."
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

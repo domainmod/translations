@@ -1833,7 +1833,7 @@ msgstr "Eğer web sunucunuz WHM/cPanel çalıştırmıyorsa veya web sunucunuzun
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "Web sunucunuzu/sunucularınızı Veri Ambarına aktarmanız diğer %s verilerinizin hiçbirini veya web sunucunuzdaki verilerin hiçbirini %sdeğiştirmeyecektir."
+msgstr "Web sunucunuzu/sunucularınızı Veri Ambarına aktarmanız diğer %3$s verilerinizin hiçbirini veya web sunucunuzdaki verilerin hiçbirini %1$sdeğiştirmeyecektir%2$s."
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -4852,7 +4852,7 @@ msgstr "Alan adları bulundu"
 
 #: domains/index.php:958
 msgid "Add a domain %smanually%s, add domains using the %sDomain Queue%s, or see the %sAdding Domains%s section of the User Guide for more options."
-msgstr "Bir etki alanını %elle%s ekleyin, %sEtki Alanı Kuyruğunu%s kullanarak etki alanı ekleyin veya daha fazla seçenek için Kullanıcı Kılavuzunun %sEtki Alanı Ekleme%s bölümüne bakın."
+msgstr "Bir etki alanını %selle%s ekleyin, %sEtki Alanı Kuyruğunu%s kullanarak etki alanı ekleyin veya daha fazla seçenek için Kullanıcı Kılavuzunun %sEtki Alanı Ekleme%s bölümüne bakın."
 
 #: domains/index.php:1009 ssl/index.php:650
 msgid "Advanced Filtering"

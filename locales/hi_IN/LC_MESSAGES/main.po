@@ -359,7 +359,7 @@ msgstr "इन्हें छिपाने के लिए यहां क�
 
 #: _includes/layout/footer.inc.php:36
 msgid "%s%s%s is open source software released under the %sGNU/GPL License%s."
-msgstr "%s%s%s एक खुला स्रोत सॉफ्टवेयर है जो %sGNU/GPL लाइसेंस के तहत जारी किया गया है।"
+msgstr "%s%s%s एक खुला स्रोत सॉफ्टवेयर है जो %sGNU/GPL लाइसेंस%s के तहत जारी किया गया है।"
 
 #: _includes/layout/footer.inc.php:37
 msgid "Created by"
@@ -1833,7 +1833,7 @@ msgstr "यदि आपका वेब सर्वर WHM/cPanel नहीं
 
 #: admin/dw/intro.php:53
 msgid "Importing your web server(s) into the Data Warehouse will %snot%s modify any of your other %s data, nor any of the data on your web server."
-msgstr "अपने वेब सर्वर को डेटा वेयरहाउस में आयात करने से आपके अन्य किसी भी डेटा में कोई परिवर्तन नहीं होगा, न ही आपके वेब सर्वर पर मौजूद किसी भी डेटा में कोई परिवर्तन होगा।"
+msgstr "अपने वेब सर्वर को डेटा वेयरहाउस में आयात करने से आपके किसी भी अन्य %3$s डेटा में, और न ही आपके वेब सर्वर पर मौजूद किसी भी डेटा में, कोई परिवर्तन %1$sनहीं%2$s होगा।"
 
 #: admin/dw/intro.php:55
 msgid "Automating Builds"
@@ -2621,7 +2621,7 @@ msgstr "उपयोगकर्ता %s %s (%s / %s) जोड़ा गया
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "आप या तो उपरोक्त क्रेडेंशियल्स को उपयोगकर्ता को मैन्युअल रूप से ईमेल कर सकते हैं, या आप %sclick here%s से उन्हें आपके लिए ईमेल करवा सकते हैं।"
+msgstr "आप या तो उपरोक्त क्रेडेंशियल्स को उपयोगकर्ता को मैन्युअल रूप से ईमेल कर सकते हैं, या %sयहां क्लिक करके%s %s से उन्हें आपके लिए ईमेल करवा सकते हैं।"
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -4613,7 +4613,7 @@ msgstr "बेचे गए डोमेन"
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
 msgstr[0] "अगले दिन समाप्त हो रहा है"
-msgstr[1] "अगले दिन समाप्त हो रहा है"
+msgstr[1] "अगले %s दिनों में समाप्त हो रहा है"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -5673,7 +5673,7 @@ msgstr "निलंबित खाते (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "किसी भी रिपोर्ट को चलाने से पहले आपको रूपांतरण दर को %supdate कर लेना चाहिए।"
+msgstr "किसी भी रिपोर्ट को चलाने से पहले आपको %sरूपांतरण दरें अपडेट%s कर लेनी चाहिए।"
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -5922,7 +5922,7 @@ msgstr "अद्यतन समय"
 
 #: segments/index.php:207
 msgid "Segments are lists of domains that can be used to help filter and manage your %sdomain results%s."
-msgstr "सेगमेंट डोमेन की सूचियां हैं जिनका उपयोग आपके %sdomain परिणामों को फ़िल्टर और प्रबंधित करने में मदद के लिए किया जा सकता है।"
+msgstr "सेगमेंट डोमेन की सूचियां हैं जिनका उपयोग आपके %sडोमेन परिणामों%s को फ़िल्टर और प्रबंधित करने में मदद के लिए किया जा सकता है।"
 
 #: segments/index.php:209
 msgid "Segment filters will tell you which domains match with domains that are saved in %s, as well as which domains don't match, and you can easily view and export the results."
@@ -6424,7 +6424,7 @@ msgstr "सभी छूटी हुई फीस को 0 पर सेट क
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "यदि आपने पहले ही सभी नए शुल्क अपडेट कर लिए हैं, तो आपको डोमेन शुल्क सिस्टम-वाइड %supdate करना चाहिए। इसमें कुछ समय लग सकता है।"
+msgstr "यदि आपने पहले ही सभी नए शुल्क अपडेट कर लिए हैं, तो आपको %sडोमेन शुल्क सिस्टम-वाइड अपडेट%s करना चाहिए। इसमें कुछ समय लग सकता है।"
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
@@ -6436,7 +6436,7 @@ msgstr "यदि आप SSL प्रमाणपत्र शुल्क प�
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "यदि आपने पहले ही सभी नए शुल्क अपडेट कर लिए हैं, तो आपको SSL प्रमाणपत्र शुल्क सिस्टम-वाइड %supdate करना चाहिए। इसमें कुछ समय लग सकता है।"
+msgstr "यदि आपने पहले ही सभी नए शुल्क अपडेट कर लिए हैं, तो आपको %sSSL प्रमाणपत्र शुल्क सिस्टम-वाइड अपडेट%s करना चाहिए। इसमें कुछ समय लग सकता है।"
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

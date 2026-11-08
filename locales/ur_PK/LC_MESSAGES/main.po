@@ -1579,7 +1579,7 @@ msgstr "اور جب آپ اپنا ڈومین ڈیٹا ایکسپورٹ کرتے 
 
 #: admin/domain-fields/index.php:127
 msgid "It appears as though you haven't created any Custom Domain Fields yet. %sClick here%s to add one."
-msgstr "ایسا لگتا ہے کہ آپ نے ابھی تک کوئی کسٹم ڈومین فیلڈز نہیں بنائے ہیں۔ ایک شامل کرنے کے لیے %s یہاں کلک کریں۔"
+msgstr "ایسا لگتا ہے کہ آپ نے ابھی تک کوئی کسٹم ڈومین فیلڈز نہیں بنائے ہیں۔ ایک شامل کرنے کے لیے %sیہاں کلک کریں%s۔"
 
 #: admin/domain-fields/index.php:138 admin/dw/add-server.php:105
 #: admin/dw/edit-server.php:205 admin/dw/servers.php:61
@@ -2605,7 +2605,7 @@ msgstr "ایسا لگتا ہے کہ آپ نے ابھی تک کوئی بھی حس
 
 #: admin/ssl-fields/index.php:125
 msgid "%sClick here%s to add one."
-msgstr "ایک شامل کرنے کے لیے %s یہاں کلک کریں۔"
+msgstr "ایک شامل کرنے کے لیے %sیہاں کلک کریں%s۔"
 
 #: admin/users/add.php:90
 msgid "A user with that username already exists"
@@ -2621,7 +2621,7 @@ msgstr "صارف %s %s (%s / %s) شامل کیا گیا۔"
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "آپ یا تو مندرجہ بالا اسناد کو دستی طور پر صارف کو ای میل کر سکتے ہیں، یا آپ %s کو ای میل کرنے کے لیے یہاں %s کلک کر سکتے ہیں۔"
+msgstr "آپ یا تو مندرجہ بالا اسناد کو دستی طور پر صارف کو ای میل کر سکتے ہیں، یا %3$s سے ای میل کروانے کے لیے %1$sیہاں کلک%2$s کر سکتے ہیں۔"
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -3417,7 +3417,7 @@ msgstr "رجسٹرار نوٹس"
 
 #: assets/edit/registrar-account.php:468
 msgid "%sClick here%s to add a new IP Address"
-msgstr "نیا آئی پی ایڈریس شامل کرنے کے لیے %s یہاں کلک کریں۔"
+msgstr "نیا آئی پی ایڈریس شامل کرنے کے لیے %sیہاں کلک کریں%s۔"
 
 #: assets/edit/registrar-account.php:491 bulk/main/index.php:192
 #: bulk/main/index.php:731 bulk/main/index.php:2046 bulk/main/index.php:2260
@@ -5673,7 +5673,7 @@ msgstr "معطل اکاؤنٹس (%s)"
 
 #: reporting/index.php:49
 msgid "Before running any reports you should %supdate the conversion rates%s."
-msgstr "کوئی بھی رپورٹ چلانے سے پہلے آپ کو تبادلوں کی شرحوں کو%s اپ ڈیٹ کرنا چاہیے۔"
+msgstr "کوئی بھی رپورٹ چلانے سے پہلے آپ کو %sتبادلوں کی شرحوں کو اپ ڈیٹ%s کرنا چاہیے۔"
 
 #: reporting/index.php:53
 msgid "Domain Reports"
@@ -6436,7 +6436,7 @@ msgstr "اگر آپ کو SSL سرٹیفکیٹ فیس کو ٹریک کرنے کی
 
 #: _includes/layout/table-maintenance.inc.php:39
 msgid "If you've already updated all new fees, you should %supdate the SSL Certificate fees system-wide%s. This may take some time."
-msgstr "اگر آپ نے پہلے ہی تمام نئی فیسوں کو اپ ڈیٹ کر دیا ہے، تو آپ کو چاہیے کہ %SSL سرٹیفکیٹ فیس سسٹم بھر میں%s کو اپ ڈیٹ کریں۔ اس میں کچھ وقت لگ سکتا ہے۔"
+msgstr "اگر آپ نے پہلے ہی تمام نئی فیسوں کو اپ ڈیٹ کر دیا ہے، تو آپ کو چاہیے کہ %sSSL سرٹیفکیٹ فیس کو سسٹم بھر میں اپ ڈیٹ کریں%s۔ اس میں کچھ وقت لگ سکتا ہے۔"
 
 #: _includes/settings/admin-tools-main.inc.php:23
 msgid "Admin Tools"

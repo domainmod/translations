@@ -1841,7 +1841,7 @@ msgstr "బిల్డ్‌లను ఆటోమేట్ చేస్తో�
 
 #: admin/dw/intro.php:56
 msgid "If you're going to use the Data Warehouse it's recommended that you setup the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr "మీరు డేటా వేర్‌హౌస్‌ని ఉపయోగించబోతున్నట్లయితే, మీ బిల్డ్‌లను ఆటోమేట్ చేయడానికి %సిస్టమ్ క్రాన్/షెడ్యూల్డ్ జాబ్%sని సెటప్ చేయాలని సిఫార్సు చేయబడింది."
+msgstr "మీరు డేటా వేర్‌హౌస్‌ని ఉపయోగించబోతున్నట్లయితే, మీ బిల్డ్‌లను ఆటోమేట్ చేయడానికి %sసిస్టమ్ క్రాన్/షెడ్యూల్డ్ జాబ్%sని సెటప్ చేయాలని సిఫార్సు చేయబడింది."
 
 #: admin/dw/intro.php:58
 msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will timeout if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
@@ -2621,7 +2621,7 @@ msgstr "వినియోగదారు %s %s (%s / %s) జోడించబ�
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "మీరు పైన పేర్కొన్న ఆధారాలను వినియోగదారుకు మాన్యువల్‌గా ఇమెయిల్ చేయవచ్చు లేదా %s మీ కోసం ఇమెయిల్ పంపడానికి మీరు ఇక్కడ %s క్లిక్ చేయవచ్చు."
+msgstr "మీరు పైన పేర్కొన్న ఆధారాలను వినియోగదారుకు మాన్యువల్‌గా ఇమెయిల్ చేయవచ్చు లేదా %3$s మీ కోసం ఇమెయిల్ పంపడానికి %1$sఇక్కడ క్లిక్%2$s చేయవచ్చు."
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -4613,7 +4613,7 @@ msgstr "డొమైన్‌లను విక్రయించారు"
 msgid "Expiring in the next day"
 msgid_plural "Expiring in the next %s days"
 msgstr[0] "మరుసటి రోజు గడువు ముగుస్తుంది"
-msgstr[1] "మరుసటి రోజు గడువు ముగుస్తుంది"
+msgstr[1] "తదుపరి %s రోజుల్లో గడువు ముగుస్తుంది"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -6424,7 +6424,7 @@ msgstr "తప్పిపోయిన అన్ని రుసుములన�
 
 #: _includes/layout/table-maintenance.inc.php:28
 msgid "If you've already updated all new fees, you should %supdate the Domain fees system-wide%s. This may take some time."
-msgstr "మీరు ఇప్పటికే అన్ని కొత్త రుసుములను అప్‌డేట్ చేసి ఉంటే, మీరు డొమైన్ ఫీజుల సిస్టమ్-వైడ్%sని %సప్‌డేట్ చేయాలి. దీనికి కొంత సమయం పట్టవచ్చు."
+msgstr "మీరు ఇప్పటికే అన్ని కొత్త రుసుములను అప్‌డేట్ చేసి ఉంటే, మీరు %sడొమైన్ ఫీజులను సిస్టమ్-వైడ్‌గా అప్‌డేట్%s చేయాలి. దీనికి కొంత సమయం పట్టవచ్చు."
 
 #: _includes/layout/table-maintenance.inc.php:37
 msgid "Some of your SSL Certificates are missing fees. Until you enter the fees, the SSL Certificates will not be visible in DomainMOD."
