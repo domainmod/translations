@@ -848,13 +848,13 @@ msgstr "網域註冊商帳戶"
 
 #: _includes/settings/assets-registrar-fees-missing.inc.php:23
 msgid "Domain Registrar Fees Missing"
-msgstr "網域註冊商費用遺失"
+msgstr "網域註冊商費用未設定"
 
 #: _includes/settings/assets-registrar-fees-missing.inc.php:24
 #: _includes/settings/assets-ssl-provider-fees-missing.inc.php:24
 #: assets/ssl-provider-fees-missing.php:66
 msgid "Missing Fees"
-msgstr "遺失費用"
+msgstr "未設定的費用"
 
 #: _includes/settings/assets-registrar-fees.inc.php:23
 #: _includes/settings/reporting-domain-fees.inc.php:23
@@ -873,7 +873,7 @@ msgstr "SSL 提供者帳戶"
 
 #: _includes/settings/assets-ssl-provider-fees-missing.inc.php:23
 msgid "SSL Provider Fees Missing"
-msgstr "SSL 提供者費用遺失"
+msgstr "SSL 提供者費用未設定"
 
 #: _includes/settings/assets-ssl-provider-fees.inc.php:23
 #: _includes/settings/reporting-ssl-fees.inc.php:23
@@ -1861,7 +1861,7 @@ msgstr "目前支援以下 WHM 部分，但我們的最終目標是擁有可透�
 
 #: admin/dw/intro.php:68
 msgid "Domain, IP Address, Owner, User, Contact Email, Plan, Theme, Shell, Partition, Disk Limit, Disk Usage, Max Addons, Max FTP Accounts, Max Email Lists, Max Parked Domains, Max POP Accounts, Max SQL Accounts, Max Subdomains, Creation Date, Suspend Status, Suspend Reason, Suspend Time, Max Email Per Hour, Failed Email % Before Defer, Min Failed Email # Before Defer"
-msgstr "網域、IP 位址、擁有者、使用者、聯絡人電子郵件、方案、主題、Shell、分割區、磁碟限制、磁碟使用情況、最大外掛數、最大 FTP 帳戶數、最大電子郵件清單數、最大停放網域數、最大 POP 帳戶數、最大 SQL 帳戶數、最大數量子網域、建立日期、掛起狀態、掛起原因、掛起時間、每小時最大電子郵件數、延遲前失敗電子郵件百分比、延遲前最小失敗電子郵件數量"
+msgstr "網域、IP 位址、擁有者、使用者、聯絡人電子郵件、方案、主題、Shell、分割區、磁碟限制、磁碟使用情況、最大附加網域數、最大 FTP 帳戶數、最大電子郵件清單數、最大停放網域數、最大 POP 帳戶數、最大 SQL 帳戶數、最大數量子網域、建立日期、掛起狀態、掛起原因、掛起時間、每小時最大電子郵件數、延遲前失敗電子郵件百分比、延遲前最小失敗電子郵件數量"
 
 #: admin/dw/intro.php:71
 msgid "Zone File Name, Original/Primary Source of Zone Data, Admin Email, Serial #, Refresh, Retry, Expiry, Minimum TTL, Authoritative Name Server"
@@ -1869,7 +1869,7 @@ msgstr "區域檔案名稱、區域資料的原始/主要來源、管理電子�
 
 #: admin/dw/intro.php:74
 msgid "TTL, Class, Type, IP Address, CNAME, Mail Server, Mail Server Priority, TXT Data, Line # of Zone, # of Lines, RAW Data"
-msgstr "TTL、類別、類型、IP 位址、CNAME、郵件伺服器、郵件伺服器優先權、TXT 資料、區域行數、行數、原始資料"
+msgstr "TTL、類別、類型、IP 位址、CNAME、郵件伺服器、郵件伺服器優先權、TXT 資料、區域檔案行號、行數、原始資料"
 
 #: admin/dw/list-accounts.php:84
 msgid "dw_account_list"
@@ -1977,7 +1977,7 @@ msgstr "已用磁碟 (MB)"
 
 #: admin/dw/list-accounts.php:124
 msgid "Max Addons"
-msgstr "最大外掛"
+msgstr "最大附加網域數"
 
 #: admin/dw/list-accounts.php:125
 msgid "Max FTP"
@@ -2256,7 +2256,7 @@ msgstr "這將完全刪除所有佇列清單和網域，無論其狀態為何。
 
 #: admin/scheduler/index.php:53
 msgid "The Task Scheduler allows you to run various system jobs at specified times, which helps keep your %s installation up-to-date and running smoothly, as well as notifies you of important information, such as emailing you to let you know about upcoming Domain & SSL Certificate expirations."
-msgstr "任務規劃程式可讓您在指定時間執行各種系統作業，這有助於使您的 %s 安裝保持最新並順利執行，並通知您重要訊息，例如透過電子郵件向您傳送有關即將推出的網域的資訊& SSL 憑證過期。"
+msgstr "任務規劃程式可讓您在指定時間執行各種系統作業，這有助於使您的 %s 安裝保持最新並順利執行，並通知您重要訊息，例如透過電子郵件提醒您即將到期的網域與 SSL 憑證。"
 
 #: admin/scheduler/index.php:54
 msgid "In order to use the Task Scheduler you must setup a cron/scheduled job on your web server to execute the file %scron.php%s, which is located in the root folder of your %s installation."
@@ -2623,7 +2623,7 @@ msgstr "新增了使用者 %s %s (%s / %s)。"
 
 #: admin/users/add.php:167
 msgid "You can either manually email the above credentials to the user, or you can %sclick here%s to have %s email them for you."
-msgstr "您可以手動將上述憑證透過電子郵件傳送給使用者，也可以%s點選此處%s 讓 %s 透過電子郵件將其傳送給您。"
+msgstr "您可以手動將上述憑證透過電子郵件傳送給使用者，也可以%s點選此處%s，讓 %s 代您透過電子郵件傳送給該使用者。"
 
 #: admin/users/add.php:169
 msgid "Use the below form to customize the new user's account."
@@ -4322,7 +4322,7 @@ msgstr "託管計劃"
 
 #: classes/DomainMOD/DwDisplay.php:47
 msgid "cPanel Theme"
-msgstr "c 面板主題"
+msgstr "cPanel 主題"
 
 #: classes/DomainMOD/DwDisplay.php:52
 msgid "Home"
@@ -4342,7 +4342,7 @@ msgstr "清單"
 
 #: classes/DomainMOD/DwDisplay.php:60
 msgid "Addons"
-msgstr "外掛"
+msgstr "附加網域"
 
 #: classes/DomainMOD/DwDisplay.php:61
 msgid "Subdomains"
@@ -5300,7 +5300,7 @@ msgstr "在清除佇列之前，您應該檢查結果以確保一切正確。"
 
 #: queue/index.php:436
 msgid "YES, REALLY CLEAR COMPLETED ITEMS FROM THE QUEUE"
-msgstr "是的，非常清楚佇列中已完成的項目"
+msgstr "是的，確定清除佇列中已完成的項目"
 
 #: queue/index.php:444
 msgid "Completed items cleared from the queue"
@@ -6415,7 +6415,7 @@ msgstr "測試郵件已傳送！"
 
 #: assets/zero-out-domain-fees.php:107 assets/zero-out-ssl-fees.php:106
 msgid "Missing fees set to 0"
-msgstr "遺失費用設定為 0"
+msgstr "未設定的費用已設為 0"
 
 #: admin/scheduler/index.php:56
 msgid "every 10 minutes"
