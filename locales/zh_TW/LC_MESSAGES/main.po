@@ -6538,3 +6538,11 @@ msgstr "若找到相符的用戶名或電子郵件地址，系統已將重設密
 msgid "Click the button below to reset your password. Your new password will be emailed to you."
 msgstr "請點擊下方的按鈕重設密碼。您的新密碼將透過電子郵件寄送給您。"
 
+#: admin/dw/add-server.php:122 admin/dw/edit-server.php:226
+msgid "Verify SSL Certificate"
+msgstr "驗證 SSL 憑證"
+
+#: admin/dw/add-server.php:122 admin/dw/edit-server.php:226
+msgid "Leave this on unless your server uses a self-signed certificate and you connect over a network you trust. When it's on, the server's SSL certificate must be valid for the host name you entered."
+msgstr "除非您的伺服器使用自簽名憑證，且您是透過可信賴的網路進行連線，否則請保持此選項啟用。當此選項啟用時，伺服器的 SSL 憑證必須針對您輸入的主機名稱有效。"
+
