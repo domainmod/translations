@@ -2481,7 +2481,7 @@ msgstr "Tryb debugowania"
 
 #: admin/settings/index.php:186
 msgid "Unless you're having problems with %s and support has asked you to turn this on, you should leave it turned off."
-msgstr "Jeżeli nie masz problemów z %s i dział pomocy nie poprosił Cię o włączenie debugowania, pozostaw tę opcję wyłączoną."
+msgstr "Pozostaw tę opcję wyłączoną, chyba że masz problemy z %s i dział pomocy poprosił Cię o włączenie debugowania."
 
 #: admin/settings/index.php:188
 msgid "Local PHP Log"
