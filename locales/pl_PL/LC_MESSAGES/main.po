@@ -1597,7 +1597,7 @@ msgstr "Pola DB"
 
 #: admin/dw/add-server.php:77
 msgid "Server %s (%s) added"
-msgstr "Serwer %s (%s) dodany"
+msgstr "Dodano serwer %s (%s)"
 
 #: admin/dw/add-server.php:84 admin/dw/edit-server.php:64
 msgid "Enter a display name for the server"
@@ -1744,7 +1744,7 @@ msgstr "W hurtowni danych nie skonfigurowano jeszcze żadnych serwerów."
 #: assets/ssl-provider-fees.php:156 assets/ssl-providers.php:230
 #: assets/ssl-types.php:197 segments/index.php:222
 msgid "Click here to add one"
-msgstr "Kliknij tutaj, aby dodać"
+msgstr "Kliknij tutaj, aby dodać nową pozycję"
 
 #: admin/dw/dw.php:276 admin/dw/dw.php:395
 msgid "Successful"
@@ -1793,7 +1793,7 @@ msgstr "Pełna aktualizacja"
 #: queue/index.php:723 queue/index.php:751 queue/index.php:771
 #: ssl/index.php:427 ssl/index.php:1438
 msgid "Pending"
-msgstr "W trakcie"
+msgstr "Oczekuje"
 
 #: admin/dw/dw.php:534
 msgid "Data Warehouse Totals"
@@ -1817,7 +1817,7 @@ msgstr "Zaktualizowano serwer %s (%s)"
 
 #: admin/dw/edit-server.php:188
 msgid "Server %s (%s) deleted"
-msgstr "Serwer %s (%s) usunięty"
+msgstr "Usunięto serwer %s (%s)"
 
 #: admin/dw/intro.php:47
 msgid "Proceed to the Data Warehouse"
@@ -4403,7 +4403,7 @@ msgstr "Wygaśnięcie"
 
 #: classes/DomainMOD/Email.php:114
 msgid "Expiration Email Sent"
-msgstr "Wysłano powiadomienie e-mail o wygaśnięciu"
+msgstr "Wysłano e-mail z powiadomieniem o zbliżającym się wygaśnięciu"
 
 #: classes/DomainMOD/Email.php:235
 msgid "No Upcoming Expirations"
@@ -4598,7 +4598,7 @@ msgid_plural "Expiring in the next %s days"
 msgstr[0] "Wygasa w ciągu najbliższego dnia"
 msgstr[1] "Wygasają w ciągu najbliższych %s dni"
 msgstr[2] "Wygasają w ciągu najbliższych %s dni"
-msgstr[3] "Wygaśnięcie w następnym dniu %s"
+msgstr[3] "Wygasa w ciągu najbliższych %s dnia"
 
 #: dashboard/index.php:209 queue/index.php:122 queue/index.php:221
 #: queue/index.php:577 queue/index.php:697
@@ -6426,7 +6426,7 @@ msgstr "co 10 minut"
 
 #: admin/scheduler/index.php:57
 msgid "This file should be executed %s, and once it's setup the Task Scheduler will be live."
-msgstr "Ten plik powinien być uruchamiany %s. Po jego skonfigurowaniu harmonogram zadań zacznie działać."
+msgstr "Ten plik należy uruchamiać %s. Po skonfigurowaniu cyklicznego uruchamiania harmonogram zadań będzie aktywny."
 
 #: admin/tools/index.php:52
 msgid "Send Test Email"
@@ -6476,19 +6476,19 @@ msgstr "Ktoś poprosił o zresetowanie Twojego hasła. Aby je zresetować, skorz
 #: _includes/email/send-reset-link.inc.php:79
 #: _includes/email/send-reset-link.inc.php:107
 msgid "If you didn't ask for this, you can ignore this email. Your password won't change unless the link is used."
-msgstr "Jeśli nie prosiłeś o tę wiadomość, możesz ją zignorować. Twoje hasło nie ulegnie zmianie, dopóki nie klikniesz w ten link."
+msgstr "Jeśli nie prosiłeś o zresetowanie hasła, możesz zignorować tę wiadomość. Hasło nie zostanie zmienione, jeśli link nie zostanie użyty."
 
 #: admin/info/index.php:63
 msgid "Encrypted (certificate checked)"
-msgstr "Zaszyfrowane (sprawdzono certyfikat)"
+msgstr "Połączenie szyfrowane (zweryfikowany certyfikat)"
 
 #: admin/info/index.php:65
 msgid "Encrypted (certificate not checked)"
-msgstr "Zaszyfrowane (certyfikat nie został sprawdzony)"
+msgstr "Połączenie szyfrowane (certyfikat niezweryfikowany)"
 
 #: admin/info/index.php:67
 msgid "Not encrypted"
-msgstr "Niezaszyfrowane"
+msgstr "Połączenie nieszyfrowane"
 
 #: admin/info/index.php:72
 msgid "Database Connection"
@@ -6496,7 +6496,7 @@ msgstr "Połączenie z bazą danych"
 
 #: admin/info/index.php:74
 msgid "This connection isn't protected from an attacker on the network. If your database is on a different server, add %s to config.inc.php to encrypt the connection and check the server's certificate."
-msgstr "To połączenie nie jest zabezpieczone przed atakiem ze strony osoby z sieci. Jeśli baza danych znajduje się na innym serwerze, dodaj %s do pliku config.inc.php, aby zaszyfrować połączenie i sprawdzić certyfikat serwera."
+msgstr "To połączenie nie jest chronione przed atakami w sieci. Jeśli baza danych znajduje się na innym serwerze, dodaj %s do pliku config.inc.php, aby szyfrować połączenie i weryfikować certyfikat serwera."
 
 #: admin/users/edit.php:454
 msgid "To change your own password, use %sChange Password%s under Settings."
@@ -6508,7 +6508,7 @@ msgstr "Aby zmienić swoje hasło, skorzystaj z opcji „Zmień hasło” w sekc
 
 #: bulk/cf/step-two/index.php:265
 msgid "The following domains had their %s field updated"
-msgstr "W poniższych domenach zaktualizowano pole %s"
+msgstr "Zaktualizowano pole %s dla następujących domen"
 
 #: bulk/main/index.php:403 bulk/main/index.php:2169
 msgid "%s Year"
@@ -6521,22 +6521,22 @@ msgstr[3] "%s roku"
 #: bulk/main/index.php:1914
 msgid "The following domains were renewed for %s year"
 msgid_plural "The following domains were renewed for %s years"
-msgstr[0] "Następujące domeny zostały przedłużone na %s rok"
-msgstr[1] "Następujące domeny zostały przedłużone na okres %s lat"
-msgstr[2] "Następujące domeny zostały przedłużone na okres %s lat"
-msgstr[3] "Następujące domeny zostały przedłużone na okres %s roku"
+msgstr[0] "Następujące domeny przedłużono na %s rok"
+msgstr[1] "Następujące domeny przedłużono na %s lata"
+msgstr[2] "Następujące domeny przedłużono na %s lat"
+msgstr[3] "Następujące domeny przedłużono na %s roku"
 
 #: bulk/main/index.php:1916
 msgid "The following domains were fully renewed for %s year"
 msgid_plural "The following domains were fully renewed for %s years"
-msgstr[0] "Następujące domeny zostały w pełni przedłużone na okres %s roku"
-msgstr[1] "Następujące domeny zostały w pełni przedłużone na okres %s lat"
-msgstr[2] "Następujące domeny zostały w pełni przedłużone na okres %s lat"
-msgstr[3] "Następujące domeny zostały w pełni przedłużone na okres %s roku"
+msgstr[0] "Następujące domeny w pełni przedłużono na %s rok"
+msgstr[1] "Następujące domeny w pełni przedłużono na %s lata"
+msgstr[2] "Następujące domeny w pełni przedłużono na %s lat"
+msgstr[3] "Następujące domeny w pełni przedłużono na %s roku"
 
 #: reset.php:82 reset.php:110
 msgid "This password reset link is invalid or has expired"
-msgstr "Ten link do resetowania hasła jest nieprawidłowy lub stracił ważność"
+msgstr "Link do resetowania hasła jest nieprawidłowy lub utracił ważność"
 
 #: reset.php:123
 msgid "Your new password has been emailed to you"
@@ -6544,7 +6544,7 @@ msgstr "Twoje nowe hasło zostało wysłane na Twój adres e-mail"
 
 #: reset.php:147
 msgid "If there's a matching username or email address, a link to reset your password has been emailed to it"
-msgstr "Jeśli znaleziono pasującą nazwę użytkownika lub adres e-mail, na ten adres wysłano wiadomość e-mail zawierającą link do zresetowania hasła"
+msgstr "Jeśli podana nazwa użytkownika lub adres e-mail pasują do istniejącego konta, wysłano link do resetowania hasła na przypisany do niego adres e-mail"
 
 #: reset.php:209
 msgid "Click the button below to reset your password. Your new password will be emailed to you."
@@ -6552,9 +6552,9 @@ msgstr "Kliknij przycisk poniżej, aby zresetować hasło. Nowe hasło zostanie 
 
 #: admin/dw/add-server.php:122 admin/dw/edit-server.php:226
 msgid "Verify SSL Certificate"
-msgstr "Sprawdź certyfikat SSL"
+msgstr "Weryfikuj certyfikat SSL"
 
 #: admin/dw/add-server.php:122 admin/dw/edit-server.php:226
 msgid "Leave this on unless your server uses a self-signed certificate and you connect over a network you trust. When it's on, the server's SSL certificate must be valid for the host name you entered."
-msgstr "Pozostaw tę opcję włączoną, chyba że serwer korzysta z certyfikatu z podpisem własnym, a połączenie odbywa się za pośrednictwem sieci, której ufasz. Gdy opcja ta jest włączona, certyfikat SSL serwera musi być ważny dla podanej nazwy hosta."
+msgstr "Pozostaw tę opcję włączoną, chyba że serwer używa certyfikatu z podpisem własnym i łączysz się z nim przez zaufaną sieć. Gdy opcja jest włączona, certyfikat SSL serwera musi być ważny dla podanej nazwy hosta."
 
