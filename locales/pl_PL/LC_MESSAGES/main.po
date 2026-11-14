@@ -5516,15 +5516,15 @@ msgstr "Twoje hasło zostało zresetowane – znajdziesz je poniżej. Przy nast�
 
 #: _includes/settings/queue-add-rdap.inc.php:23 queue/index.php:555 queue/intro.php:88
 msgid "Add Domains Without an API"
-msgstr "Dodawanie domen bez korzystania z API"
+msgstr "Dodaj domeny bez API"
 
 #: _includes/settings/queue-edit.inc.php:23
 msgid "Fix and Import Domain"
-msgstr "Popraw i zaimportuj domenę"
+msgstr "Popraw dane i zaimportuj domenę"
 
 #: _includes/settings/queue-edit.inc.php:24 queue/index.php:848
 msgid "Fix and Import"
-msgstr "Popraw i zaimportuj"
+msgstr "Popraw dane i zaimportuj"
 
 #: _includes/update.inc.php:97 _includes/update.inc.php:98
 msgid "Please log out and log back in, and if the problem persists please contact your %s administrator."
@@ -5536,7 +5536,7 @@ msgstr "Ten proces tworzy kopię zapasową danych zapisanych w bazie danych. Je�
 
 #: admin/backup/index.php:138
 msgid "After restoring a database you'll be automatically logged out, at which point you'll be able to log in using the accounts in the data you restored."
-msgstr "Po przywróceniu bazy danych nastąpi automatyczne wylogowanie; po tym będziesz mógł zalogować się, korzystając z kont zawartych w przywróconych danych."
+msgstr "Po przywróceniu bazy danych nastąpi automatyczne wylogowanie. Następnie będzie można zalogować się na konta użytkowników zapisane w przywróconej bazie."
 
 #: admin/domain-fields/add.php:162 admin/ssl-fields/add.php:162
 msgid "Choose the Data Type"
@@ -5564,27 +5564,27 @@ msgstr "W tej chwili nie masz skonfigurowanych żadnych serwerów w swojej hurto
 
 #: admin/dw/intro.php:56
 msgid "If you're going to use the Data Warehouse it's recommended that you set up the %ssystem cron/scheduled job%s in order to automate your builds."
-msgstr "Jeśli zamierzasz korzystać z hurtowni danych, zaleca się skonfigurowanie %szadania cron/zaplanowanego w systemie%s w celu zautomatyzowania procesów kompilacji."
+msgstr "Jeśli zamierzasz korzystać z hurtowni danych, zalecamy skonfigurowanie %ssystemowego zadania cron (zadania zaplanowanego)%s, aby automatycznie aktualizować jej dane."
 
 #: admin/dw/intro.php:58
 msgid "There's a lot of work being done in the background during a build, and more often than not a web browser will time out if you try to build through the software instead of using the cron job, leading to incomplete and missing information in your Data Warehouse."
-msgstr "Podczas kompilacji w tle odbywa się wiele operacji i najczęściej przeglądarka internetowa wygaśnie, jeśli spróbujesz przeprowadzić kompilację za pomocą oprogramowania zamiast zadania cron, co prowadzi do niekompletnych danych i braków w hurtowni danych."
+msgstr "Aktualizacja hurtowni danych wymaga wielu operacji w tle. Jeśli uruchomisz ją przez przeglądarkę zamiast zadania cron, połączenie może przekroczyć limit czasu, przez co w hurtowni danych mogą zabraknąć części informacji."
 
 #: admin/dw/intro.php:60
 msgid "After you've set up the cron job you will be able to manage the Data Warehouse scheduling through %s's Task Scheduler"
-msgstr "Po skonfigurowaniu zadania cron będziesz mógł zarządzać harmonogramem pracy hurtowni danych za pomocą Harmonogramu zadań w systemie %s"
+msgstr "Po skonfigurowaniu zadania cron będzie można zarządzać harmonogramem aktualizacji hurtowni danych za pomocą Harmonogramu zadań w %s"
 
 #: admin/scheduler/index.php:54
 msgid "In order to use the Task Scheduler you must set up a cron/scheduled job on your web server to execute the file %scron.php%s, which is located in the root folder of your %s installation."
-msgstr "Aby korzystać z Harmonogramu zadań, należy skonfigurować zadanie cron/zaplanowane na serwerze WWW w celu uruchomienia pliku %scron.php%s, który znajduje się w katalogu głównym instalacji %s."
+msgstr "Aby korzystać z Harmonogramu zadań, należy skonfigurować na serwerze zadanie cron uruchamiające plik %scron.php%s z katalogu głównego instalacji %s."
 
 #: admin/scheduler/index.php:57
 msgid "This file should be executed %s, and once it's set up the Task Scheduler will be live."
-msgstr "Ten plik należy uruchamiać %s, a po jego skonfigurowaniu Harmonogram zadań zacznie działać."
+msgstr "Plik należy uruchamiać %s. Po skonfigurowaniu zadania cron Harmonogram zadań będzie aktywny."
 
 #: admin/scheduler/index.php:62
 msgid "To stop anyone else from running cron.php, you can give it a key in config.inc.php. See the %sUser Guide%s for details."
-msgstr "Aby uniemożliwić innym użytkownikom uruchamianie pliku cron.php, można przypisać mu klucz w pliku config.inc.php. Szczegółowe informacje znajdziesz w %sPodręczniku użytkownika%s."
+msgstr "Aby uniemożliwić osobom nieuprawnionym uruchamianie pliku cron.php, możesz ustawić klucz w config.inc.php. Szczegóły znajdziesz w %sPodręczniku użytkownika%s."
 
 #: admin/scheduler/index.php:93
 msgid "Run Time"
@@ -5592,7 +5592,7 @@ msgstr "Godzina uruchomienia"
 
 #: admin/scheduler/index.php:125
 msgid "The time is saved in your own time zone, which you can change in your user settings."
-msgstr "Czas jest podawany w Twojej strefie czasowej, którą możesz zmienić w ustawieniach użytkownika."
+msgstr "Godzina jest zapisywana zgodnie z Twoją strefą czasową. Możesz ją zmienić w ustawieniach użytkownika."
 
 #: admin/scheduler/run.php:69 admin/scheduler/update.php:51
 msgid "That task is already running. Please try again once it finishes."
@@ -5612,7 +5612,7 @@ msgstr "To konto dostawcy usług SSL już nie istnieje."
 
 #: assets/registrar-fees.php:148
 msgid "You have domains with %s that use this TLD, however there are no fees associated with it yet. You should add this fee as soon as possible."
-msgstr "Posiadasz domeny z %s, które korzystają z tego TLD, jednak nie są z tym jeszcze związane żadne opłaty. Powinieneś jak najszybciej dodać tę opłatę."
+msgstr "Masz domeny z rozszerzeniem TLD %s, ale nie przypisano jeszcze do niego opłat. Dodaj odpowiednią opłatę jak najszybciej."
 
 #: bulk/cf/step-one/index.php:70 bulk/cf/step-two/index.php:261 bulk/index.php:79 bulk/main/index.php:1916
 msgid "The Bulk Updater allows you to add or modify multiple domains at the same time, whether it's a couple dozen or a couple thousand, all with a few clicks."
@@ -5624,7 +5624,7 @@ msgstr "Wybrane przez Ciebie konto rejestratora już nie istnieje. Wybierz inne.
 
 #: classes/DomainMOD/Csrf.php:70
 msgid "The upload is larger than this server allows."
-msgstr "Plik do przesłania jest większy niż dopuszcza ten serwer."
+msgstr "Przesyłany plik przekracza limit rozmiaru ustawiony na serwerze."
 
 #: classes/DomainMOD/Csrf.php:74
 msgid "Your request couldn't be verified. Please try again."
@@ -5644,15 +5644,15 @@ msgstr "Domena nie została znaleziona w RDAP"
 
 #: classes/DomainMOD/DomainQueue.php:1009
 msgid "Will retry: the RDAP server is limiting requests"
-msgstr "Próba ponowna: serwer RDAP ogranicza liczbę żądań"
+msgstr "Ponowna próba: serwer RDAP ogranicza liczbę żądań"
 
 #: classes/DomainMOD/DomainQueue.php:1011
 msgid "Will retry: the RDAP lookup failed"
-msgstr "Próba ponowna: nie udało się wykonać wyszukiwania w RDAP"
+msgstr "Ponowna próba: wyszukiwanie RDAP nie powiodło się"
 
 #: classes/DomainMOD/DomainQueue.php:1013
 msgid "Will retry: another Domain Queue run was busy"
-msgstr "Próba ponowna: inny przebieg kolejki domen był w toku"
+msgstr "Ponowna próba: inne zadanie kolejki domen było zajęte"
 
 #: classes/DomainMOD/DomainQueue.php:1015
 msgid "Neither RDAP nor WHOIS is available for .%s domains"
@@ -5672,11 +5672,11 @@ msgstr "Nie udało się nawiązać połączenia z serwerem WHOIS (być może Tw�
 
 #: classes/DomainMOD/DomainQueue.php:1023
 msgid "Will retry: the WHOIS server is limiting requests"
-msgstr "Próba ponowna: serwer WHOIS ogranicza liczbę żądań"
+msgstr "Ponowna próba: serwer WHOIS ogranicza liczbę żądań"
 
 #: classes/DomainMOD/DomainQueue.php:1025
 msgid "Will retry: the WHOIS lookup failed"
-msgstr "Próba zostanie powtórzona: wyszukiwanie w bazie WHOIS nie powiodło się"
+msgstr "Ponowna próba: wyszukiwanie WHOIS nie powiodło się"
 
 #: classes/DomainMOD/DomainQueue.php:1027
 msgid "RDAP lookup failed"
@@ -5708,11 +5708,11 @@ msgstr "Domena %s została zaktualizowana za pomocą interfejsu API Twojego reje
 
 #: classes/DomainMOD/DomainRefresh.php:166
 msgid "Domain %s refreshed using RDAP."
-msgstr "Domena %s została zaktualizowana za pomocą protokołu RDAP."
+msgstr "Dane domeny %s zostały odświeżone za pomocą RDAP."
 
 #: classes/DomainMOD/DomainRefresh.php:168
 msgid "Domain %s refreshed using WHOIS."
-msgstr "Dane domeny %s zostały zaktualizowane na podstawie informacji z serwisu WHOIS."
+msgstr "Dane domeny %s zostały odświeżone za pomocą WHOIS."
 
 #: classes/DomainMOD/DomainRefresh.php:233
 msgid "Please wait %d second before refreshing this domain again."
@@ -5836,7 +5836,7 @@ msgstr "Nie wprowadzono żadnych zmian."
 
 #: classes/DomainMOD/DomainRefresh.php:516
 msgid "The domain's total cost was recalculated for the new WHOIS privacy setting."
-msgstr "Całkowity koszt domeny został ponownie obliczony z uwzględnieniem nowych ustawień prywatności w bazie WHOIS."
+msgstr "Łączny koszt domeny został przeliczony po zmianie ustawienia ochrony prywatności WHOIS."
 
 #: classes/DomainMOD/DomainRefresh.php:555
 msgid "The domain couldn't be updated. Please try again."
@@ -5916,7 +5916,7 @@ msgstr "Jeśli jesteś programistą i znalazłeś błąd, który możesz wskaza�
 
 #: feedback/index.php:53
 msgid "The Support Portal also has a project Roadmap, built automatically from what users have submitted and where each item stands (Planned, In Progress, Completed, and so on), so you can see how development is progressing."
-msgstr "Portal pomocy technicznej zawiera również plan realizacji projektu, generowany automatycznie na podstawie zgłoszeń użytkowników oraz statusu poszczególnych pozycji (planowane, w trakcie realizacji, zakończone itp.), dzięki czemu można śledzić postępy prac rozwojowych."
+msgstr "Portal pomocy technicznej zawiera także plan rozwoju projektu, tworzony automatycznie na podstawie zgłoszeń użytkowników i ich statusów (planowane, w trakcie realizacji, ukończone itd.). Dzięki temu możesz śledzić postępy prac."
 
 #: feedback/index.php:55
 msgid "So what are you waiting for? Speak your mind or check out the Roadmap below!"
@@ -5980,7 +5980,7 @@ msgstr "Wybrany adres IP już nie istnieje. Wybierz inny."
 
 #: queue/edit/index.php:190
 msgid "The web host you chose no longer exists. Please choose another one."
-msgstr "Wybrany przez Ciebie dostawca usług hostingowych już nie istnieje. Wybierz innego."
+msgstr "Wybrany dostawca hostingu już nie istnieje. Wybierz innego."
 
 #: queue/edit/index.php:375
 msgid "Domain %s imported"
@@ -6008,7 +6008,7 @@ msgstr "Powód: %s"
 
 #: queue/edit/index.php:472
 msgid "Fill in its details below and it will be imported, marked as edited manually."
-msgstr "Wprowadź poniżej odpowiednie dane, a zostaną one zaimportowane i oznaczone jako edytowane ręcznie."
+msgstr "Uzupełnij dane domeny poniżej. Zostanie ona zaimportowana i oznaczona jako edytowana ręcznie."
 
 #: queue/edit/index.php:710
 msgid "Import Domain"
@@ -6016,11 +6016,11 @@ msgstr "Importuj domenę"
 
 #: queue/index.php:217 queue/index.php:722
 msgid "Imported (Edited Manually)"
-msgstr "Zaimportowane (edytowane ręcznie)"
+msgstr "Zaimportowano (edytowano ręcznie)"
 
 #: queue/index.php:241 queue/index.php:744
 msgid "Not resolved"
-msgstr "Nie udało się ustalić"
+msgstr "Nie ustalono"
 
 #: queue/index.php:241 queue/index.php:744
 msgid "To be found during lookup"
@@ -6032,7 +6032,7 @@ msgstr "Kolejka domen automatycznie importuje Twoje domeny wraz z ich danymi. Je
 
 #: queue/index.php:552
 msgid "For more information, please see the %sDomain Queue information page%s"
-msgstr "Więcej informacji można znaleźć na %sstronie informacyjnej poświęconej kolejce domen%s"
+msgstr "Więcej informacji znajdziesz na %sstronie informacyjnej o kolejce domen%s"
 
 #: queue/index.php:554 queue/intro.php:87
 msgid "Add Domains Using an API"
@@ -6040,7 +6040,7 @@ msgstr "Dodawanie domen za pomocą interfejsu API"
 
 #: queue/intro.php:53
 msgid "The Domain Queue imports the details of your domains, such as their expiry dates and DNS servers, and adds them to your main %s database along with your domains. There are two ways to use it."
-msgstr "Narzędzie „Domain Queue” importuje dane dotyczące Twoich domen, takie jak daty wygaśnięcia i serwery DNS, a następnie dodaje je do głównej bazy danych %s wraz z samymi domenami. Istnieją dwa sposoby korzystania z tego narzędzia."
+msgstr "Kolejka domen pobiera informacje o domenach, takie jak daty wygaśnięcia i serwery DNS, a następnie importuje domeny wraz z tymi danymi do głównej bazy %s. Z kolejki można korzystać na dwa sposoby."
 
 #: queue/intro.php:54
 msgid "If %s supports your registrar's API, choose the registrar account and supply a list of domains, and the rest of the work is done for you. Depending on the registrar, you may not even have to supply the list of domains."
@@ -6048,19 +6048,19 @@ msgstr "Jeśli %s obsługuje interfejs API Twojego rejestratora, wybierz konto u
 
 #: queue/intro.php:55
 msgid "If your registrar isn't supported, paste a list of your domains and their details are looked up using RDAP, the public replacement for WHOIS, or WHOIS itself for domains RDAP doesn't cover. WHOIS privacy and auto renewal are set to No, since neither one includes them."
-msgstr "Jeśli Twój rejestrator nie jest obsługiwany, wklej listę swoich domen, a ich dane zostaną wyszukane za pomocą RDAP – publicznego zamiennika WHOIS – lub samego WHOIS w przypadku domen nieobjętych przez RDAP. Opcje prywatności WHOIS i automatycznego odnawiania są ustawione na „Nie”, ponieważ żaden z tych systemów ich nie obsługuje."
+msgstr "Jeśli Twój rejestrator nie jest obsługiwany, wklej listę domen. Ich dane zostaną sprawdzone przez RDAP (następcę WHOIS) lub przez WHOIS, jeśli RDAP nie obsługuje danej domeny. Ochrona prywatności WHOIS i automatyczne odnawianie zostaną ustawione na „Nie”, ponieważ te informacje nie są dostępne w RDAP ani WHOIS."
 
 #: queue/intro.php:84
 msgid "In order to use the Domain Queue you must set up the cron job that comes with %s."
-msgstr "Aby korzystać z funkcji „Domain Queue”, należy skonfigurować zadanie cron dostarczane wraz z %s."
+msgstr "Aby korzystać z kolejki domen, musisz skonfigurować zadanie cron dostarczane z %s."
 
 #: queue/intro.php:85
 msgid "For more information, please see the %sUser Guide%s."
-msgstr "Więcej informacji można znaleźć w %sinstrukcji obsługi%s."
+msgstr "Więcej informacji znajdziesz w %sPodręczniku użytkownika%s."
 
 #: reporting/dw/potential-problems.php:245
 msgid "The Data Warehouse hasn't been built yet, so there's nothing to report."
-msgstr "Magazyn danych nie został jeszcze zbudowany, więc nie ma o czym informować."
+msgstr "Hurtownia danych nie została jeszcze zaktualizowana, dlatego nie ma danych do raportu."
 
 #: segments/edit.php:132 segments/edit.php:255 segments/index.php:61
 msgid "That segment no longer exists."
@@ -6068,7 +6068,7 @@ msgstr "Ten segment już nie istnieje."
 
 #: settings/profile/index.php:110
 msgid "Your settings couldn't be found, so your profile wasn't updated."
-msgstr "Nie udało się znaleźć Twoich ustawień, więc Twój profil nie został zaktualizowany."
+msgstr "Nie znaleziono Twoich ustawień, dlatego profil nie został zaktualizowany."
 
 #: ssl/add.php:109 ssl/edit.php:133
 msgid "The domain you chose no longer exists. Please choose another one."
@@ -6088,7 +6088,7 @@ msgstr "Ten skrypt można uruchomić wyłącznie z wiersza poleceń. Aby przepro
 
 #: queue/add/rdap.php:158
 msgid "Neither RDAP nor WHOIS includes a domain's WHOIS privacy or auto renewal status, so both will be set to No. You can update them afterwards using the Bulk Updater."
-msgstr "Ani RDAP, ani WHOIS nie uwzględniają statusu ochrony prywatności WHOIS ani automatycznego odnawiania domeny, więc obie opcje zostaną ustawione na „Nie”. Można je później zaktualizować za pomocą narzędzia Bulk Updater."
+msgstr "RDAP ani WHOIS nie udostępniają informacji o ochronie prywatności WHOIS i automatycznym odnawianiu domeny. Obie opcje zostaną ustawione na „Nie”. Możesz je później zmienić za pomocą narzędzia Bulk Updater."
 
 #: queue/add/rdap.php:155
 msgid "Paste a list of domains, and %s will look up each one for you. It uses RDAP, the public replacement for WHOIS, or WHOIS itself for domains RDAP doesn't cover. It fills in each domain's expiry date and DNS servers and works out which registrar it's at, so you don't need to choose a registrar or enter any API details. A registrar that isn't in %s yet is added for you. Each domain goes into your account at that registrar if you have exactly one, or otherwise into a general account named \"RDAP Import\" that's created the first time and used for later imports."
